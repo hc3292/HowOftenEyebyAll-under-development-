@@ -81,12 +81,6 @@ renv::restore()
 
 Full site instructions: [template_docs/site-participant-guide.md](template_docs/site-participant-guide.md).
 
-## Study designer / coordinator
-
-- Designer guide: [template_docs/study-designer-guide.md](template_docs/study-designer-guide.md)
-- Coordinator guide: [template_docs/study-coordinator-guide.md](template_docs/study-coordinator-guide.md)
-- Configuration reference: [template_docs/configuration-reference.md](template_docs/configuration-reference.md)
-
 ## Sharing results
 
 `ShareResults.R` calls `Strategus::zipResults()` on the site results folder, then uploads via `OhdsiSharing::sftpUploadFile()`. Only aggregate CSV outputs are packaged. Confirm local governance approval before upload.
