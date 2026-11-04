@@ -44,6 +44,8 @@ Study calendar window in the analysis specification: **2015-01-01** to **2024-12
 | `Documents/` | Protocol materials |
 | `renv.lock` | Reproducible R package environment |
 
+Exposure and outcome cohorts are built with Capr under `scriptsForStudyDesigner/` (ophthalmic ingredient exposures and concept-based outcome cohorts). The Strategus specification is created with `CreateStrategusAnalysisSpecifications.R` and saved to `inst/analysisSpecifications.json`.
+
 ## Prerequisites
 
 Follow the OHDSI [HADES R setup guide](https://ohdsi.github.io/Hades/rSetup.html), then see [template_docs/prerequisites.md](template_docs/prerequisites.md).
@@ -84,8 +86,6 @@ Full site instructions: [template_docs/site-participant-guide.md](template_docs/
 - Designer guide: [template_docs/study-designer-guide.md](template_docs/study-designer-guide.md)
 - Coordinator guide: [template_docs/study-coordinator-guide.md](template_docs/study-coordinator-guide.md)
 - Configuration reference: [template_docs/configuration-reference.md](template_docs/configuration-reference.md)
-
-Exposure and outcome cohorts are built with Capr under `scriptsForStudyDesigner/` (ophthalmic ingredient exposures and concept-based outcome cohorts). The Strategus specification is created with `CreateStrategusAnalysisSpecifications.R` and saved to `inst/analysisSpecifications.json`.
 
 ## Sharing results
 
