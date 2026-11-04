@@ -1,0 +1,4066 @@
+cohort_id,cohort_name
+2001,meningococcal polysaccharide vaccine group W-135
+2002,neostigmine
+2003,omidenepag
+2004,hyaluronate
+2005,latanoprostene bunod
+2006,netarsudil
+2007,sodium ascorbate
+2008,menthol
+2009,colistin
+2010,hypromellose
+2011,timolol
+2012,calamine
+2013,tobramycin
+2014,tretinoin
+2015,emedastine
+2016,triamcinolone
+2017,methenamine
+2018,travoprost
+2019,bimatoprost
+2020,trifluridine
+2021,methylcellulose
+2022,methylene blue
+2023,metipranolol
+2024,tropicamide
+2025,levocabastine
+2026,miconazole
+2027,vidarabine
+2028,magnesium carbonate
+2029,mineral oil
+2030,medrysone
+2031,mercuric oxide
+2032,nepafenac
+2033,cyclopentolate
+2034,cysteamine
+2035,zinc oxide
+2036,glutamate
+2037,atropine
+2038,naphazoline
+2039,bacitracin
+2040,natamycin
+2041,brimonidine
+2042,isopropyl unoprostone
+2043,olopatadine
+2044,neomycin
+2045,octoxynol
+2046,benzalkonium
+2047,dimethicone
+2048,apraclonidine
+2049,nitrofurazone
+2050,betamethasone
+2051,ofloxacin
+2052,oxymetazoline
+2053,oxytetracycline
+2054,propylene glycol
+2055,proparacaine
+2056,acetic acid
+2057,boric acid
+2058,levobunolol
+2059,pheniramine
+2060,azelastine
+2061,benoxinate
+2062,brinzolamide
+2063,camphor
+2064,pemirolast
+2065,sodium bicarbonate
+2066,sodium carbonate
+2067,sodium phosphate
+2068,carbachol
+2069,econazole
+2070,tetrahydrozoline
+2071,phosphoric acid
+2072,tyloxapol
+2073,epinastine
+2074,xylometazoline
+2075,pilocarpine
+2076,polyethylene glycol 300
+2077,polyethylene glycol 400
+2078,polyethylene glycols
+2079,polymyxin B
+2080,polysorbate 80
+2081,polyvinyl alcohol
+2082,carboxymethylcellulose
+2083,povidone
+2084,ciclopirox
+2085,carteolol
+2086,citric acid
+2087,tacrolimus
+2088,castor oil
+2089,antazoline
+2090,latanoprost
+2091,ethanol
+2092,fluorometholone
+2093,formic acid
+2094,amlexanox
+2095,ecothiopate
+2096,witch hazel
+2097,aloe extract
+2098,glycerin
+2099,glycine
+2100,gramicidin
+2101,lotilaner
+2102,pigment blue 16
+2103,salicylic acid
+2104,scopolamine
+2105,allantoin
+2106,silver nitrate
+2107,simethicone
+2108,lodoxamide
+2109,loteprednol etabonate
+2110,sodium chloride
+2111,sorbitol
+2112,hydrocortisone
+2113,rimexolone
+2114,sodium citrate
+2115,"mineral oil, light"
+2116,dorzolamide
+2117,ketotifen
+2118,polyethylene glycol 3350
+2119,dexpanthenol
+2120,cetylpyridinium
+2121,lidocaine
+2122,dipivefrin
+2123,chloramphenicol
+2124,"sodium phosphate, monobasic"
+2125,"sodium phosphate, dibasic"
+2126,loteprednol
+2127,mannitol
+2128,fluorescein
+2129,heavy mineral oil
+2130,clobetasol
+2131,clotrimazole
+2132,guar gum
+2133,cocaine
+2134,antipyrine
+2135,sulfacetamide
+2136,sulfanilamide
+2137,sulfathiazole
+2138,suprofen
+2139,tetracaine
+2140,homatropine
+2141,nedocromil
+2142,diclofenac
+2143,diphenhydramine
+2144,phenylephrine
+2145,ketorolac
+2146,acetylcysteine
+2147,bromfenac
+2148,ephedrine
+2149,cetirizine
+2150,cromolyn
+2151,flurbiprofen
+2152,pyrilamine
+2153,indomethacin
+2154,choline
+2155,perfluorohexyloctane
+2156,racepinephrine
+2157,Euphrasia officinalis preparation
+2158,vitamin B12
+2159,adenosine
+2160,dextran 70
+2161,betaxolol
+2162,phentolamine
+2163,epinephrine
+2164,ubidecarenone
+2165,dextran
+2166,vitamin B6
+2167,cenegermin
+2168,guanethidine
+2169,heparin
+2170,interferon alfa-2b
+2171,thioctate
+2172,folate
+2173,mitomycin
+2174,Echinacea angustifolia extract
+2175,chondroitin sulfates
+2176,bevacizumab
+2177,clonidine
+2178,Echinacea purpurea extract
+2179,thyroid (USP)
+2180,methylprednisolone
+2181,cortisone
+2182,dexamethasone
+2183,prednisolone
+2184,prednisone
+2185,omega-3 acid ethyl esters (USP)
+2186,glucose
+2187,riboflavin 5'-phosphate
+2188,testosterone
+2189,acyclovir
+2190,trimethoprim
+2191,vancomycin
+2192,lomefloxacin
+2193,deferoxamine
+2194,voriconazole
+2195,moxifloxacin
+2196,amphotericin B
+2197,ampicillin
+2198,norfloxacin
+2199,foscarnet
+2200,penicillin G
+2201,penicillin V
+2202,azithromycin
+2203,edetic acid
+2204,levofloxacin
+2205,enoxacin
+2206,erythromycin
+2207,povidone-iodine
+2208,clarithromycin
+2209,fluconazole
+2210,ganciclovir
+2211,ribavirin
+2212,cefazolin
+2213,hydrogen peroxide
+2214,ceftazidime
+2215,cefuroxime
+2216,iodine
+2217,kanamycin
+2218,gatifloxacin
+2219,chlorhexidine
+2220,amikacin
+2221,ciprofloxacin
+2222,sulfadiazine
+2223,sulfamethoxazole
+2224,sulfisoxazole
+2225,tetracycline
+2226,Guaraprolose
+2227,actovegin concentrate
+2228,azapentacene polysulfonate sodium
+2229,aprotinin
+2230,sulbenicillin
+2231,synephrine
+2232,hexamidine
+2233,demecarium
+2234,pyridoxine
+2235,clobetasone
+2236,tromethamine
+2237,trypan blue
+2238,tyrothricin
+2239,moxisylyte
+2240,cetrimide
+2241,vitamin A
+2242,cromoglycate
+2243,vitamin E
+2244,water
+2245,mild silver protein
+2246,fusidate
+2247,cyclosporine
+2248,tyramine
+2249,moroxydine
+2250,citrate
+2251,ascorbic acid
+2252,berberine
+2253,netilmicin
+2254,adrenalone
+2255,niacinamide
+2256,aminoquinuride
+2257,calcium
+2258,dextran 40
+2259,magnesium aspartate
+2260,bunazosin
+2261,dibekacin
+2262,methacholine
+2263,poloxamer
+2264,bismuth
+2265,oxygen
+2266,oxyphenbutazone
+2267,p-hydroxyamphetamine
+2268,carboxypolymethylene
+2269,pantothenic acid
+2270,propamidine
+2271,propionic acid
+2272,boron
+2273,aluminum sulfate
+2274,petrolatum
+2275,butacaine
+2276,levobetaxolol
+2277,distigmine
+2278,calcium chloride
+2279,acetylcholine
+2280,lecithin
+2281,tramazoline
+2282,troxerutin
+2283,physostigmine
+2284,zinc sulfate
+2285,potassium
+2286,potassium chloride
+2287,chloroprocaine
+2288,potassium iodide
+2289,ethylmorphine
+2290,flumethasone
+2291,carbomer
+2292,framycetin
+2293,cholesterol
+2294,chromocarb diethylamine
+2295,glutathione
+2296,riboflavin
+2297,edoxudine
+2298,rose bengal
+2299,Apis mellifera ven protein
+2300,glutathione disulfide
+2301,hydroxyethyl cellulose
+2302,sodium iodide
+2303,soybean oil
+2304,spiramycin
+2305,lachesine
+2306,Ruta graveolens preparation
+2307,Chelidonium majus extract
+2308,Calendula officinalis extract
+2309,micronomicin
+2310,hyaluronidase
+2311,sodium acetate
+2312,idoxuridine
+2313,teicoplanin
+2314,soybean lecithin
+2315,zinc gluconate
+2316,inosinic acid
+2317,ranibizumab
+2318,isoflurophate
+2319,dapiprazole
+2320,lanolin
+2321,pantothenate
+2322,pirenoxine
+2323,dibrompropamidine
+2324,difluprednate
+2325,isospaglumic acid
+2326,magnesium sulfate heptahydrate
+2327,chlorobutanol
+2328,magnesium chloride
+2329,chlortetracycline
+2330,cholecalciferol
+2331,florfenicol
+2332,chymotrypsin
+2333,Mucor racemosus preparation
+2334,lauromacrogols
+2335,cod liver oil
+2336,tromantadine
+2337,omega-3 fatty acids
+2338,tranilast
+2339,magnesium
+2340,aminopyrine
+2341,paraffin
+2342,rifamycins
+2343,sisomicin
+2344,sodium
+2345,sucrose
+2346,taurine
+2347,thiamine
+2348,thimerosal
+2349,ripasudil hydrochloride hydrate
+2350,pazufloxacin mesilate
+2351,potassium l-aspartate
+2352,Rosa canina whole extract
+2353,omidenepag isopropyl
+2354,Sodium Hydrate
+2355,Raceanisodamine
+2356,pranoprofen
+2357,Zinc hyaluronate
+2358,Methylsiloxane
+2359,Cethexonium bromide
+2360,calf blood haemodialysate
+2361,bovine vitreous body extract
+2362,sodium sulforutoside
+2363,Triglycerides
+2364,N-Acetyl L-aspartyl L-glutamate sodium
+2365,porcine optic nerve extract
+2366,Picloxydine
+2367,bibrocathol
+2368,Collodion methylated
+2369,besifloxacin
+2370,bepotastine
+2371,polysorbate 20
+2372,Echinacea pallida root extract
+2373,lifitegrast
+2374,alcaftadine
+2375,aflibercept
+2376,Actinoquinol
+2377,Befunolol
+2378,Azidamfenicol
+2379,Cefmenoxime
+2380,Essential Oils
+2381,Gualenate
+2382,Interferon Alfa-2c
+2383,Poly(Carboxymethylglucose Sulphate)
+2384,Sulfadicramide
+2385,Sulfasomidine
+2386,Trimecaine
+2387,tocopherol
+2388,tafluprost
+2389,Bos taurus nerve preparation
+2390,carbomer homopolymer type c
+2391,chamomile extract
+2392,Calendula officinalis flower extract
+2393,croscarmellose
+2394,Hamamelis virginiana bark extract
+2395,Hamamelis virginiana leaf extract
+2396,Malva sylvestris flower extract
+2397,Matricaria chamomilla flowering top oil
+2398,Melissa officinalis extract
+2399,naphthalene
+2400,rose oil
+2401,rubidium
+2402,Pueraria montana var. lobata root extract
+2403,Plantago lanceolata leaf extract
+2404,trehalose
+2405,Staphylococcus aureus
+2406,tamarind seed extract
+2407,Atropa belladonna fruiting top extract
+2408,Quercus alba extract
+2409,esculin
+2410,DL-lactic acid
+2411,flavin-adenine dinucleotide
+2412,bitter orange oil
+2413,Digitalis purpurea whole extract
+2414,Hamamelis virginiana whole extract
+2415,Mercurialis perennis extract
+2416,glycyrrhizinate
+2417,rebamipide
+2418,tosufloxacin tosylate
+2419,bendazac lysine dihydrate
+2420,tosufloxacin tosylate hydrate
+2421,diquafosol sodium
+2422,nipradilol
+2423,acitazanolast
+2424,ibudilast
+2425,Atropa belladona whole extract
+2426,hydroxypropyl guar (2500-4500 MPA.S at 1%)
+2427,carbomer-940
+2428,hypromellose 2910
+2429,carbomer-974P
+2430,nerve growth factor
+2431,povidone K25
+2432,Rosa centifolia flower extract
+2433,terpineol
+2434,polihexanide
+2435,lanolin alcohols
+2436,liquid petroleum
+2437,ectoine
+2438,dimyristoylphosphatidylglycerol
+2439,lysozyme
+2440,lentil seed extract
+2441,phenylmercury
+2442,Sabadilla
+2443,Bos taurus eye preparation
+2444,Salvia officinalis whole extract
+2445,Levisticum officinale root extract
+2446,inosine
+2447,4-coumaric acid
+2448,Leontopodium alpinum extract
+2449,potassium ascorbate
+2450,unoprostone
+2451,sheep wool preparation
+2452,Lysimachia nummularia extract
+2453,dihydrostreptomycin
+2454,gentamicin
+2455,tamarind extract
+10001,Sickle cell-hemoglobin SS disease
+10002,Hereditary elliptocytosis
+10003,Edema of larynx
+10004,Congenital macrostomia
+10005,Polyglandular dysfunction
+10006,Perforation of esophagus
+10007,Neonatal hypoglycemia
+10008,Neck webbing
+10009,Heartburn
+10010,Benign neoplasm of larynx
+10011,Atrophy of salivary gland
+10012,Congenital anomaly of pharynx
+10013,Congenital anomaly of esophagus
+10014,Disorder of pituitary gland
+10015,Neck pain
+10016,Congenital diverticulum of pharynx
+10017,Benign neoplasm of esophagus
+10018,Hypoglycemia
+10019,Acute tonsillitis
+10020,Hereditary spherocytosis
+10021,Esophageal varices
+10022,Stenosis of larynx
+10023,Mucocele of salivary gland
+10024,Chronic adenotonsillitis
+10025,Congenital anomaly of neck
+10026,Malignant neoplasm of oral cavity
+10027,Acute pharyngitis
+10028,Disorder of salivary gland
+10029,Tracheoesophageal fistula
+10030,Ulcer of esophagus
+10031,Hyperpituitarism
+10032,Laryngeal web
+10033,Testicular hypofunction
+10034,Chronic pharyngitis
+10035,Hematemesis
+10036,Disorder of endocrine testis
+10037,Nezelof's syndrome
+10038,Disturbance of salivary secretion
+10039,Nausea and vomiting
+10040,Eosinophilic esophagitis
+10041,Streptococcal sore throat
+10042,Benign neoplasm of pineal gland
+10043,"Multiple endocrine neoplasia, type 1"
+10044,Polyp of vocal cord or larynx
+10045,Hereditary hemolytic anemia
+10046,Gigantism and acromegaly
+10047,Hypertrophy of salivary gland
+10048,Sialoadenitis
+10049,Severe combined immunodeficiency disease
+10050,Neck sprain
+10051,Motion sickness
+10052,Sialolithiasis
+10053,Esophagitis
+10054,Testicular hyperfunction
+10055,Thalassemia
+10056,Dysphagia
+10057,Hypertrophy of tonsils AND adenoids
+10058,Disorder of the larynx
+10059,Disorder of esophagus
+10060,Disorder of endocrine system
+10061,Nausea
+10062,Kashin-Bek disease
+10063,Joint stiffness
+10064,Infection of bone
+10065,Nontraumatic rupture of muscle
+10066,Scoliosis deformity of spine
+10067,Congenital hydrocele
+10068,Benign neoplasm of breast
+10069,Exostosis
+10070,Labyrinthine fistula
+10071,Jaccoud's syndrome
+10072,Myositis
+10073,Enthesopathy
+10074,Lordosis deformity of spine
+10075,Congenital anomaly of toe
+10076,Neonatal engorgement of breast
+10077,Bilateral congenital dislocation of hip
+10078,Myotonic disorder
+10079,Pain of temporomandibular joint
+10080,Fetal distress affecting management of mother
+10081,Contracture of joint
+10082,Radial styloid tenosynovitis
+10083,Arthropathy
+10084,Calcaneal spur
+10085,Pathological fracture
+10086,Reduction deformity of lower limb
+10087,Benign neoplasm of epididymis
+10088,Restless legs syndrome
+10089,Pain of breast
+10090,Progressive myositis ossificans
+10091,Arrest of bone development AND/OR growth
+10092,Congenital anomaly of breast
+10093,Congenital deformity of knee joint
+10094,Labyrinthitis
+10095,Ankylosis of temporomandibular joint
+10096,Traumatic arthropathy
+10097,Inflammatory polyarthropathy
+10098,Urinary symptoms
+10099,Sprain of spinal ligament
+10100,Benign neoplasm of scrotum
+10101,Temporomandibular joint disorder
+10102,Articular disc disorder of temporomandibular joint
+10103,Acquired claw hand
+10104,Congenital coxa valga
+10105,Benign neoplasm of bone
+10106,Breech presentation
+10107,Dislocation of joint
+10108,Synovitis and tenosynovitis
+10109,Hypertrophic osteoarthropathy
+10110,Polydactyly
+10111,Frank hematuria
+10112,Fibroadenosis of breast
+10113,Fracture of bone
+10114,Fibrosclerosis of breast
+10115,Intervertebral disc disorder
+10116,Derangement of meniscus
+10117,Spinal enthesopathy
+10118,Congenital anomaly of sternocleidomastoid muscle
+10119,Irritable bowel syndrome
+10120,Generalized osteoarthritis
+10121,Cramp
+10122,Poor fetal nutrition
+10123,Proteinuria
+10124,Constipation
+10125,Disorder of urinary system
+10126,Kissing spine
+10127,Disorder of bone
+10128,Osteitis deformans
+10129,Osteitis condensans
+10130,Palindromic rheumatism
+10131,Toxic neuromuscular junction disorder
+10132,Congenital hypoplasia of breast
+10133,Dysplasia of anus
+10134,Missed miscarriage
+10135,Myasthenia gravis
+10136,Anal fissure
+10137,Azoospermia
+10138,Hemarthrosis
+10139,Hypermobility syndrome
+10140,Congenital malformation of genital organs
+10141,Polyostotic fibrous dysplasia of bone
+10142,Disorder of breast
+10143,Pain of joint
+10144,Spinal stenosis
+10145,Benign neoplasm of colon
+10146,Fetal malposition and malpresentation
+10147,Genitourinary tract infection in pregnancy
+10148,Pathological dislocation of joint
+10149,Intrapelvic protrusion of acetabulum
+10150,Congenital deformity of hip joint
+10151,Adhesive capsulitis of shoulder
+10152,Mallet finger
+10153,Traumatic myositis ossificans
+10154,Chest pain
+10155,Benign neoplasm of pleura
+10156,Eosinophilic colitis
+10157,Joint finding
+10158,Disseminated idiopathic skeletal hyperostosis
+10159,Achilles tendinitis
+10160,Acquired trigger finger
+10161,Hallux valgus AND bunion
+10162,Orchitis and epididymitis
+10163,Benign mammary dysplasia
+10164,Joint derangement
+10165,Pain of joint of hand
+10166,Disorder of coccyx
+10167,Muscle atrophy
+10168,Osteogenesis imperfecta
+10169,Osteolysis
+10170,Reactive arthritis triad
+10171,Microscopic hematuria
+10172,Hypertrophy of breast
+10173,Acquired deformity of finger
+10174,Benign neoplasm of urinary system
+10175,Pleurisy
+10176,Fibrocystic disease of breast
+10177,Sprain of elbow and forearm
+10178,Disorder of rectum
+10179,Inflammatory disorder of breast
+10180,Loose body in joint
+10181,Congenital spondylolisthesis
+10182,Cervical rib
+10183,Ehlers-Danlos syndrome
+10184,Fetal blood loss
+10185,Ménière's disease
+10186,Galactorrhea not associated with childbirth
+10187,Effusion of joint
+10188,Muscle weakness
+10189,Acquired hallux rigidus
+10190,Acquired deformity of toe
+10191,Osteoarthritis
+10192,Dermatomyositis
+10193,Medial epicondylitis
+10194,Fetal growth restriction
+10195,Fetal disorder originating in perinatal period
+10196,Reduction deformity of upper limb
+10197,Sprain of acromioclavicular ligament
+10198,Disorder of lactation
+10199,Crystal arthropathy
+10200,Ankylosis of joint
+10201,Schmorl's nodes
+10202,Osteoporosis
+10203,Acquired genu valgum
+10204,Bone cyst
+10205,Malignant neoplasm of thorax
+10206,Breast lump
+10207,Polymyositis
+10208,Rheumatoid arthritis
+10209,Degeneration of intervertebral disc
+10210,Chondroectodermal dysplasia
+10211,Pseudopolyposis of colon
+10212,Acquired genu varum
+10213,Toxic myopathy
+10214,Labyrinthine disorder
+10215,Rectal prolapse
+10216,Fetus papyraceous
+10217,Lateral epicondylitis
+10218,Congenital coxa vara
+10219,Osteopetrosis
+10220,Mitochondrial cytopathy
+10221,Cervicocranial syndrome
+10222,Congenital anomaly of spine
+10223,Ulcerative colitis
+10224,Urinary tract infectious disease
+10225,Recurrent dislocation of joint
+10226,Xeroderma of eyelid
+10227,Staphylococcal scalded skin syndrome
+10228,Congenital anomaly of skin
+10229,Transient limb paralysis
+10230,Herpangina
+10231,Benign neoplasm of floor of mouth
+10232,Subacute thyroiditis
+10233,Erythema multiforme
+10234,Lichen planus
+10235,Lichen nitidus
+10236,Disorder of nail
+10237,Congenital anomaly of hair
+10238,Bacteremia
+10239,Sepsis
+10240,Keloid scar
+10241,Dermatographic urticaria
+10242,Acute osteomyelitis
+10243,Tinea pedis
+10244,Plasma cell leukemia
+10245,Myelofibrosis
+10246,Dental caries
+10247,Disorder of hair
+10248,Alopecia
+10249,Pyoderma gangrenosum
+10250,Congenital anomaly of mouth
+10251,Thyroiditis
+10252,Pyoderma
+10253,Necrotizing fasciitis
+10254,Bacterial sepsis of newborn
+10255,Salmonella infection
+10256,Meningococcemia
+10257,Congenital hypothyroidism
+10258,Hyperparathyroidism
+10259,Acute thyroiditis
+10260,Atopic dermatitis
+10261,Eczema
+10262,Slipped upper femoral epiphysis
+10263,Acquired deformity of limb
+10264,Disorder of cardiovascular system
+10265,Cellulitis of oral soft tissues
+10266,Subcorneal pustular dermatosis
+10267,Atrophic condition of skin
+10268,Cleft palate with cleft lip
+10269,Precordial pain
+10270,Benign neoplasm of parathyroid gland
+10271,Acute lymphoid leukemia
+10272,Myelophthisis
+10273,Lipodystrophy
+10274,Erythromelalgia
+10275,Gingival recession
+10276,Periodontal disease
+10277,Contact dermatitis
+10278,Chronic ulcer of skin
+10279,Systemic sclerosis
+10280,Bursitis
+10281,Plantar fascial fibromatosis
+10282,Tietze's disease
+10283,Chronic myeloid leukemia
+10284,Benign neoplasm of lacrimal gland
+10285,Diffuse spasm of esophagus
+10286,Hirsutism
+10287,Disorder of fascia
+10288,Acquired forearm deformity
+10289,Compartment syndrome
+10290,Chronic osteomyelitis
+10291,Backache
+10292,Congenital anomaly of limb
+10293,Congenital ichthyosis of skin
+10294,Finger clubbing
+10295,Ectodermal dysplasia
+10296,Perinatal cyanotic attacks
+10297,Cachexia
+10298,Pityriasis versicolor
+10299,Discoloration of skin
+10300,Congenital anomaly of musculoskeletal system
+10301,Benign neoplasm of lip
+10302,Polycythemia vera (clinical)
+10303,Hashimoto thyroiditis
+10304,Non-neoplastic nevus
+10305,Pemphigus
+10306,Syncope
+10307,Dermatophytosis
+10308,Spinal cord disease
+10309,Pityriasis
+10310,Pruritic rash
+10311,Goiter
+10312,Iatrogenic thyroiditis
+10313,Teething syndrome
+10314,Disorder of lip
+10315,Cleft palate
+10316,Scar conditions and fibrosis of skin
+10317,Congenital pes planus
+10318,Sclerema neonatorum
+10319,Perichondritis of pinna
+10320,Rosacea
+10321,Ainhum
+10322,Dyshormonogenic goiter
+10323,Benign neoplasm of endocrine gland
+10324,Vascular myelopathy
+10325,Seborrheic dermatitis
+10326,Skin striae
+10327,Erythema
+10328,Dermal mycosis
+10329,Disorder of muscle
+10330,Oral submucosal fibrosis
+10331,Chronic thyroiditis
+10332,Prickly heat
+10333,Congenital pigmentary skin anomalies
+10334,Skin sensation disturbance
+10335,Verruca plantaris
+10336,Aplastic anemia
+10337,Atypical facial pain
+10338,Bullous dermatosis
+10339,Jaundice
+10340,Abnormal results of cardiovascular function studies
+10341,Sick-euthyroid syndrome
+10342,Benign neoplasm of skin
+10343,Benign neoplasm of spinal cord
+10344,"Chronic lymphoid leukemia, disease"
+10345,Secondary hyperparathyroidism
+10346,Stomatitis
+10347,Leukoplakia of oral mucosa
+10348,Cholinergic urticaria
+10349,Vitiligo
+10350,Pain in limb
+10351,Longitudinal deficiency of limb
+10352,Hyperhidrosis
+10353,Infestation by Pediculus
+10354,Acute leukemia
+10355,Disorder of parathyroid gland
+10356,Acquired red cell aplasia
+10357,Actinic keratosis
+10358,Disorder of sacrum
+10359,Rheumatism
+10360,Congenital anomaly of nail
+10361,Myelitis
+10362,Myelodysplastic syndrome (clinical)
+10363,Carcinoma in situ of skin
+10364,Ingrowing nail
+10365,Vibratory urticaria
+10366,Acute transverse myelitis
+10367,"Thyroid dysfunction during pregnancy, childbirth and the puerperium"
+10368,Pemphigoid
+10369,Urticaria
+10370,Allergic urticaria
+10371,Viral exanthem
+10372,Chronic leukemia
+10373,Psoriasis
+10374,Telogen effluvium
+10375,Erythema nodosum
+10376,Eruption
+10377,"Acute myeloid leukemia, disease"
+10378,Hypoparathyroidism
+10379,Disorder of thyrocalcitonin secretion
+10380,Impetigo
+10381,Dermatitis herpetiformis
+10382,Anhidrosis
+10383,Microstomia
+10384,Congenital anomaly of endocrine gland
+10385,Onychomycosis due to dermatophyte
+10386,Hypothyroidism
+10387,Constitutional aplastic anemia
+10388,Idiopathic urticaria
+10389,Spasm
+10390,Acquired musculoskeletal deformity
+10391,Changes in skin texture
+10392,Infestation by Sarcoptes scabiei var hominis
+10393,Disorder of hard tissues of teeth
+10394,Pyogenic granuloma of skin
+10395,Acne
+10396,Scarlet fever
+10397,Malignant melanoma of skin
+10398,Benign neoplasm of thyroid gland
+10399,Disorder of thyroid gland
+10400,Hypertrophic condition of skin
+10401,Chilblains
+10402,Periodontitis
+10403,Disseminated superficial actinic porokeratosis
+10404,Osteomyelitis
+10405,Alopecia areata
+10406,Pectus excavatum
+10407,Acute hepatitis C
+10408,Alpha-1-antitrypsin deficiency
+10409,Hypersplenism
+10410,Disorder of gallbladder
+10411,Paralytic ileus
+10412,Renal failure syndrome
+10413,Cyst and pseudocyst of pancreas
+10414,Dysplasia of cervix
+10415,Congenital hypertrophic pyloric stenosis
+10416,Abdominal mass
+10417,Retention of urine
+10418,Paraplegia
+10419,Atrophic gastritis
+10420,Gastric fistula
+10421,Gastrointestinal hemorrhage
+10422,Allergic gastroenteritis and colitis
+10423,Biliary cirrhosis
+10424,Portal hypertension
+10425,Uterovaginal prolapse
+10426,Hypertrophy of kidney
+10427,Digestive symptom
+10428,Intestinal infection caused by Escherichia coli
+10429,Ovarian hyperfunction
+10430,Postablative ovarian failure
+10431,Hereditary spastic paraplegia
+10432,Cholecystitis
+10433,Mobile kidney
+10434,Disorder of pancreas
+10435,Infectious disorder of kidney
+10436,Disorder of adrenal gland
+10437,Transient ischemic deafness
+10438,Perforation of intestine
+10439,Diverticulosis of small intestine
+10440,Vaginospasm
+10441,Situs inversus viscerum
+10442,Congenital anomaly of spleen
+10443,Congenital anomaly of ureter
+10444,Neonatal diabetes mellitus
+10445,Urge incontinence of urine
+10446,Injury of liver
+10447,Bacterial enteritis of intestine
+10448,Benign neoplasm of digestive organ
+10449,Familial Mediterranean fever
+10450,Doan-Wiseman syndrome
+10451,Intestinal obstruction
+10452,Acute prostatitis
+10453,Abdominal pregnancy
+10454,Follicular cyst of ovary
+10455,Imperforate hymen
+10456,Visible peristalsis
+10457,Ovarian failure
+10458,End-stage renal disease
+10459,Achlorhydria
+10460,Genuine stress incontinence
+10461,Nocturnal enuresis
+10462,Disorder of pancreatic internal secretion
+10463,Abnormality of secretion of gastrin
+10464,Acute cystitis
+10465,Postcoital bleeding
+10466,Uterine size for dates discrepancy
+10467,Low back pain
+10468,Congenital aganglionic megacolon
+10469,Congenital anomaly of stomach
+10470,Cryptosporidiosis
+10471,Celiac artery compression syndrome
+10472,Hydroureter
+10473,Dysplasia of vagina
+10474,Urethral caruncle
+10475,Hiccoughs
+10476,Enterovirus enteritis
+10477,Nontraumatic hemoperitoneum
+10478,Dysmenorrhea
+10479,Liver disorder in pregnancy
+10480,Premature rupture of membranes
+10481,Disease of liver
+10482,Inflammatory disease of liver
+10483,Celiac disease
+10484,Intestinal malabsorption
+10485,Renal infarction
+10486,Disorder of ureter
+10487,Prostatitis
+10488,Hypercortisolism
+10489,Hyperaldosteronism
+10490,Renal carnitine transport defect
+10491,Meralgia paresthetica
+10492,Acute dilatation of stomach
+10493,Postmenopausal bleeding
+10494,Benign neoplasm of kidney
+10495,Benign neoplasm of uterus
+10496,Hemorrhoids
+10497,Peritoneal adhesion
+10498,Cystitis
+10499,Urethral stricture
+10500,Chronic pancreatitis
+10501,Vulval and/or perineal noninflammatory disorders
+10502,Secondary diabetes mellitus
+10503,Atherosclerosis of renal artery
+10504,Gastroparesis syndrome
+10505,Cholangitis
+10506,Small kidney
+10507,Urethritis
+10508,Diverticulum of urinary bladder
+10509,Noninflammatory disorder of the vagina
+10510,Hematometra
+10511,Benign neoplasm of stomach
+10512,Functional disorder of intestine
+10513,Peritonitis
+10514,Urethral diverticulum
+10515,Induratio penis plastica
+10516,Disorder of penis
+10517,Inflammatory disease of the uterus
+10518,Cervicitis and endocervicitis
+10519,Irregular periods
+10520,Congenital anomaly of diaphragm
+10521,Septic shock
+10522,Protozoal intestinal disease
+10523,Benign neoplasm of uterine cervix
+10524,Adrenogenital disorder
+10525,Benign neoplasm of urethra
+10526,Hypersensitivity angiitis
+10527,Hepatorenal syndrome
+10528,Gallstone
+10529,Urethral false passage
+10530,Perforation of gallbladder
+10531,Hypertrophy of uterus
+10532,Congenital chordee
+10533,Diarrhea
+10534,Hypospadias
+10535,Viral enteritis of intestine
+10536,Malignant neoplasm of kidney
+10537,Budd-Chiari syndrome
+10538,Disorder of diaphragm
+10539,Urethral syndrome
+10540,Disorder of prostate
+10541,Disorder of male genital organ
+10542,Congenital biliary atresia
+10543,Urethral discharge
+10544,Chronic congestive splenomegaly
+10545,Intussusception of intestine
+10546,Vesicoureteric reflux
+10547,Urethra and bladder neck atresia and stenosis
+10548,Enterobiasis
+10549,Malignant neoplasm of uterus
+10550,Uterine leiomyoma
+10551,Benign neoplasm of prostate
+10552,Hemolytic uremic syndrome
+10553,Cholesterolosis of gallbladder
+10554,Acute kidney injury
+10555,Disorder of peritoneum
+10556,Disorder of urinary tract
+10557,Abnormal bowel sounds
+10558,Viral hepatitis C
+10559,Malignant neoplasm of urinary bladder
+10560,Impaction of intestine
+10561,Toxic gastroenteritis
+10562,Spermatocele
+10563,Intestinal volvulus
+10564,Peripheral neuritis in pregnancy
+10565,"Cervical, vaginal and vulval inflammatory diseases"
+10566,Cyst of ovary
+10567,Congenital cystic disease of liver
+10568,Medullary cystic disease of the kidney
+10569,Exstrophy of urinary bladder sequence
+10570,Urinary incontinence
+10571,Incontinence of feces
+10572,Large liver
+10573,Dysuria
+10574,Malignant neoplasm of uterine adnexa
+10575,Disorder of biliary tract
+10576,Urethral stricture due to infection
+10577,Renal osteodystrophy
+10578,Hemorrhage of rectum and anus
+10579,Intrauterine synechiae
+10580,Uterine inertia
+10581,Abdominal tenderness
+10582,Condyloma acuminatum of the anogenital region
+10583,Benign neoplasm of ureter
+10584,Kidney disease
+10585,Abdominal aortic aneurysm
+10586,Renal and perinephric abscess
+10587,Female genital organ symptoms
+10588,Male infertility
+10589,Polyp of vagina
+10590,Spotting per vagina in pregnancy
+10591,Congenital hiatus hernia
+10592,Congenital anomaly of digestive system
+10593,Candidiasis of vagina
+10594,Acquired megacolon
+10595,Placental abruption
+10596,Cardiogenic shock
+10597,Intestinal infectious disease
+10598,Premature menopause
+10599,Benign prostatic hyperplasia
+10600,Acute cholecystitis
+10601,Congenital hypoplasia of penis
+10602,Transitory ileus of newborn
+10603,Chronic hepatitis C
+10604,Malignant neoplasm of cervix uteri
+10605,Benign neoplasm of peritoneum and retroperitoneum
+10606,Chronic vascular insufficiency of intestine
+10607,Stricture of ureter
+10608,Female pelvic inflammatory disease
+10609,Acute pancreatitis
+10610,Neurogenic urinary bladder
+10611,Tubal pregnancy
+10612,Enteritis caused by Rotavirus
+10613,Benign neoplasm of ovary
+10614,Portal vein thrombosis
+10615,Hernia of abdominal cavity
+10616,Acute gastritis
+10617,Prolapse of female genital organs
+10618,Mucous polyp of cervix
+10619,Fistula of the female genital organs
+10620,Rhesus isoimmunization affecting pregnancy
+10621,Acquired deformity of ankle AND/OR foot
+10622,Perinatal intestinal perforation
+10623,Pancreatic steatorrhea
+10624,Ovarian pregnancy
+10625,Disorder of skin and/or subcutaneous tissue
+10626,Abdominal rigidity
+10627,Abdominal pain
+10628,Chronic prostatitis
+10629,Disorder of urethra
+10630,Chronic passive congestion of liver
+10631,Acquired atrophy of ovary and fallopian tube
+10632,Disorder of digestive system specific to fetus OR newborn
+10633,Splenomegaly
+10634,Ascites
+10635,Visceral leishmaniasis
+10636,Benign neoplasm of male genital organ
+10637,Hyperestrogenism
+10638,Abscess of peritoneum
+10639,Autoimmune hepatitis
+10640,Chronic hepatitis
+10641,Chronic cholecystitis
+10642,Stenosis of rectum and anus
+10643,Detrusor and sphincter dyssynergia
+10644,Endometrial hyperplasia
+10645,Polyp of corpus uteri
+10646,Disorder of uterus
+10647,Congenital anomaly of fixation of intestine
+10648,Urgent desire to urinate
+10649,Diaphragmatic hernia
+10650,Obstruction of bile duct
+10651,Atrophic vaginitis
+10652,Renal dysplasia
+10653,Pelvic mass
+10654,Neonatal omphalitis
+10655,Toxic shock syndrome
+10656,Benign neoplasm of vagina
+10657,Type 1 diabetes mellitus
+10658,Disorder of endocrine ovary
+10659,Disorder of spleen
+10660,Alveolitis of jaw
+10661,Disorder of urinary bladder
+10662,Urethral fistula
+10663,Gastritis
+10664,Fistula of urinary bladder
+10665,Prune belly syndrome
+10666,Congenital anomaly of adrenal gland
+10667,"Flatulence, eructation and gas pain"
+10668,Disorder of teeth AND/OR supporting structures
+10669,Crohn's disease
+10670,Alcoholic liver damage
+10671,Chronic nonalcoholic liver disease
+10672,Prostatic cyst
+10673,Disorder of intestine
+10674,Gastric diverticulum
+10675,Kidney stone
+10676,Chronic cystitis
+10677,Malposition of uterus
+10678,Mittelschmerz
+10679,"Polycystic kidney disease, infantile type"
+10680,Renal colic
+10681,Shigellosis
+10682,Benign neoplasm of female genital organ
+10683,Diabetes mellitus
+10684,Benign neoplasm of penis
+10685,Benign neoplasm of urinary bladder
+10686,Type 2 diabetes mellitus
+10687,Abnormality of secretion of glucagon
+10688,Disorder of stomach
+10689,Acute vascular insufficiency of intestine
+10690,Neurogenic bowel
+10691,Abscess of liver
+10692,Female infertility
+10693,Congenital penoscrotal transposition
+10694,Fetal and/or neonatal necrotizing enterocolitis
+10695,Shock
+10696,Pneumonia caused by Pseudomonas
+10697,Membranous glomerulonephritis
+10698,Neonatal aspiration of blood
+10699,Cytomegaloviral pneumonia
+10700,Thoracogenic scoliosis
+10701,Stridor
+10702,Cortical blindness
+10703,Pneumonitis
+10704,Disorder of connective tissue
+10705,Pneumothorax
+10706,Ulceration of vulva
+10707,Pulmonary tuberculosis
+10708,Pleural effusion
+10709,Acute chest syndrome
+10710,Sjögren's syndrome
+10711,Disorder of vocal cord
+10712,Cough
+10713,Congenital bronchiectasis
+10714,Congenital pneumonia
+10715,Spontaneous pneumothorax
+10716,Collagen disease
+10717,Polymyalgia rheumatica
+10718,Chronic obstructive pulmonary disease
+10719,Chronic bronchitis
+10720,Pneumonia
+10721,Lupus erythematosus
+10722,Dental arch relationship anomaly
+10723,Disorder of nasal sinus
+10724,Bronchiectasis
+10725,Bronchitis
+10726,Bronchospasm
+10727,Bronchopneumonia
+10728,Choanal atresia
+10729,Congenital anomaly of nose
+10730,Allergic rhinitis
+10731,Acute upper respiratory infection
+10732,Chronic sinusitis
+10733,Congenital anomaly of lung
+10734,Disorder of visual pathways
+10735,Bacterial pneumonia
+10736,Carcinoid tumor of lung
+10737,Allergic bronchopulmonary aspergillosis
+10738,Systemic lupus erythematosus
+10739,Posterior rhinorrhea
+10740,Pertussis
+10741,Hemopericardium
+10742,Abscess of Bartholin's gland
+10743,Marfan's syndrome
+10744,Perinatal primary atelectasis
+10745,Neonatal respiratory distress syndrome
+10746,Pneumoconiosis
+10747,Congenital subaortic stenosis
+10748,Pain in throat
+10749,Chronic rhinitis
+10750,Cyst of Bartholin's gland duct
+10751,Ventilator associated pneumonia
+10752,Acute sinusitis
+10753,Acute bronchiolitis
+10754,Acute bronchitis
+10755,Common cold
+10756,Malocclusion of teeth
+10757,Benign neoplasm of bronchus and lung
+10758,Pneumonia caused by Streptococcus
+10759,Pulmonary emphysema
+10760,Viral pneumonia
+10761,Congenital cystic lung
+10762,Vocal cord paralysis
+10763,Acute pulmonary edema
+10764,Hemoptysis
+10765,Atelectasis
+10766,Compensatory emphysema
+10767,Acute myocardial infarction
+10768,Arterial embolus and thrombosis
+10769,Ruptured aortic aneurysm
+10770,Venous varices
+10771,Dyspnea
+10772,Congenital heart disease
+10773,Benign intracranial hypertension
+10774,Acute cor pulmonale
+10775,Atherosclerosis of aorta
+10776,Hypertensive encephalopathy
+10777,Thromboangiitis obliterans
+10778,Congenital stenosis of pulmonary valve
+10779,Congenital stenosis of mitral valve
+10780,Congenital insufficiency of mitral valve
+10781,Atrial fibrillation
+10782,Granulomatosis with polyangiitis
+10783,Anomalous atrioventricular excitation
+10784,Cough variant asthma
+10785,Cheyne-Stokes respiration
+10786,Sleep apnea
+10787,Vitreous strands
+10788,Osler hemorrhagic telangiectasia syndrome
+10789,Paroxysmal tachycardia
+10790,Thrombotic microangiopathy
+10791,Double outlet right ventricle
+10792,Chronic lymphadenitis
+10793,Aortic valve disorder
+10794,Right bundle branch block
+10795,Anomalies of great veins
+10796,Endocardial fibroelastosis
+10797,First degree atrioventricular block
+10798,Acute febrile mucocutaneous lymph node syndrome
+10799,Myocarditis
+10800,Maternal hypotension syndrome
+10801,Congenital stenosis of aortic valve
+10802,Congenital anomaly of aorta
+10803,Basophilia
+10804,Cardiomegaly
+10805,Long QT syndrome
+10806,Atrial flutter
+10807,Wheezing
+10808,Giant cell arteritis
+10809,Chronic respiratory failure
+10810,Congenital heart block
+10811,Palpitations
+10812,Lymphadenopathy
+10813,Mitral valve stenosis
+10814,Vitreous hemorrhage
+10815,Orthopnea
+10816,Benign neoplasm of lymph node
+10817,Sickle cell-thalassemia disease
+10818,Atherosclerosis of arteries of the extremities
+10819,Aortic valve regurgitation
+10820,Priapism
+10821,Patent ductus arteriosus
+10822,Lymphadenitis
+10823,Crystalline deposits in vitreous
+10824,Vitreous opacities
+10825,Atrioventricular block
+10826,Heart failure
+10827,Aneurysm of coronary vessels
+10828,Hypertrophic obstructive cardiomyopathy
+10829,Premature beats
+10830,Cerebral atherosclerosis
+10831,Mallory-Weiss syndrome
+10832,Vascular disease of skin
+10833,Hyperventilation
+10834,Heart murmur
+10835,Hypertensive disorder
+10836,Tricuspid valve disorder
+10837,Left bundle branch block
+10838,Conduction disorder of the heart
+10839,Kyphoscoliotic heart disease
+10840,Low blood pressure
+10841,Asthma
+10842,Respiratory arrest
+10843,Disorder of hematopoietic structure
+10844,Disorder of vitreous body
+10845,Sinus node dysfunction
+10846,Stricture of artery
+10847,Tachypnea
+10848,Leukemia
+10849,Coronary arteriosclerosis
+10850,Aortic aneurysm
+10851,Benign neoplasm of heart
+10852,Renovascular hypertension
+10853,Varicose veins of lower extremity
+10854,Phlebitis
+10855,Achalasia of esophagus
+10856,Acute lymphadenitis
+10857,Neonatal apnea
+10858,Arteriosclerotic vascular disease
+10859,Second degree atrioventricular block
+10860,Cardiac tamponade
+10861,Respiratory insufficiency
+10862,Flushing
+10863,Migraine
+10864,Vitreous prolapse
+10865,Disorder of pericardium
+10866,Gastroesophageal reflux disease
+10867,Retinal lattice degeneration
+10868,Orthostatic hypotension
+10869,Necrosis of artery
+10870,Acute respiratory failure
+10871,Fetal and/or neonatal respiratory disorder
+10872,Rheumatic heart disease
+10873,Secondary hypertension
+10874,Mitral valve disorder
+10875,Pulmonary valve disorder
+10876,Congenital pulmonary valve abnormality
+10877,Neutropenia
+10878,Essential hypertension
+10879,Disorder of respiratory system
+10880,Congenital atresia of pulmonary valve
+10881,Vitreous degeneration
+10882,Heart block
+10883,Electrocardiogram abnormal
+10884,Dissection of aorta
+10885,Thrombophlebitis
+10886,Complete atrioventricular block
+10887,Polyarteritis nodosa
+10888,Parapsoriasis
+10889,Atresia and stenosis of aorta
+10890,Tetralogy of Fallot
+10891,Cholesterol embolus syndrome
+10892,Cardiac arrest
+10893,Peripheral vascular disease
+10894,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium"
+10895,"Hypertension complicating pregnancy, childbirth and the puerperium"
+10896,Congenital insufficiency of aortic valve
+10897,Congenital anomaly of coronary artery
+10898,Coarctation of aorta
+10899,"Overlapping malignant neoplasm of heart, mediastinum and pleura"
+10900,Angina pectoris
+10901,Cardiomyopathy
+10902,Hemoglobinuria
+10903,Monocytic leukemia
+10904,Heart disease
+10905,Peripheral venous insufficiency
+10906,Neonatal transitory tachypnea
+10907,Apnea
+10908,Disorder of capillaries
+10909,Rupture of artery
+10910,Disorder of artery
+10911,Benign neoplasm of retina
+10912,Anterior subcapsular polar cataract
+10913,Eustachian tube disorder
+10914,Otitis media
+10915,Sciatica
+10916,Congenital anomaly of eye
+10917,Neonatal coma
+10918,Viral encephalitis
+10919,Malignant neoplasm of nasolacrimal duct
+10920,Movement disorder
+10921,Spinal muscular atrophy
+10922,Postconcussion syndrome
+10923,Flaccid hemiplegia
+10924,Werdnig-Hoffmann disease
+10925,Transient visual loss
+10926,Nonexudative age-related macular degeneration
+10927,Corneal degeneration
+10928,Cyclotropia
+10929,Disorder of brain
+10930,Sciatic nerve lesion
+10931,Metabolic encephalopathy
+10932,Central serous chorioretinopathy
+10933,Drug-induced dystonia
+10934,Retinal edema
+10935,Visual discomfort
+10936,Optic atrophy
+10937,Cerebral artery occlusion
+10938,Congenital anomaly of middle ear
+10939,Benign neoplasm of cornea
+10940,Amyotrophic lateral sclerosis
+10941,Paralytic ptosis
+10942,Corneal ulcer
+10943,Central opacity of cornea
+10944,Hereditary optic atrophy
+10945,Esophoria
+10946,Leukocoria
+10947,Toxic polyneuropathy
+10948,Diplopia
+10949,Presbyopia
+10950,Peripheral opacity of cornea
+10951,Ischemic optic neuropathy
+10952,Transient cerebral ischemia
+10953,Congenital anomaly of lacrimal gland
+10954,Thunderclap headache
+10955,Exudative retinopathy
+10956,Toxic encephalopathy
+10957,Retinopathy of prematurity
+10958,Nuclear cataract
+10959,Vitreoretinal dystrophy
+10960,Disorder of lens
+10961,Neonatal dacryocystitis and conjunctivitis
+10962,Benign neoplasm of conjunctiva
+10963,Delirium
+10964,Acute disseminated encephalomyelitis
+10965,Hemiplegia
+10966,Retinal hemorrhage
+10967,Age related macular degeneration
+10968,Critical illness polyneuropathy
+10969,Visual disturbance
+10970,Keratitis
+10971,Night blindness
+10972,Hereditary corneal dystrophy
+10973,Ptosis of eyelid
+10974,Buphthalmos
+10975,Intracranial and intraspinal abscesses
+10976,Huntington's chorea
+10977,Blepharoconjunctivitis
+10978,Corneal deformity
+10979,Conjunctival scar
+10980,Excess skin of eyelid
+10981,Disorder of optic nerve
+10982,Keratoconus
+10983,Disorder of middle ear
+10984,Sensorineural hearing loss
+10985,Bilateral hearing loss
+10986,Stenosis of precerebral artery
+10987,Impacted cerumen
+10988,Paralytic syndrome
+10989,Motor neuron disease
+10990,Serous retinal detachment
+10991,Round hole of retina without detachment
+10992,Cicatricial entropion
+10993,Mastoiditis
+10994,Tetraplegia
+10995,Focal epilepsy
+10996,Multiple sclerosis
+10997,Bell's palsy
+10998,Acute infective polyneuritis
+10999,Recurrent erosion of cornea
+11000,Edema of eyelid
+11001,Optic neuritis
+11002,Fetal malformation of central nervous system affecting obstetrical care
+11003,Chronic motor tic disorder
+11004,Reye's syndrome
+11005,Traction detachment of retina
+11006,Disorder of eye
+11007,Superficial punctate keratitis
+11008,Mechanical lagophthalmos
+11009,Spastic entropion
+11010,Perforation of tympanic membrane
+11011,Athetoid cerebral palsy
+11012,Headache disorder
+11013,Spastic hemiplegia
+11014,"Degeneration of macula due to cyst, hole or pseudohole"
+11015,Cataract
+11016,Anisometropia
+11017,Senile corneal changes
+11018,Blepharochalasis
+11019,Pterygium
+11020,Cerebral embolism
+11021,Dystonia
+11022,Demyelinating disease of central nervous system
+11023,Adhesive middle ear disease
+11024,Paralytic lagophthalmos
+11025,Neonatal obstruction of nasolacrimal duct
+11026,Hypoplasia of the optic nerve
+11027,Patulous eustachian tube
+11028,Congenital anomaly of inner ear
+11029,Posttraumatic headache
+11030,Disorder of the central nervous system
+11031,Hypotony of eye
+11032,Cystoid macular retinal degeneration
+11033,Subluxation of lens
+11034,Pinguecula
+11035,Disorder of eyelid
+11036,Ectropion
+11037,Disorder of soft tissue
+11038,Congenital corneal opacity
+11039,Disorder of nervous system
+11040,Tension-type headache
+11041,Menstrual migraine
+11042,Hypermetropia
+11043,Mechanical entropion
+11044,Spastic ectropion
+11045,Microphthalmos
+11046,Cerebral edema
+11047,Cicatricial ectropion
+11048,Vertebrobasilar artery syndrome
+11049,Disturbance of consciousness
+11050,Geniculate ganglionitis
+11051,Hypertensive retinopathy
+11052,Exudative age-related macular degeneration
+11053,Schilder's disease
+11054,Amblyopia
+11055,Conjunctival cyst
+11056,Duane's syndrome
+11057,Congenital anomaly of brain
+11058,Seizure
+11059,Neurofibromatosis type 1
+11060,Myoneural disorder
+11061,Hereditary retinal dystrophy
+11062,Neuralgic amyotrophy
+11063,Disorder of cornea
+11064,Conjunctival hyperemia
+11065,Visual field defect
+11066,Corneal deposit
+11067,Exotropia
+11068,Anencephalus
+11069,Sleep walking disorder
+11070,Syringomyelia and syringobulbia
+11071,Compression of brain
+11072,Blind hypertensive eye
+11073,Sudden visual loss
+11074,Alternating exotropia
+11075,Palsy of conjugate gaze
+11076,Noise effects on inner ear
+11077,Tinnitus
+11078,Anoxic encephalopathy
+11079,Toxic maculopathy
+11080,Disorder of refraction AND/OR accommodation
+11081,Esotropia
+11082,Eustachian tube salpingitis
+11083,Conductive hearing loss
+11084,Hearing loss
+11085,Deviated nasal septum
+11086,Facial nerve disorder
+11087,Retinal ischemia
+11088,Encephalitis
+11089,Visual field constriction
+11090,Otorrhea
+11091,Disorder of ear
+11092,Hyperacusis
+11093,Nystagmus
+11094,Congenital ectopic lens
+11095,Headache
+11096,Abnormal reflex
+11097,Retinal disorder
+11098,Alzheimer's disease
+11099,Retinoschisis and retinal cysts
+11100,Astigmatism
+11101,Blepharitis
+11102,Tear film insufficiency
+11103,Fourth nerve palsy
+11104,Hearing disorder
+11105,Hydromyelia
+11106,Congenital anomaly of retina
+11107,Polyotia
+11108,Conjunctival hemorrhage
+11109,Hypotrichosis of eyelid
+11110,Tympanosclerosis
+11111,Moyamoya disease
+11112,Microtia
+11113,Stiff-person syndrome
+11114,Epiretinal membrane
+11115,Aniseikonia
+11116,Conjunctivitis
+11117,Hypertrichosis of eyelid
+11118,Pain in eye
+11119,Benign neoplasm of brain
+11120,Gilles de la Tourette's syndrome
+11121,Trigeminal neuralgia
+11122,Myopia
+11123,Mechanical ectropion
+11124,Cyst of eyelid
+11125,Mixed conductive AND sensorineural hearing loss
+11126,Carpal tunnel syndrome
+11127,Corneal edema
+11128,Exophoria
+11129,Hemorrhage in optic nerve sheaths
+11130,Conjunctival edema
+11131,Epilepsy
+11132,Idiopathic progressive polyneuropathy
+11133,Keratoconjunctivitis
+11134,Hereditary sensory neuropathy
+11135,Hypertrophy of fat pad of knee
+11136,Congenital structural abnormality of eyelid
+11137,Congenital cataract
+11138,Tetany
+11139,Hypoglycemic coma
+11140,Corneal ectasia
+11141,Otitis externa
+11142,Cerebral arteritis
+11143,Coma
+11144,Tuberous sclerosis syndrome
+11145,Neurofibromatosis type 2
+11146,Neuromyelitis optica
+11147,Subjective visual disturbance
+11148,Primary lateral sclerosis
+11149,Chronic inflammatory demyelinating polyradiculoneuropathy
+11150,Lagophthalmos
+11151,Lacrimal gland cyst
+11152,Accommodative esotropia
+11153,Alternating esotropia
+11154,Aphakia
+11155,Vertigo of central origin
+11156,Congenital cystic eyeball
+11157,Benign neoplasm of eye
+11158,Parkinson's disease
+11159,Confusional state
+11160,Cluster headache
+11161,Degenerative progressive high myopia
+11162,Retinoschisis
+11163,Ocular hypertension
+11164,Neurotrophic keratoconjunctivitis
+11165,Obstruction of eustachian tube
+11166,Deaf mutism
+11167,Abscess of eyelid
+11168,Cerebrovascular accident
+11169,Congenital absence of external ear
+11170,Monoplegia
+11171,Migraine with aura
+11172,Myogenic ptosis
+11173,Mechanical ptosis
+11174,Abducens nerve palsy
+11175,Exostosis of external ear canal
+11176,Disorder of external ear
+11177,Chalazion
+11178,Cholesteatoma of middle ear
+11179,Cerebrovascular disease
+11180,Spina bifida occulta
+11181,Tic disorder
+11182,Disorder of conjunctiva
+11183,Dacryoadenitis
+11184,Vascular abnormality of conjunctiva
+11185,Paralytic strabismus
+11186,Phoria
+11187,Cyclophoria
+11188,Congenital aphakia
+11189,Leptospirosis
+11190,Infectious disease
+11191,Sideroblastic anemia
+11192,Leukemoid reaction
+11193,Hyperimmunoglobulin M syndrome
+11194,Drug-induced neutropenia
+11195,Pernicious anemia
+11196,Cyclical neutropenia
+11197,Disorder of vagus nerve
+11198,Hypertrophy of tongue papillae
+11199,Encephalocele
+11200,Discordant ventriculoarterial connection
+11201,Total anomalous pulmonary venous return
+11202,Symbolic dysfunction
+11203,Disseminated intravascular coagulation in newborn
+11204,Bacterial infectious disease
+11205,Parvovirus infection
+11206,Malignant lymphoma
+11207,Diffuse large B-cell lymphoma
+11208,Ariboflavinosis
+11209,Mental disorder
+11210,Polyclonal hypergammaglobulinemia
+11211,Neutropenia associated with infectious disease
+11212,Delusional disorder
+11213,Osteomalacia
+11214,Amyloidosis
+11215,Fungal meningitis
+11216,Mild intellectual disability
+11217,Angioid streaks of choroid
+11218,Disorder of choroid of eye
+11219,Central giant cell reparative granuloma of jaw
+11220,Panniculitis
+11221,Chronic fatigue syndrome
+11222,Angioedema
+11223,Leprosy
+11224,Zygomycosis
+11225,Metastatic malignant neoplasm
+11226,Benign neoplasm of nasopharynx
+11227,Acquired coagulation factor deficiency
+11228,Hyperlipidemia
+11229,Hemoglobinopathy
+11230,Hemorrhagic disorder due to circulating anticoagulants
+11231,Thrombocytopenic disorder
+11232,Classical phenylketonuria
+11233,Hereditary fructosuria
+11234,Bipolar I disorder
+11235,Pancytopenia
+11236,Methemoglobinemia
+11237,Microaneurysm of retinal artery
+11238,Cortical senile cataract
+11239,Severe intellectual disability
+11240,Normal pressure hydrocephalus
+11241,Hyphema
+11242,Disorder of lacrimal system
+11243,Discoid lupus erythematosus of eyelid
+11244,Aneurysm of artery of lower extremity
+11245,Disorder of tongue
+11246,Hallucinations
+11247,Abnormal cervical Papanicolaou smear
+11248,Infection caused by Staphylococcus aureus
+11249,Histoplasmosis
+11250,Blastomycosis
+11251,Deficiency of macronutrients
+11252,Lipoma of intrathoracic organs
+11253,Selective immunoglobulin A deficiency
+11254,Hallucinogen dependence
+11255,Childhood and adolescent disturbance with introversion
+11256,Transient arterial retinal occlusion
+11257,Chorioretinal scar
+11258,Disorder of pulmonary circulation
+11259,Ventricular flutter
+11260,Ankylosis of tooth
+11261,Anomaly of tooth position
+11262,Mesangiocapillary glomerulonephritis
+11263,Feeding problems in newborn
+11264,Dizziness and giddiness
+11265,Viral meningitis
+11266,Proteus infection
+11267,Leishmaniasis
+11268,Disease caused by Adenovirus
+11269,Dysthymia
+11270,Ectopic production of endocrine substance
+11271,Mucopolysaccharidosis
+11272,Sleep related bruxism
+11273,Acute pain
+11274,Choroideremia
+11275,Retinal neovascularization
+11276,Disorder of iris
+11277,Duodenitis
+11278,Endometriosis (clinical)
+11279,Polyp of vulva
+11280,Severe pre-eclampsia
+11281,Precipitate labor
+11282,Hammer toe
+11283,Epispadias
+11284,Klippel-Feil sequence
+11285,Edema
+11286,Abnormal sputum
+11287,Hemolytic disease of fetus OR newborn due to RhD isoimmunization
+11288,Disease caused by Retroviridae
+11289,Gas gangrene
+11290,Mycosis
+11291,Disorder of thymus gland
+11292,Obesity
+11293,Abscess of thymus
+11294,Immunodeficiency disorder
+11295,Familial erythrocytosis
+11296,Heparin-induced thrombocytopenia
+11297,Impulse control disorder
+11298,Harmful pattern of use of alcohol
+11299,Autonomic dysreflexia
+11300,Hemiplegic migraine
+11301,Orbital hemorrhage
+11302,Pulmonary artery aneurysm
+11303,Hydronephrosis
+11304,Obstruction of neck of urinary bladder
+11305,Interrupted aortic arch
+11306,"Gestation period, 31 weeks"
+11307,Progressive multifocal leukoencephalopathy
+11308,Pinta
+11309,Candidiasis
+11310,Benign neoplasm of hypopharynx
+11311,Benign neoplasm of respiratory system and intrathoracic organ
+11312,Hypercarotinemia
+11313,Benign neoplasm of orbit
+11314,Lymphangioma
+11315,Mineral deficiency
+11316,Glycogen storage disease
+11317,Hypervolemia
+11318,Morbid obesity
+11319,Hereditary factor VIII deficiency disease
+11320,White blood cell disorder
+11321,Chorioretinitis
+11322,Jaw to cranial base anomaly
+11323,Loss of teeth
+11324,Abscess of vulva
+11325,Antepartum hemorrhage
+11326,Oligohydramnios
+11327,Anophthalmos
+11328,Multiple epiphyseal dysplasia
+11329,Glycosuria
+11330,Varicella
+11331,Haemophilus influenzae infection
+11332,Congenital syphilis
+11333,Aspergillosis
+11334,Benign neoplasm of rectum and anal canal
+11335,Disorder of the urea cycle metabolism
+11336,von Willebrand disorder
+11337,Disorder of sulfur-bearing amino acid metabolism
+11338,Harmful pattern of use of Cannabis
+11339,Retinal vascular disorder
+11340,Anisocoria
+11341,Acquired claw toe
+11342,Ventricular septal defect
+11343,"Gestation period, 30 weeks"
+11344,Chill
+11345,Abnormal histology findings
+11346,Spotted fevers
+11347,Kaposi's sarcoma (clinical)
+11348,Benign neoplasm of lacrimal drainage structure
+11349,Hyperkalemia
+11350,Generalized anxiety disorder
+11351,Disorder of iron metabolism
+11352,Autoimmune disease
+11353,Deficiency anemias
+11354,Borderline personality disorder
+11355,Disorder of autonomic nervous system
+11356,Deformity of orbit
+11357,Weakness of face muscles
+11358,Microgenia
+11359,Exceptionally large at birth
+11360,Systemic inflammatory response syndrome
+11361,Infection by Trichomonas
+11362,Disorders of bilirubin excretion
+11363,Dissociative disorder
+11364,Selective immunoglobulin M deficiency
+11365,Acute posthemorrhagic anemia
+11366,Specific enzyme deficiency
+11367,Drug-induced psychosis
+11368,Disorder of porphyrin metabolism
+11369,Monocytosis
+11370,Iridocyclitis
+11371,Macular corneal dystrophy
+11372,Orbital cellulitis
+11373,Scleritis
+11374,Lacrimal mucocele
+11375,Orbital granuloma
+11376,Transient neonatal thrombocytopenia
+11377,Biliuria
+11378,Abnormal findings diagnostic imaging heart+coronary circulat
+11379,Disease caused by Rhinovirus
+11380,Benign neoplasm of oropharynx
+11381,Leukopenia
+11382,Nutritional deficiency disorder
+11383,Disorder of fatty acid metabolism
+11384,Mesenteric lymphadenitis
+11385,Alcohol dependence
+11386,Disorder of olfactory nerve
+11387,Tonic pupillary reaction
+11388,Torsion of testis
+11389,Conjoined twins
+11390,Drug reaction AND/OR intoxication specific to newborn
+11391,Pectus carinatum
+11392,Underweight
+11393,Herpesvirus infection
+11394,Macroglobulinemia
+11395,Hemolytic anemia
+11396,Benign neoplastic disease
+11397,Adrenal cortical hypofunction
+11398,Hypocalcemia
+11399,Hypercalcemia
+11400,Lipoprotein deficiency disorder
+11401,Acidosis
+11402,Hypervitaminosis D
+11403,Sleep disorder
+11404,Disorder of hypoglossal nerve
+11405,Epiphora
+11406,Disorder of jaw
+11407,Pulp and periapical tissue disease
+11408,Cellulitis
+11409,Fetal birth trauma
+11410,Disturbance in speech
+11411,Congenital anomaly of pulmonary artery
+11412,Retractile testis
+11413,Dyssomnia
+11414,Genetic anomaly of leukocyte
+11415,Vitamin K deficiency
+11416,Schizophrenia
+11417,Meningitis
+11418,Disorder of sleep-wake cycle
+11419,Vitamin B6 deficiency
+11420,Disorder of phosphorus metabolism
+11421,Megaloblastic anemia
+11422,Secondary polycythemia
+11423,Dehydration
+11424,Blepharospasm
+11425,Disorder of glossopharyngeal nerve
+11426,Lymphedema
+11427,Pulmonary alveolar proteinosis
+11428,Amniotic cavity infection with antenatal problem
+11429,Antepartum deep vein thrombosis
+11430,Abnormal weight loss
+11431,Coxsackie virus disease
+11432,Syphilis
+11433,"Malignant neoplasm of lip, oral cavity and pharynx"
+11434,Vitamin D deficiency
+11435,Psychotic disorder
+11436,Panic disorder
+11437,Developmental delay
+11438,Immunosecretory disorder
+11439,Bacterial meningitis
+11440,Disseminated intravascular coagulation
+11441,Chronic pain
+11442,Narcolepsy
+11443,Disorder of meninges
+11444,Scleral staphyloma
+11445,Disorder of sclera
+11446,Varicose veins of vulva
+11447,Glossitis
+11448,Redundant prepuce and phimosis
+11449,Corpus luteum cyst
+11450,Infection of amniotic cavity
+11451,Altered mental status
+11452,Delayed milestone
+11453,Transitory neonatal electrolyte disturbance
+11454,Taste sense altered
+11455,Elevated level of transaminase and lactic acid dehydrogenase
+11456,Benign neoplasm of testis
+11457,Carotid sinus syncope
+11458,Intraoperative floppy iris syndrome
+11459,Retinal vasculitis
+11460,Abnormal pupil
+11461,Nontraumatic extradural hemorrhage
+11462,Abrasion of tooth
+11463,Cracked tooth
+11464,Balanoposthitis
+11465,Dystrophy of vulva
+11466,Postpartum coagulation defects
+11467,Acquired cavus deformity of foot
+11468,Neonatal hemorrhage
+11469,Congenital cytomegalovirus infection
+11470,Hypothermia of newborn
+11471,Meningococcal infectious disease
+11472,Behcet's syndrome
+11473,Vitamin deficiency
+11474,Iron deficiency anemia
+11475,Bipolar disorder
+11476,Metabolic disease
+11477,Disorder of copper metabolism
+11478,Anorexia nervosa
+11479,Post-traumatic stress disorder
+11480,Hereditary factor IX deficiency disease
+11481,Moderate intellectual disability
+11482,Progressive bulbar palsy
+11483,Band-shaped keratopathy
+11484,Exophthalmos
+11485,Drusen of optic disc
+11486,Pseudopapilledema
+11487,Cervical incompetence
+11488,Vulvodynia
+11489,Congenital pes cavus
+11490,Fragile X syndrome
+11491,Tongue tie
+11492,Feeling nervous
+11493,Pasteurella infection
+11494,Benign neoplasm of cranial nerve
+11495,Metabolic syndrome X
+11496,Hypervitaminosis A
+11497,Benign neoplasm of choroid
+11498,Evans syndrome
+11499,Compulsive gambling
+11500,Insomnia
+11501,Pigmentary glaucoma
+11502,Posterior subcapsular polar cataract
+11503,Enophthalmos
+11504,Thoracoabdominal aortic aneurysm
+11505,Blood in urine
+11506,Chondrocalcinosis
+11507,Ankylosing spondylitis
+11508,Congenital ptosis of upper eyelid
+11509,Congenital anomaly of cartilage
+11510,Asthenia
+11511,Giardiasis
+11512,Meningitis caused by echovirus
+11513,Coccidioidomycosis
+11514,Respiratory syncytial virus infection
+11515,Multiple myeloma
+11516,Qualitative platelet disorder
+11517,Harmful pattern of use of hallucinogen
+11518,Vitamin B deficiency
+11519,Anemia of chronic disease
+11520,Benign neoplasm of pituitary gland and craniopharyngeal duct
+11521,Tobacco dependence syndrome
+11522,Peripheral retinal degeneration
+11523,Pseudoexfoliation glaucoma
+11524,Granular corneal dystrophy
+11525,Abnormal pupillary function
+11526,Transient global amnesia
+11527,Bleeding
+11528,Abnormality of forces of labor
+11529,Osteochondritis dissecans
+11530,Postmature infancy
+11531,Hypoxemia
+11532,Epidemic vertigo
+11533,Disorder of histidine metabolism
+11534,Disorder of carbohydrate metabolism
+11535,Familial hyperchylomicronemia
+11536,Dependent personality disorder
+11537,Avoidant personality disorder
+11538,Overweight
+11539,Glaucoma
+11540,Multiple cranial nerve palsy
+11541,Eczematous dermatitis of eyelid
+11542,Myopathy of extraocular muscles
+11543,Pulpitis
+11544,Ectopic pregnancy
+11545,Polyhydramnios
+11546,Abnormal gait
+11547,Undescended testicle
+11548,Fever
+11549,Abnormal findings on diagnostic imaging of lung
+11550,Abnormal finding on antenatal screening of mother
+11551,Infectious mononucleosis
+11552,Pure hypercholesterolemia
+11553,Disorder of calcium metabolism
+11554,Hypokalemia
+11555,Pica
+11556,Choroidal detachment
+11557,Papilledema - optic disc edema due to raised intracranial pressure
+11558,Ventricular fibrillation
+11559,Laryngeal spasm
+11560,Pulmonary alveolar microlithiasis
+11561,Calcium deposits in tendon
+11562,Talipes planus
+11563,Enlargement of tongue
+11564,Neonatal disturbance of temperature regulation
+11565,Failure to thrive
+11566,Renal function tests outside reference range
+11567,Listeriosis
+11568,Bacterial infection caused by Pseudomonas
+11569,Chlamydial infection
+11570,Disseminated candidiasis
+11571,Benign neoplasm of mediastinum
+11572,Benign neoplasm of thymus
+11573,Vitamin A deficiency
+11574,Opioid dependence
+11575,Persistent hyperplasia of thymus
+11576,Harmful pattern of use of opioid
+11577,Hypersomnia
+11578,Epiphora due to insufficient drainage
+11579,Aneurysm of heart
+11580,Congenital hydrocephalus
+11581,Congenital varus deformity of foot
+11582,Spontaneous ecchymosis
+11583,Chyluria
+11584,Pneumocystosis
+11585,Quartan malaria
+11586,Essential thrombocythemia
+11587,Benign neoplasm of vulva
+11588,Amino acid transport disorder
+11589,Leukocytosis
+11590,Bulimia nervosa
+11591,Attention deficit hyperactivity disorder
+11592,Non-pyogenic meningitis
+11593,Atrophy of edentulous alveolar ridge
+11594,Vasopressin resistance
+11595,Atrophy of testis
+11596,Chondromalacia
+11597,Swan-neck deformity
+11598,Gestation less than 24 weeks
+11599,"Gestation period, 36 weeks"
+11600,Cyanosis
+11601,Glucose level outside reference range
+11602,Abnormal vaginal Papanicolaou smear
+11603,Sarcoidosis
+11604,Mixed hyperlipidemia
+11605,Disorder of mineral metabolism
+11606,Disorder of magnesium metabolism
+11607,Alkalosis
+11608,Localized adiposity
+11609,Profound intellectual disability
+11610,Idiopathic pulmonary hemosiderosis
+11611,Crowding of teeth
+11612,Mammary duct ectasia
+11613,Boutonnière deformity
+11614,Decrease in height
+11615,Excessive eating
+11616,Liver function tests outside reference range
+11617,Amebic infection
+11618,Ornithosis
+11619,Benign neuroendocrine tumor
+11620,Eating disorder
+11621,Disorder of branched-chain amino acid metabolism
+11622,REM sleep behavior disorder
+11623,Panuveitis
+11624,Hypopyon
+11625,Dacryocystitis
+11626,Otosclerosis
+11627,Macrogenia
+11628,Atrophy of tongue papillae
+11629,Dyspareunia
+11630,"Hydatidiform mole, benign"
+11631,Actinic reticuloid
+11632,Articular cartilage disorder
+11633,Complete trisomy 21 syndrome
+11634,Neonatal polycythemia
+11635,Abnormal weight gain
+11636,Myoglobinuria
+11637,Amnesia
+11638,Transient neonatal neutropenia
+11639,Abnormal findings on diagnostic imaging of skull and head
+11640,Neonatal finding
+11641,Allergy to drug
+11642,Self inflicted injury
+11643,Convergence insufficiency
+11644,Horseshoe retinal tear without detachment
+11645,Vertigo
+11646,Pre-eclampsia
+11647,Endomyocardial fibrosis
+11648,Mast cell disorder
+11649,Indigestion
+11650,"Crying, excessive"
+11651,Hepatic coma due to acute hepatitis B with delta agent
+11652,Coronavirus infection
+11653,Benign neoplasm of trachea
+11654,Autism spectrum disorder
+11655,Anemia
+11656,Ascorbic acid deficiency
+11657,Central sleep apnea syndrome
+11658,Chronic meningitis
+11659,Choroidal degeneration
+11660,Lymphangitis
+11661,Left ventricular failure
+11662,Non-traumatic tendon rupture
+11663,Malaise and fatigue
+11664,Gangrenous disorder
+11665,Abnormal posture
+11666,Viral disease
+11667,Cryptococcosis
+11668,Disorder of purine and pyrimidine metabolism
+11669,Hypogammaglobulinemia
+11670,Short stature disorder
+11671,Narcissistic personality disorder
+11672,Alexia
+11673,Schizoid personality disorder
+11674,Parasomnia
+11675,Orbital congestion
+11676,Hyperpigmentation of eyelid
+11677,Hypertrophy of nasal turbinates
+11678,Prolonged labor
+11679,Wristdrop
+11680,Congenital aniridia
+11681,Acquired clubhand
+11682,Hypoplastic left heart syndrome
+11683,Hemolytic disease of fetus OR newborn due to isoimmunization
+11684,Malignant hyperthermia
+11685,Bartonellosis
+11686,Lipoma
+11687,Androgen resistance syndrome
+11688,Pure hyperglyceridemia
+11689,Plasmacytosis
+11690,Histrionic personality disorder
+11691,Disorder of immune function
+11692,Obsessive-compulsive disorder
+11693,Paralysis
+11694,Depressive disorder
+11695,Obstructive hydrocephalus
+11696,Cannabis dependence
+11697,Retinal vascular occlusion
+11698,Meesman's corneal dystrophy
+11699,Pulmonary embolism
+11700,Orbital cyst
+11701,Aphasia
+11702,Accretion on teeth
+11703,Anodontia
+11704,Appendicitis
+11705,Threatened miscarriage
+11706,Congenital anomaly of sclera
+11707,5p partial monosomy syndrome
+11708,Abnormal findings on diagnostic imaging of urinary organs
+11709,Mycobacteriosis
+11710,Lyme disease
+11711,Sexually transmitted infectious disease
+11712,Toxoplasmosis
+11713,Benign neoplasm of tongue
+11714,Gout
+11715,Agranulocytosis
+11716,Social phobia
+11717,Paranoid personality disorder
+11718,Encopresis
+11719,Communicating hydrocephalus
+11720,Trigeminal nerve disorder
+11721,Chronic pain syndrome
+11722,Adhesions of iris
+11723,Takayasu's disease
+11724,Interstitial emphysema of lung
+11725,Peritonsillar abscess
+11726,Torticollis
+11727,Periostitis
+11728,Renal pelvis and ureter obstructive defects
+11729,Neonatal candidiasis
+11730,Neonatal jaundice after preterm delivery
+11731,Erysipelothrix
+11732,Methicillin resistant Staphylococcus aureus infection
+11733,Medulloadrenal hyperfunction
+11734,Megaloblastic anemia due to folate deficiency
+11735,Acquired hemolytic anemia
+11736,Wiskott-Aldrich syndrome
+11737,Antisocial personality disorder
+11738,Intermittent explosive disorder
+11739,Chorea
+11740,Stenosis of cervix
+11741,Juvenile osteochondritis
+11742,Cor triatriatum
+11743,Monosomy and deletion from autosome
+11744,Meningeal irritation
+11745,Anaphylaxis
+11746,Infection caused by Clostridium perfringens
+11747,Non-thrombocytopenic purpura
+11748,Thiamine deficiency
+11749,Cystic fibrosis
+11750,Disorder of peroxisomal function
+11751,Autoimmune hemolytic anemia
+11752,Mixed receptive-expressive language disorder
+11753,Schwartz-Jampel syndrome
+11754,Open-angle glaucoma
+11755,Chronic nasopharyngitis
+11756,Pathological resorption of tooth
+11757,Geographic tongue
+11758,Glossodynia
+11759,Meckel's diverticulum
+11760,Anomaly of sex chromosome
+11761,Talipes valgus
+11762,Vomiting
+11763,Neonatal edema
+11764,Electromyogram abnormal
+11765,Incoordination
+11766,Blood gases outside reference range
+11767,Brucellosis
+11768,Mixed acid-base balance disorder
+11769,Lymphocytopenia
+11770,Anxiety
+11771,Myoclonus
+11772,Friedreich ataxia
+11773,Retinal telangiectasia
+11774,Ulcerative blepharitis
+11775,Low tension glaucoma
+11776,Endocarditis
+11777,Dysphasia
+11778,Disorder of sweat gland
+11779,Congenital anomaly of posterior segment of eye
+11780,"Gestation period, 33 weeks"
+11781,Finding of serum tumor marker level
+11782,Sprain of hip
+11783,Human papilloma virus infection
+11784,Hemangioma
+11785,Hyperosmolality and or hypernatremia
+11786,Disorder of fluid AND/OR electrolyte
+11787,Personality disorder
+11788,Cranial nerve disorder
+11789,Hereditary choroidal dystrophy
+11790,Epiphora due to excess lacrimation
+11791,Supraventricular premature beats
+11792,Thrombosis of cerebral artery
+11793,Plicated tongue
+11794,Localized scleroderma
+11795,Common arterial trunk (truncus arteriosus)
+11796,Prader-Willi syndrome
+11797,Acetonuria
+11798,Anxiety disorder
+11799,Benign neoplasm of nasal cavity
+11800,Benign neoplasm of soft tissue
+11801,Benign neoplasm of accessory sinus
+11802,Adhesions of temporomandibular joint
+11803,Loss of appetite
+11804,Actinic granuloma
+11805,Disorder of tendon
+11806,Disorder of duodenum
+11807,Oligomenorrhea
+11808,Congenital malposition of cardiac apex
+11809,Rheumatic fever
+11810,Dyslexia
+11811,Duodenal fistula
+11812,"Gestation period, 32 weeks"
+11813,Fracture of femur
+11814,Hypercementosis
+11815,Obstructive sleep apnea syndrome
+11816,Swollen abdomen
+11817,Harmful pattern of use of sedative
+11818,Hypertensive heart disease
+11819,Stenosis of carotid artery
+11820,Disorder of ligament
+11821,Macrotia
+11822,Muscle pain
+11823,Disorder of ciliary body
+11824,Congenital anomaly of larynx
+11825,Calcium deposit in bursa
+11826,Human ehrlichiosis
+11827,Hungry bone syndrome
+11828,Congenital malformation of sternum
+11829,Congenital functional disorders of the colon
+11830,Precerebral arterial occlusion
+11831,Labor and delivery complicated by fetal heart rate anomaly
+11832,"Congenital cardiovascular disorders during pregnancy, childbirth and the puerperium"
+11833,Barrett's esophagus
+11834,Malignant neoplasm of thymus gland
+11835,Malignant neoplasm of appendix
+11836,Malignant neoplasm of stomach
+11837,Malignant neoplastic disease
+11838,Malignant neoplasm of small intestine
+11839,Eosinophilic gastroenteritis
+11840,Abnormal cytology findings
+11841,Acquired vaginal enterocele
+11842,Impaired cognition
+11843,Acute laryngitis with obstruction
+11844,Central pain syndrome
+11845,Neonatal bradycardia
+11846,Neonatal tachycardia
+11847,Hematochezia
+11848,Kyphoscoliosis deformity of spine
+11849,Sedative dependence
+11850,Human T-lymphotropic virus 1 infection
+11851,Primary focal hyperhidrosis
+11852,Disorder of transplanted heart
+11853,Systolic heart failure
+11854,Diastolic heart failure
+11855,Malignant neoplasm of brain
+11856,Localized infection of skin AND/OR subcutaneous tissue
+11857,Vascular dementia
+11858,Conduct disorder
+11859,Aneurysm of thoracic aorta
+11860,Abnormal anal Papanicolaou smear
+11861,Eclampsia
+11862,Dyscoordinate labor
+11863,Disease caused by Orthopoxvirus
+11864,Diabetic ketoacidosis
+11865,Disease caused by Rickettsia
+11866,Plasma cell neoplasm
+11867,Congenital anomaly of urinary bladder
+11868,Tremor
+11869,Hypertrichosis
+11870,Retraction of eyelid
+11871,Infectious peritonitis
+11872,Amenorrhea
+11873,Obstetrical air embolism
+11874,"Gestation period, 34 weeks"
+11875,Postpartum hemorrhage
+11876,Vitreous membranes
+11877,Herpes zoster
+11878,Disorder of anus
+11879,Congenital anomaly of face bones
+11880,Mitral valve regurgitation
+11881,Rupture of uterus
+11882,Tachycardia
+11883,Hypersensitivity pneumonitis
+11884,Mood disorder
+11885,Candidiasis of vulva
+11886,Endocrine finding
+11887,Rheumatic chorea
+11888,Abscess
+11889,Inflammatory disorder of the eye
+11890,Congenital microcheilia
+11891,Venous thrombosis
+11892,"Gestation period, 35 weeks"
+11893,Shock during AND/OR following labor AND/OR delivery
+11894,Abscess of oral tissue
+11895,Anemia due to protein deficiency
+11896,Fatal familial insomnia
+11897,Inborn error of metabolism
+11898,Delusion
+11899,Prion disease
+11900,Febrile convulsion
+11901,Herpes simplex
+11902,Benign neoplasm of rectum
+11903,Middle ear effusion
+11904,Malignant hyperthermia genetic susceptibility
+11905,Nontraumatic hematoma of soft tissue
+11906,Anemia due to enzymopathy
+11907,Acquired arteriovenous malformation of vascular structure of gastrointestinal tract
+11908,Adenosine deaminase 2 deficiency
+11909,Agenesis of ureter
+11910,Pain of knee region
+11911,Allergic reaction caused by Hevea brasiliensis latex protein
+11912,Ring chromosome
+11913,SARS-CoV-2 viremia
+11914,Vitreomacular adhesion
+11915,Multisystem inflammatory syndrome in adults
+11916,Psychomotor retardation
+11917,Atypical intraductal papilloma of breast
+11918,Displacement of intervertebral disc
+11919,Macrocephaly
+11920,Venous thrombosis in pregnancy
+11921,Microcephaly
+11922,Normal childhood development
+11923,Excessive weight gain during pregnancy
+11924,Varicose veins in pregnancy
+11925,Congenital talipes equinovarus
+11926,Polio virus immune
+11927,Abrasion of mouth region
+11928,Strain of tendon of lower leg
+11929,Acrocardiofacial syndrome
+11930,Acquired atresia of vagina
+11931,Congenital agenesis of vagina
+11932,Calcification of umbilical cord
+11933,Rupture of rotator cuff of shoulder
+11934,Bilateral carpal tunnel syndrome
+11935,Acute idiopathic neonatal pulmonary hemorrhage
+11936,Congenital anomaly of gastrointestinal vessel
+11937,Baby premature 35-36 weeks
+11938,Chronic migraine without aura
+11939,Infectious synovitis
+11940,Lipid-rich atherosclerosis of coronary artery
+11941,Excessive growth rate
+11942,Enteropathic arthritis
+11943,Interstitial pneumonitis
+11944,Early neonatal jaundice due to excessive hemolysis
+11945,Early neonatal jaundice due to hepatocellular damage
+11946,Neisseria gonorrhoeae proctitis
+11947,Dislocation of joint of finger
+11948,Fracture of bone of thorax
+11949,Left retinopathy of prematurity stage 5
+11950,Nicotine user during pregnancy
+11951,Acute cough
+11952,Malignant neuroendocrine neoplasm
+11953,Well-differentiated neuroendocrine tumor of thymus
+11954,Carcinoid tumor of bronchus
+11955,Chronic respiratory disease originating in perinatal period
+11956,Well-differentiated neuroendocrine tumor of kidney
+11957,Well-differentiated neuroendocrine tumor
+11958,Well-differentiated neuroendocrine tumor of stomach
+11959,Well-differentiated neuroendocrine tumor of intestine
+11960,Synovial popliteal cyst
+11961,Angiodysplasia of gastrointestinal tract
+11962,Diffuse tenosynovial giant cell tumor
+11963,Vasopressin-related polyuria
+11964,Fracture of bone of wrist region
+11965,Congenital malformation of bone of thorax
+11966,Congenital cutaneous mastocytosis
+11967,Maternal perinatal jaundice
+11968,Hypocoagulability state
+11969,Harmful pattern of substance use
+11970,Alcohol use disorder
+11971,Opioid use disorder
+11972,Stimulant use disorder
+11973,Cannabis use disorder
+11974,Hypnotic use disorder
+11975,Anxiolytic use disorder
+11976,Hydroxyapatite deposition disease
+11977,Pain of hip joint
+11978,Dislocation of wrist
+11979,Dislocation of joint of foot
+11980,Stenosis of cerebral artery
+11981,Erectile dysfunction
+11982,Ectasia of sclera
+11983,Bacterial sepsis
+11984,Tibialis posterior tendinitis
+11985,Adult osteochondrosis of spine
+11986,Underdevelopment of nose
+11987,Monoclonal gammopathy (clinical)
+11988,Transient synovitis
+11989,Retained placenta
+11990,Benign neoplasm of meninges
+11991,T-cell lymphoma (clinical)
+11992,Renal agenesis
+11993,Hyperplasia of kidney
+11994,Congenital absence of ovary
+11995,Hypochondrogenesis
+11996,Lamellar ichthyosis
+11997,Central cleft lip
+11998,Small intestine atresia and stenosis
+11999,Fallopian tube and broad ligament anomalies
+12000,Psychoactive substance use disorder
+12001,Fetal alcohol syndrome
+12002,Minor partial trisomy
+12003,Congenital atresia of large intestine
+12004,Arteriovenous malformation of precerebral vessels
+12005,Congenital cleft nose
+12006,Congenital subglottic stenosis
+12007,Congenital diverticulum of esophagus
+12008,Anomalies of pancreas
+12009,Congenital talipes calcaneovalgus
+12010,Lordosis and scoliosis deformity of spine
+12011,Chédiak-Higashi syndrome
+12012,Tricuspid valve regurgitation
+12013,Abnormal pregnancy
+12014,Whole chromosome trisomy syndrome
+12015,Duplication with other complex rearrangement
+12016,"Karyotype 46, X iso (Xq)"
+12017,Parainfluenza
+12018,Noninfectious dermatosis of eyelid
+12019,Hypothalamic syndrome
+12020,Congenital lateral curvature of penis
+12021,Tay-Sachs disease
+12022,Arcus senilis
+12023,Manifest vertical squint
+12024,Abnormal urine
+12025,Right aortic arch
+12026,Age-related cognitive decline
+12027,Microphobia
+12028,Pain in upper limb
+12029,Cramp in lower leg associated with rest
+12030,Hyponasality syndrome
+12031,Fracture of skull and facial bones
+12032,High risk sexual behavior
+12033,Paroxysmal vertigo
+12034,Homocystinuria
+12035,Red blood cell count outside reference range
+12036,Erythrocyte sedimentation rate above reference range
+12037,Pulmonary arterial hypertension
+12038,Antibody studies abnormal
+12039,Hypochloremia
+12040,Lesch-Nyhan syndrome
+12041,Staphylococcus carrier
+12042,Streptococcus carrier
+12043,Sprain of ankle and/or foot
+12044,Sprain of ligament of lumbosacral joint
+12045,Sprain of wrist and/or hand
+12046,Chorioamnionitis
+12047,Abnormal movement
+12048,Terrified
+12049,Dependence on wheelchair
+12050,Blindness AND/OR vision impairment level
+12051,Heterozygous thalassemia
+12052,Skeletal dysplasia
+12053,Hypocupremia
+12054,Pain in lower limb
+12055,Gestational diabetes mellitus
+12056,Paroxysmal nocturnal hemoglobinuria
+12057,Homicidal thoughts
+12058,Abscess of lung and mediastinum
+12059,Hemorrhagic complication of pregnancy
+12060,Emotional state finding
+12061,Periapical abscess
+12062,Disorder of visual cortex
+12063,Peptic ulcer
+12064,Congenital anomaly of lens
+12065,Lipid storage disease
+12066,Infectious disease of central nervous system
+12067,Uveitis
+12068,Facial myokymia
+12069,Adrenal hyperfunction
+12070,Disorder of puberty
+12071,Uterus unicornis
+12072,Infection of skin
+12073,Very long chain acyl-CoA dehydrogenase deficiency
+12074,Torsion of ovary
+12075,Essential fatty acid deficiency
+12076,Hypervitaminosis B6
+12077,Hypercholesterolemia
+12078,Medium-chain acyl-coenzyme A dehydrogenase deficiency
+12079,Wild type ATTR amyloidosis
+12080,Transcobalamin II deficiency
+12081,Trimethylaminuria
+12082,Disorder of galactose metabolism
+12083,Disorder of carbohydrate absorption
+12084,Bacterial infection of skin
+12085,Intracranial aneurysm
+12086,Diffuse goiter
+12087,Thyroid nodule
+12088,Uninodular goiter
+12089,Hyposplenism
+12090,Hyperprolactinemia
+12091,Disorder of lysine and hydroxylysine metabolism
+12092,3-Methylglutaconic aciduria
+12093,Focal segmental glomerulosclerosis
+12094,Renal impairment
+12095,Measles
+12096,Hyperemesis gravidarum
+12097,Cardiac pacemaker
+12098,Sandhoff disease
+12099,Melanoma in situ of skin (clinical)
+12100,"Mucopolysaccharidosis, MPS-IV-B"
+12101,Hyperesthesia
+12102,Disorder of glycoprotein metabolism
+12103,Myringitis
+12104,Acquired hydrocele
+12105,Hair follicle disorder
+12106,Steatocystoma multiplex
+12107,Granulomatous disorder of the skin and subcutaneous tissue
+12108,"Mesothelioma (malignant, clinical disorder)"
+12109,Congenital anomaly of lip
+12110,Placental insufficiency
+12111,Singers' nodes
+12112,Multinodular goiter
+12113,Drug-induced hypoglycemia
+12114,Polyglandular hyperfunction
+12115,Disorder of ornithine metabolism
+12116,Tear of meniscus of knee
+12117,Congenital insufficiency of pulmonary valve
+12118,Familial chondrocalcinosis
+12119,Dilated peripartum cardiomyopathy
+12120,Congenital hydronephrosis
+12121,Androgen level above reference range
+12122,Non-Hodgkin's lymphoma (clinical)
+12123,"Hodgkin's disease, nodular sclerosis (clinical)"
+12124,Phonological disorder
+12125,Delta thalassemia
+12126,Ectopic kidney
+12127,Skin hypopigmented
+12128,Burkitt's lymphoma (clinical)
+12129,Covert stuttering
+12130,Fabry's disease
+12131,Inflammatory disorder of digestive tract
+12132,Frontotemporal dementia
+12133,Idiopathic familial dystonia
+12134,Dravet syndrome
+12135,Hydrocephalus
+12136,Spastic cerebral palsy
+12137,Splenic infarction
+12138,Non-infective meningitis
+12139,Respiratory bronchiolitis associated interstitial lung disease
+12140,Transient neonatal myasthenia gravis
+12141,Cerebral amyloid angiopathy
+12142,Bacterial encephalitis
+12143,Idiopathic orofacial dystonia
+12144,Lennox-Gastaut syndrome
+12145,Lacunar infarction
+12146,Cerebrospinal fluid leak
+12147,Expressive language disorder
+12148,AL amyloidosis
+12149,Neonatal urinary tract infection
+12150,Neonatal massive umbilical hemorrhage
+12151,Fracture of foot
+12152,Sprain of ligament of upper limb
+12153,Disturbance of sodium balance of newborn
+12154,Meconium plug
+12155,Brainstem death
+12156,Noninflammatory disorder of broad ligament
+12157,Albinism
+12158,Neonatal cerebral ischemia
+12159,Congenital hypertonia
+12160,Vesicular eczema
+12161,Dengue hemorrhagic fever
+12162,Congenital postural scoliosis
+12163,Fungal pneumonia
+12164,Neonatal disorder caused by noxious substance transmitted via breast milk
+12165,Implantation of automatic cardiac defibrillator
+12166,Deficiency of glucose-6-phosphate dehydrogenase
+12167,Visual field scotoma
+12168,Fracture of upper limb
+12169,Deficiency of UDPglucose-hexose-1-phosphate uridylyltransferase
+12170,Ophthalmoplegia
+12171,Metatarsus adductus
+12172,Candidiasis of nails
+12173,Arginase deficiency
+12174,Asperger's disorder
+12175,Generalized epilepsy
+12176,Chronic nephritic syndrome
+12177,Breast signs and symptoms
+12178,Mediastinal emphysema
+12179,Gestational edema with proteinuria
+12180,"Diabetes mellitus during pregnancy, childbirth and the puerperium"
+12181,Hypertrophic scar
+12182,Accessory lobe of lung
+12183,Fracture of phalanx of foot
+12184,Primary sclerosing cholangitis
+12185,Falls
+12186,Mammography abnormal
+12187,Gastrojejunal ulcer
+12188,Steatotic liver disease
+12189,Glomerular disease
+12190,Infections of urethra in pregnancy
+12191,"Mental disorders during pregnancy, childbirth and the puerperium"
+12192,Acquired blepharophimosis
+12193,Periodic paralysis
+12194,Congenital aneurysm of aorta
+12195,Aortopulmonary window
+12196,Skin changes due to chronic exposure to non-ionizing radiation
+12197,Obstructed labor due to abnormality of maternal pelvic organs
+12198,Vascular Ehlers-Danlos syndrome
+12199,Calcinosis cutis
+12200,4p partial monosomy syndrome
+12201,False labor
+12202,Pregnancy-induced edema and proteinuria without hypertension
+12203,Trichotillomania
+12204,"Viral hepatitis complicating pregnancy, childbirth and the puerperium"
+12205,Corn - lesion
+12206,Cirrhosis of liver
+12207,Placental transfusion syndromes
+12208,Complications of anesthesia during labor and delivery
+12209,Lung function testing abnormal
+12210,Neurological diagnostic procedure - abnormal
+12211,Visual testing abnormal
+12212,Urticaria caused by cold and heat
+12213,Hemiparesis
+12214,Congenital diaphragmatic hernia
+12215,Umbilical granuloma
+12216,Clicking hip
+12217,Café au lait spots
+12218,Callosity
+12219,Miscarriage
+12220,Thickening of skin
+12221,Coloboma of lens
+12222,Congenital prominent auricle
+12223,Segmental and somatic dysfunction
+12224,Congenital malformation of corpus callosum
+12225,Irido-corneo-trabecular dysgenesis
+12226,Ebstein's anomaly
+12227,Infundibular pulmonic stenosis
+12228,Hypertrophy of bone
+12229,Congenital atresia of foramen of Luschka
+12230,Abnormal blue sclerae
+12231,Idiopathic scoliosis
+12232,Preauricular fistula
+12233,Patent foramen ovale
+12234,Plagiocephaly
+12235,Neonatal hypertension
+12236,Indifference
+12237,Menopausal symptom
+12238,Neonatal cerebral leukomalacia
+12239,Pain in scrotum
+12240,Fracture of hand
+12241,Primary hyperoxaluria
+12242,Inflammatory bowel disease
+12243,Cleft uvula
+12244,Corticobasal degeneration
+12245,"Niemann-Pick disease, type D"
+12246,Mood swings
+12247,Congenital prolapse of urethra
+12248,Finding of menstrual bleeding
+12249,Lupus anticoagulant disorder
+12250,Esophageal web
+12251,Pulmonary edema
+12252,Acute megakaryoblastic leukemia
+12253,Neonatal ingestion of maternal blood
+12254,Very low birth weight infant
+12255,High birth weight
+12256,Molybdenum deficiency
+12257,Vanadium deficiency
+12258,Congenital malformation
+12259,Excess intake of micronutrients
+12260,Autonomic neuropathy
+12261,Paraplegic immobility syndrome
+12262,Problem behavior
+12263,Cutaneous leishmaniasis
+12264,Psychoactive substance dependence
+12265,Abnormal saccadic eye movement
+12266,Corneal pigmentation
+12267,Pigmentary incontinence
+12268,Irregular eye movements
+12269,Corneal neovascularization
+12270,Borreliosis
+12271,Abnormal intraocular pressure
+12272,Reduced concentration span
+12273,Developmental academic disorder
+12274,Physical aggression
+12275,Strain of tendon of upper limb
+12276,Persistent hematuria
+12277,Recurrent hematuria
+12278,Allergic reaction to insect venom
+12279,Blood pressure above reference range
+12280,Tall stature
+12281,Cerebrospinal fluid circulation disorder
+12282,Ptosis of eyebrow
+12283,Orbit finding
+12284,Congenital sequestration of lung
+12285,Polyp of vaginal wall
+12286,Ventricular premature complex
+12287,Malignant neoplasm of peritoneum and retroperitoneum
+12288,Anuria
+12289,Nutritional disorder
+12290,Esophageal reflux finding
+12291,Self-injurious behavior
+12292,Malignant neoplasm of lacrimal gland
+12293,Uterine prolapse
+12294,Feces contents abnormal
+12295,Kearns-Sayre syndrome
+12296,Hemoglobin E disease
+12297,Malignant neoplasm of cardia of stomach
+12298,Malignant neoplasm of intrahepatic bile duct
+12299,Retained menstruation
+12300,Malignant neoplasm of cranial nerve
+12301,Malignant neoplasm of pituitary gland and craniopharyngeal duct
+12302,Malignant neoplasm of nasopharynx
+12303,"Malignant neoplasm of nasal cavities, middle ear and accessory sinuses"
+12304,Histopathology finding
+12305,Malignant neoplasm of endometrium of corpus uteri
+12306,Polyp at cervical os
+12307,Pituitary dependent hypercortisolism
+12308,Dietary calcium deficiency
+12309,Disorders of amino acid transport and metabolism
+12310,Old meconium staining liquor
+12311,Bleeding from nose
+12312,Bleeding from larynx
+12313,Ocular albinism
+12314,Disorder of acid-base balance
+12315,Legionella infection
+12316,"Mucopolysaccharidosis, MPS-I-H/S"
+12317,Coarctation of pulmonary artery
+12318,Hereditary persistence of fetal hemoglobin
+12319,Idiopathic aplastic anemia
+12320,Antiphospholipid syndrome
+12321,Disorders of pyruvate metabolism and gluconeogenesis
+12322,Waldenström macroglobulinemia
+12323,Hypomagnesemia
+12324,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease
+12325,Lymphocyte function antigen-1 defect
+12326,Chiari malformation
+12327,Thyroid atrophy
+12328,Gilbert's syndrome
+12329,Drug-induced adrenocortical insufficiency
+12330,Anemia of pregnancy
+12331,Childhood or adolescent disorder of social functioning
+12332,Adverse reaction to mumps vaccine
+12333,Merkel cell carcinoma
+12334,Maple syrup urine disease
+12335,Congenital malformation of vitreous humor
+12336,Cobalamin deficiency
+12337,Cystinosis
+12338,Extreme obesity with alveolar hypoventilation
+12339,Selective immunoglobulin G deficiency
+12340,Major histocompatibility complex class II deficiency
+12341,Atrioventricular septal defect - isolated atrial component
+12342,Folic acid deficiency
+12343,Dietary selenium deficiency
+12344,Dietary zinc deficiency
+12345,Disorder of glutamine metabolism
+12346,Gaucher's disease
+12347,HSMN IV
+12348,Brown-Séquard syndrome
+12349,Immunoglobulin A vasculitis
+12350,Iris and ciliary body vascular disorder
+12351,Iris and ciliary body degeneration
+12352,"Glaucoma in endocrine, nutritional and metabolic diseases"
+12353,Cerebral venous sinus thrombosis
+12354,Puerperal sepsis
+12355,Cauda equina syndrome
+12356,Neural tube defect
+12357,Idiopathic erosion of teeth
+12358,Double inlet ventricle
+12359,Parachute malformation of tricuspid valve
+12360,Deformity of knee joint
+12361,Toxoplasma encephalitis
+12362,Stenosis of external auditory canal
+12363,Ventricular tachycardia
+12364,Pain of ear
+12365,Immune thrombocytopenia
+12366,Progressive supranuclear ophthalmoplegia
+12367,Familial dysautonomia
+12368,Choroidal hemorrhage and rupture
+12369,Hypernasality syndrome
+12370,Galactosylceramide beta-galactosidase deficiency
+12371,Phantom limb
+12372,Acute epiglottitis
+12373,Leigh's disease
+12374,Pigmentary pallidal degeneration
+12375,Adhesion of intestine
+12376,Congenital dilatation of esophagus
+12377,Anterior cerebral artery syndrome
+12378,Pericardial effusion - noninflammatory
+12379,Congenital malformation of trachea and bronchus
+12380,"Congenital malformation of tongue, mouth and pharynx"
+12381,Embryonic cyst of cervix
+12382,Congenital malformation of the urinary system
+12383,Vogt-Koyanagi-Harada disease
+12384,Congenital abnormality of skull shape
+12385,Corneal scars and opacities
+12386,Ichthyosis vulgaris
+12387,Laryngeal hypoplasia
+12388,Congenital malformation of salivary glands and ducts
+12389,Congenital malformation of uterus and cervix
+12390,Fuchs' corneal dystrophy
+12391,Conjunctival degenerations and deposits
+12392,Congenital malformation of clitoris
+12393,Bullous ichthyosiform erythroderma
+12394,Middle cerebral artery syndrome
+12395,Posterior cerebral artery syndrome
+12396,Hereditary lymphedema
+12397,Generalized ischemic myocardial dysfunction
+12398,Malignant neoplasm of exocrine pancreas
+12399,Hypoplasia of thumb
+12400,Partial trisomy 13 in Patau's syndrome
+12401,Ventricular fibrillation and flutter
+12402,Nontraumatic intracranial subdural hemorrhage
+12403,Brainstem stroke syndrome
+12404,Cerebellar stroke syndrome
+12405,Squamous cell carcinoma of skin
+12406,Cyst of skin
+12407,Strain of muscle of lower limb
+12408,Nasal sinus mucocele
+12409,Chronic laryngitis and laryngotracheitis
+12410,Basal cell carcinoma of skin
+12411,Malignant neoplasm of breast
+12412,Malignant neoplasm of peripheral nerve
+12413,Benign neoplasm of salivary gland
+12414,Congenital laryngomalacia
+12415,Congenital malformation of anterior abdominal wall
+12416,Congenital posterior urethral valves
+12417,Skull congenital deformities
+12418,Multiple congenital exostosis
+12419,Noninflammatory cervical disorder
+12420,Finding of heart sounds
+12421,Malignant neoplasm of head and/or neck
+12422,Partial trisomy 18 in Edward's syndrome
+12423,Balanced rearrangement and structural marker
+12424,Lower respiratory tract finding
+12425,Trichilemmal cyst
+12426,Pain of joint of ankle
+12427,Acute inflammation of lacrimal passages
+12428,Malignant neoplasm of salivary gland
+12429,Malignant neoplasm of digestive organ
+12430,Finding of general observation of appearance
+12431,Impulsive character
+12432,Pheochromocytoma
+12433,Thrombocytopenic purpura
+12434,"Glutaric aciduria, type 2"
+12435,Pulmonary arteriovenous malformation
+12436,Arterial malformation
+12437,Congenital arteriovenous malformation
+12438,Interstitial lung disease
+12439,Chronic thromboembolic pulmonary hypertension
+12440,Streptococcus pyogenes infection
+12441,Paraganglioma
+12442,Hypertriglyceridemia
+12443,Keratoconjunctivitis sicca
+12444,Acute intermittent porphyria
+12445,Microcytic anemia
+12446,Hemophagocytic lymphohistiocytosis
+12447,Persistent neonatal pulmonary hypertension
+12448,Carotid artery aneurysm
+12449,Cerebral arteriovenous malformation
+12450,Tooth eruption disorder
+12451,Odontogenic cyst
+12452,Dislocation of temporomandibular joint
+12453,Impacted tooth
+12454,Hypertrophic cardiomyopathy
+12455,Bannayan syndrome
+12456,Slurred speech
+12457,Lesion of labia
+12458,Coronary artery spasm
+12459,Chronic pelvic inflammatory disease
+12460,Kinking of ureter
+12461,Normal position of gravid uterus
+12462,Gastrointestinal obstruction
+12463,Iatrogenic hypopituitarism
+12464,Drug-induced thyroiditis
+12465,Histiocytic syndrome
+12466,Acute pelvic inflammatory disease
+12467,Erythrocytosis
+12468,Neoplasm of extrahepatic bile ducts
+12469,Neoplasm of placenta
+12470,Drusen stage macular degeneration
+12471,Globulin level outside reference range
+12472,Erythropoiesis finding
+12473,Dilatation of aorta
+12474,Deep venous thrombosis
+12475,Lobar pneumonia
+12476,Chronic myelomonocytic leukemia
+12477,Traumatic or nontraumatic brain injury
+12478,Thoracic back pain
+12479,Abnormal structure of albumin
+12480,Congenital anomaly of central nervous system
+12481,Cerebral palsy
+12482,Dislocation of joint of spine
+12483,Mononeuropathy
+12484,Hereditary motor and sensory neuropathy
+12485,Complex regional pain syndrome
+12486,Vascular disorder of intestine
+12487,Optic disc disorder
+12488,Eye infection
+12489,Congenital structural abnormality of cornea
+12490,Familial hypercholesterolemia
+12491,Infection caused by Clostridium botulinum
+12492,Primary biliary cholangitis
+12493,Torsades de pointes
+12494,Dislocation of sternoclavicular joint
+12495,Polyp of nasal sinus
+12496,Hemispatial neglect
+12497,Pericarditis
+12498,Congenital hypoplasia of kidney
+12499,Parkinsonism
+12500,Nephrosclerosis
+12501,Disorder of aromatic amino acid metabolism
+12502,Parasitic skin infestation
+12503,Diverticulitis
+12504,Chronic atrial fibrillation
+12505,Hand foot and mouth disease
+12506,Primary eosinophilic endomyocardial restrictive cardiomyopathy
+12507,Female infertility of anovulatory origin
+12508,Hyperthyroidism
+12509,GM2 gangliosidosis
+12510,Solitary nodule of lung
+12511,Involuntary movement
+12512,Anomaly of placenta
+12513,Maternal pyrexia in labor
+12514,Entropion and trichiasis of eyelid
+12515,Streptococcus agalactiae infection
+12516,Dietetic gastroenteritis
+12517,Raynaud's phenomenon
+12518,Implantation of cardiac pacemaker
+12519,Purulent discharge
+12520,Right hypoplastic heart syndrome
+12521,Hypoplasia of aorta
+12522,Harlequin fetus
+12523,Corpus callosum syndrome
+12524,Placental infarct
+12525,Alcohol consumption during pregnancy
+12526,Congenital duplication of vagina
+12527,Small for gestational age fetus
+12528,Aplastic anemia due to drugs
+12529,Iron deficiency
+12530,Renal dialysis
+12531,Mesangial proliferative glomerulonephritis
+12532,Tendinitis
+12533,"Malignant neoplasm of lymphoid, hematopoietic and/or related tissue"
+12534,Accessory kidney
+12535,Follicular lymphoma
+12536,"Encephalitis, myelitis and encephalomyelitis"
+12537,Infantile uterus
+12538,Misplaced ear
+12539,Madarosis of eyelid
+12540,Developmental disorder of motor function
+12541,Pediculosis and phthirus infections
+12542,Hereditary hemochromatosis
+12543,Trisomy X syndrome
+12544,Pemphigus foliaceus
+12545,Whole chromosome monosomy - mitotic nondisjunction mosaicism
+12546,Spontaneous subarachnoid hemorrhage
+12547,Vaginitis
+12548,Congenital renal failure
+12549,Wide cranial sutures
+12550,Cryoglobulinemia
+12551,Holoprosencephaly sequence
+12552,Ataxic cerebral palsy
+12553,Stenosis and insufficiency of lacrimal passages
+12554,Spondyloepiphyseal dysplasia congenita
+12555,Pain of joint of foot
+12556,Bicornuate uterus
+12557,Crigler-Najjar syndrome
+12558,Fibrocystic kidney disease
+12559,Medication-induced postural tremor
+12560,Major depressive disorder
+12561,Drowsy
+12562,Stress and adjustment reaction
+12563,Arthritis of spine
+12564,Malignant neoplasm of soft tissue
+12565,Retained products of conception
+12566,Paroxysmal atrial fibrillation
+12567,Disseminated infection caused by Mycobacterium avium-intracellulare group
+12568,Head movements abnormal
+12569,Transitory postpartum mood disturbance
+12570,Malignant neoplasm of central nervous system
+12571,Malignant neoplasm of skin
+12572,Anesthesia of skin
+12573,Generalized edema
+12574,Malignant neoplasm of endocrine gland
+12575,Identification of presence of implantable cardiac devices
+12576,Peripheral edema
+12577,Hepatopulmonary syndrome
+12578,Disorder of tooth development
+12579,Thromboembolic disorder
+12580,Postural orthostatic tachycardia syndrome
+12581,Infection caused by non-cholerae vibrio
+12582,Sprain of ligament
+12583,Dysplasia of vulva
+12584,Hypoesthesia
+12585,Syndactyly
+12586,Cognitive function finding
+12587,Citrullinemia
+12588,Malignant neoplasm of prostate
+12589,Facioscapulohumeral muscular dystrophy
+12590,"Glycogen storage disease, type VI"
+12591,Tinea barbae
+12592,Dilated cardiomyopathy
+12593,Hemochromatosis
+12594,Acute cerebrovascular insufficiency
+12595,Auditory hallucinations
+12596,Tendon contracture
+12597,Varus deformity of great toe
+12598,Carditis
+12599,Thanatophoric dysplasia
+12600,Guillain-Barré syndrome
+12601,Argininosuccinate lyase deficiency
+12602,Demoralization
+12603,Manganese deficiency
+12604,Pilonidal cyst
+12605,Finding of alcohol in blood
+12606,Glycogen storage disease due to acid maltase deficiency
+12607,Mineral level in blood outside reference range
+12608,Ocular toxoplasmosis
+12609,Congenital malformation of ear
+12610,Pain of shoulder region
+12611,Venereal disease in pregnancy
+12612,Spondylolisthesis
+12613,Pyuria
+12614,Congenital dislocation of hip
+12615,Estrogen receptor positive tumor
+12616,Restlessness and agitation
+12617,Chest pain on breathing
+12618,Generalized hyperhidrosis
+12619,Micturition frequency and polyuria
+12620,Genetic disorder carrier
+12621,Gynecomastia
+12622,Electroencephalogram abnormal
+12623,Cerebral degeneration
+12624,Jaw pain
+12625,Abnormal microbiological finding in cerebrospinal fluid
+12626,Abnormal cytological finding in specimen from male genital organ
+12627,Abnormal cytological findings in CSF
+12628,Muscle strain
+12629,Plasma viscosity outside reference range
+12630,Abnormal immunological findings in CSF
+12631,Bradycardia
+12632,Itching of skin
+12633,Foot pain
+12634,Vomiting in newborn
+12635,Congenital malformation of upper alimentary tract
+12636,Respiratory tract infection
+12637,Disorder of lipoprotein AND/OR lipid metabolism
+12638,Gastrointestinal stromal tumor
+12639,Pemphigus vulgaris
+12640,Epidermoid cyst
+12641,Double ureter
+12642,Neuronal ceroid lipofuscinosis
+12643,Perinatal cardiovascular disorders
+12644,Low birth weight infant
+12645,Thrombosis of precerebral artery
+12646,Abnormal cytological finding in specimen from female genital organ
+12647,Abnormal histological findings in CSF
+12648,Hyperpigmentation of skin
+12649,Hereditary motor neuron disease
+12650,Candidiasis of skin
+12651,Cytopathology finding
+12652,Urinary incontinence of non-organic origin
+12653,Menopause finding
+12654,Neonatal cardiac failure
+12655,Acute laryngitis and/or tracheitis
+12656,Hydrops fetalis
+12657,Late anemia of newborn
+12658,Extremely low birth weight infant
+12659,Neonatal clinical infection
+12660,Congenital viral disease
+12661,Methylmalonic acidemia
+12662,Congenital malformation of the respiratory system
+12663,Iliotibial band friction syndrome
+12664,Inhalation injury
+12665,Polyneuropathy
+12666,Pulmonary lymphangioleiomyomatosis
+12667,Lichen striatus
+12668,Fracture of vertebral column
+12669,Retinopathy due to diabetes mellitus
+12670,Myeloproliferative disorder
+12671,Loss of hair
+12672,3-Methylglutaconic aciduria type 2
+12673,Ectopic testis
+12674,Tricuspid valve stenosis
+12675,Hemoglobin C disease
+12676,Disorder of auditory system
+12677,Sequelae of neoplastic diseases
+12678,Malignant neoplasm of floor of mouth
+12679,Malignant neoplasm of trachea
+12680,Malignant neoplasm of vagina
+12681,Malignant neoplasm of testis
+12682,Tubulointerstitial nephritis
+12683,Malignant neoplasm of urethra
+12684,Malignant neoplasm of conjunctiva
+12685,Malignant neoplasm of spinal cord
+12686,Malignant neoplasm of meninges
+12687,Malignant neoplasm of pharynx
+12688,Malignant neoplasm of female genital organ
+12689,Toxic erythema caused by drug
+12690,Ulcer
+12691,Panacinar emphysema
+12692,Cartilage disorder
+12693,Branchial cleft anomaly
+12694,Hematologic complication of procedure
+12695,Femoral hernia
+12696,Malignant neoplasm of vulva
+12697,Malignant neoplasm of tongue
+12698,Malignant neoplasm of gum
+12699,Malignant neoplasm of palate
+12700,Malignant neoplasm of larynx
+12701,Malignant neoplasm of fallopian tube
+12702,Malignant neoplasm of scrotum
+12703,Malignant neoplasm of ureter
+12704,Malignant neoplasm of retina
+12705,Malignant neoplasm of thyroid gland
+12706,Malignant neoplasm of pineal gland
+12707,Disorder of hemostatic system
+12708,Malignant neoplasm of lip
+12709,Malignant neoplasm of colon
+12710,Malignant neoplasm of pancreas
+12711,Malignant neoplasm of pleura
+12712,Malignant neoplasm of heart
+12713,Malignant neoplasm of orbit
+12714,Malignant neoplasm of anus
+12715,Vulvovaginitis
+12716,Retinal cyst
+12717,Malignant neoplasm of gallbladder
+12718,Malignant neoplasm of hypopharynx
+12719,Malignant neoplasm of esophagus
+12720,Malignant neoplasm of ovary
+12721,Malignant neoplasm of epididymis
+12722,Malignant neoplasm of spermatic cord
+12723,Malignant neoplasm of renal pelvis
+12724,"Niemann-Pick disease, type A"
+12725,Malignant neoplasm of eye
+12726,Malignant neoplasm of cornea
+12727,Malignant neoplasm of choroid
+12728,Malignant neoplasm of parathyroid gland
+12729,Malignant neoplasm of mediastinum
+12730,Malignant neoplasm of male genital organ
+12731,Malignant neoplasm of penis
+12732,Dementia
+12733,Tinea capitis
+12734,Disorder of accommodation
+12735,Nelson syndrome
+12736,Myxedema
+12737,Food and drink intake - finding
+12738,Coxa valga
+12739,Gingival enlargement
+12740,Feeling irritable
+12741,Chromium deficiency
+12742,Birth asphyxia
+12743,Nonspecific immune reaction
+12744,Smith-Lemli-Opitz syndrome
+12745,Disorder of pigmentation
+12746,Exophthalmos due to toxic diffuse goiter
+12747,"Glycogen storage disease, type V"
+12748,Embolism
+12749,Loss of sense of smell
+12750,Ischemic heart disease
+12751,Myocardial ischemia
+12752,Exocrine pancreatic insufficiency
+12753,Iatrogenic Cushing's disease
+12754,Fracture of lower limb
+12755,Esophageal diverticulum
+12756,Hernia of anterior abdominal wall
+12757,Severe X-linked myotubular myopathy
+12758,Chronic pulmonary edema
+12759,Abnormal digestive tract function
+12760,Third cranial nerve weakness
+12761,Inflammatory disorder of mediastinum
+12762,Aortic valve stenosis
+12763,Acute nephritis
+12764,Neoplasm of hematopoietic cell type
+12765,Restrictive cardiomyopathy
+12766,Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy
+12767,Angle-closure glaucoma
+12768,Psychoactive substance withdrawal
+12769,Pancreatitis
+12770,Hypovolemic shock
+12771,Splenic cyst
+12772,"Sedative, hypnotic AND/OR anxiolytic-related disorder"
+12773,Thyroid function tests abnormal
+12774,Dislocation of hand joint
+12775,Ectropion of cervix
+12776,Infestation by Chrysomya
+12777,Lymphoid interstitial pneumonitis
+12778,Nasal congestion
+12779,Noninflammatory disorder of ovary
+12780,Xeroderma pigmentosum
+12781,Chronic cough
+12782,Hostile behavior
+12783,Acute respiratory distress syndrome
+12784,Breath smells unpleasant
+12785,Muscular ossification
+12786,Late onset dementia due to Lewy body disease
+12787,Dysarthria
+12788,Varicocele
+12789,Jaw-winking syndrome
+12790,Pseudobulbar affect
+12791,Nasopharyngitis
+12792,Epileptic seizure
+12793,Congenital laryngocele
+12794,Ectopic anus
+12795,Rejection of intestine transplant
+12796,Disorder of tryptophan metabolism
+12797,Fibrosis of lung
+12798,Ulcer of duodenum
+12799,Deformity of hip joint
+12800,Disorder of tonsil AND/OR adenoid
+12801,Insufficient weight gain of pregnancy
+12802,Finding of lymph node
+12803,Clonic facial spasm
+12804,Constricted pupil
+12805,Congenital lactase deficiency
+12806,Postviral fatigue syndrome
+12807,Drug-induced diabetes mellitus
+12808,Organic mental disorder caused by hallucinogen
+12809,Vitamin E deficiency
+12810,Neurological symptom
+12811,Congenital dyserythropoietic anemia
+12812,Hand pain
+12813,Lichen simplex chronicus
+12814,Syncope and collapse
+12815,Varicella-zoster virus infection
+12816,Sacral dimple
+12817,Infective meningitis
+12818,Abnormal male sexual function
+12819,Sprain of knee
+12820,Syndrome of inappropriate vasopressin secretion
+12821,Lung transplant rejection
+12822,Stereotypy habit disorder
+12823,Disorder of macula of retina
+12824,Muscle contracture
+12825,Laryngotracheitis
+12826,Inflammation of sacroiliac joint
+12827,Viral eye infection
+12828,Pharyngeal hemorrhage
+12829,Pain of wrist region
+12830,Binge eating disorder
+12831,Pulmonic valve stenosis
+12832,Nicotine dependence
+12833,Rhizomelic chondrodysplasia punctata syndrome
+12834,Empyema
+12835,Transient tic disorder
+12836,Craniosynostosis syndrome
+12837,Haemophilus infection
+12838,Carbuncle
+12839,Chronic liver disease
+12840,Streptococcal tonsillitis
+12841,"Extranodal NK/T-cell lymphoma, nasal type"
+12842,Degenerative disease of the central nervous system
+12843,Dislocation of shoulder joint
+12844,Brow presentation
+12845,Congenital hypoplasia of lung
+12846,Hyperglycemia
+12847,"Niemann-Pick disease, type B"
+12848,Kyphosis deformity of spine
+12849,Extrapyramidal movements
+12850,Decreased respiratory function
+12851,Acute coronary syndrome
+12852,Hypercalciuria
+12853,Oral hairy leukoplakia
+12854,Cervico-occipital neuralgia
+12855,Nerve root disorder
+12856,Inclusion body myositis
+12857,"5,10-Methylenetetrahydrofolate reductase deficiency"
+12858,Neutral 1 amino acid transport defect
+12859,Relapsing polychondritis
+12860,Precipitous drop in hematocrit
+12861,Dietetic colitis
+12862,Inadequate pelvic muscles
+12863,Iodide peroxidase defect
+12864,Episcleritis
+12865,Hemolytic anemia caused by drugs
+12866,Long narrow head
+12867,Undifferentiated inflammatory polyarthritis
+12868,Myotubular myopathy
+12869,Gastroschisis
+12870,"Mucopolysaccharidosis, MPS-I-S"
+12871,Transverse lie
+12872,Horseshoe kidney
+12873,X-linked ichthyosis with steryl-sulfatase deficiency
+12874,"Glycogen storage disease, type I"
+12875,Muscle fasciculation
+12876,Furuncle
+12877,Splenic abscess
+12878,Multiple congenital cysts of kidney
+12879,Secondary hypothyroidism
+12880,Dislocation of elbow joint
+12881,Primary polydipsia
+12882,Allergic contact dermatitis of eyelid
+12883,Embolism of precerebral artery
+12884,Annular pancreas
+12885,Autoimmune polyendocrinopathy
+12886,Hypersensitivity reaction
+12887,Fatigue
+12888,Dizziness
+12889,"Viral hepatitis, type A"
+12890,No Chlamydia trachomatis
+12891,Degenerative disorder of macula
+12892,Obstruction of esophagus
+12893,Tinea corporis
+12894,Resistance to activated protein C due to factor V Leiden mutation
+12895,Cystinuria
+12896,Acute febrile neutrophilic dermatosis
+12897,Dural arteriovenous malformation
+12898,Essential benign fructosuria
+12899,Mature T-cell AND/OR NK cell neoplasm
+12900,Pharyngitis
+12901,Xerostomia
+12902,Spondylosis
+12903,Asteatosis cutis
+12904,Carnitine deficiency
+12905,Zellweger syndrome
+12906,Wilson's disease
+12907,Disorder of the nose
+12908,Thrombosis
+12909,Enthesitis
+12910,Hereditary thrombophilia
+12911,Sleep terror disorder
+12912,Permanent atrial fibrillation
+12913,Persistent atrial fibrillation
+12914,Giant cell epulis
+12915,Tic of organic origin
+12916,Paralysis of larynx
+12917,Neonatal acquired periventricular cyst
+12918,Arteriovenous fistula
+12919,Tonsillitis
+12920,Carnitine palmitoyltransferase deficiency
+12921,Disorder of vein
+12922,Muscle AMP deaminase deficiency
+12923,Corynebacterial mastitis
+12924,Paresthesia
+12925,Abnormal sexual function
+12926,Eaton-Lambert syndrome
+12927,Pulmonic valve regurgitation
+12928,Gastric varices
+12929,Diastrophic dysplasia
+12930,"Crigler-Najjar syndrome, type II"
+12931,Lymphangitis of breast associated with childbirth
+12932,Primary immune deficiency disorder
+12933,Harmful pattern of use of psychoactive substance
+12934,Postpartum depression
+12935,Pseudohypoparathyroidism
+12936,Benign neoplasm of central nervous system
+12937,Benign neoplasm of fallopian tube
+12938,Benign neoplasm of intrahepatic bile ducts
+12939,Peliosis hepatis
+12940,Allergy to penicillin
+12941,Atrophy of lacrimal gland
+12942,Benign neoplasm of anus
+12943,Benign neoplasm of head
+12944,Hidradenitis suppurativa
+12945,Allergy to sulfonamide
+12946,Sphingomyelin/cholesterol lipidosis
+12947,Benign neoplasm of neck
+12948,Benign neoplasm of uterine adnexa
+12949,Congenital duplication of intestine
+12950,Premenstrual dysphoric disorder
+12951,Abscess of pharynx
+12952,Benign neoplasm of small intestine
+12953,Benign neoplasm of vocal cord
+12954,Benign neoplasm of liver
+12955,Benign neoplasm of pancreas
+12956,Acute hepatitis
+12957,Benign neoplasm of spermatic cord
+12958,Chronic pneumothorax
+12959,Stricture of vagina
+12960,Abnormal voice
+12961,Congenital malposition of epididymis
+12962,Uterus arcuatus
+12963,Disorder of musculoskeletal system
+12964,Prostate specific antigen above reference range
+12965,Diabetes mellitus associated with genetic syndrome
+12966,Inflammation of lacrimal canaliculus
+12967,Purine-nucleoside phosphorylase deficiency
+12968,Umbilical hernia
+12969,Hermansky-Pudlak syndrome
+12970,Hepatic failure
+12971,Malignant neoplasm of liver
+12972,Cutaneous mastocytosis
+12973,Epidermolysis bullosa
+12974,Macrophthalmos
+12975,Malposition of eyelashes
+12976,Gastrointestinal ulcer
+12977,Primary malignant neoplasm of endometrium
+12978,Opportunistic infectious disease
+12979,Intraocular hemorrhage
+12980,Muscular dystrophy
+12981,Snoring
+12982,Generalized seborrheic dermatitis of infants
+12983,Chronic vocal tic disorder
+12984,Double outlet left ventricle
+12985,Mitral valve prolapse
+12986,Factor II deficiency
+12987,Persistent cloaca
+12988,Pain of elbow region
+12989,HNSHA (hereditary nonspherocytic hemolytic anemia) due to pyruvate kinase deficiency
+12990,Hypopituitarism
+12991,Histidinemia
+12992,Respiratory failure
+12993,Chromosomal disorder
+12994,Disease caused by Neisseria
+12995,Congenital hypoplasia of umbilical artery
+12996,Spherophakia
+12997,Ectopic ureter
+12998,Juvenile idiopathic arthritis
+12999,Benign neoplasm of peripheral nerve
+13000,Disorder of spinal region
+13001,Sick sinus syndrome
+13002,Estrogen receptor negative neoplasm
+13003,Abnormal heart beat
+13004,Infective arthritis
+13005,Metachromatic leukodystrophy
+13006,Von Hippel-Lindau syndrome
+13007,Disorder of zinc metabolism
+13008,Lattice corneal dystrophy
+13009,Congenital stenosis of tricuspid valve
+13010,Aphagia
+13011,Systemic vasculitis
+13012,Third cranial nerve disease
+13013,Porphyria cutanea tarda
+13014,Diphtheria caused by Corynebacterium diphtheriae
+13015,Hordeolum
+13016,Bacteriuria
+13017,Gastric ulcer
+13018,Meibomian gland dysfunction
+13019,Erosion of cervix
+13020,Nodular fasciitis
+13021,Abnormal cardiac conduction
+13022,Delayed puberty
+13023,Congenital malformation syndrome
+13024,Diverticular disease
+13025,Juvenile myoclonic epilepsy
+13026,Hepatic fibrosis
+13027,Precocious puberty
+13028,Finding of protein in serum or plasma
+13029,Pilar cyst of scalp
+13030,Williams syndrome
+13031,Female pelvic peritoneal adhesions
+13032,Hypercortisolism due to nonpituitary tumor
+13033,Chronic pyelonephritis
+13034,Rheumatoid arteritis
+13035,Erythroderma
+13036,Melanocytic nevus
+13037,Diffuse crescentic glomerulonephritis
+13038,Hypertrophy of lip
+13039,Rubella
+13040,Suicidal thoughts
+13041,Premature labor
+13042,Right ventricular failure
+13043,Miliaria
+13044,Pyloric stenosis
+13045,Finding related to ability to mobilize
+13046,Mycoplasma mastitis
+13047,Decrease in appetite
+13048,Supraventricular tachycardia
+13049,Hypomenorrhea
+13050,Visual hallucinations
+13051,Noninflammatory disorder of fallopian tube
+13052,"Mucopolysaccharidosis, MPS-I-H"
+13053,Adrenoleukodystrophy
+13054,Enzyme level - finding
+13055,Disorder of testis
+13056,Diplegia
+13057,Arterial thrombosis
+13058,Beta thalassemia
+13059,Acquired deformity of hand
+13060,Color vision deficiency
+13061,Pulmonary eosinophilia
+13062,Hepatosplenomegaly
+13063,Disinterment
+13064,Thrombocytosis
+13065,Vascular ring of aorta
+13066,Polyp of cervix
+13067,Acute pyelonephritis
+13068,Seasonal allergic rhinitis
+13069,Type B viral hepatitis
+13070,Gingivitis
+13071,Heart valve disorder
+13072,Lymphocytosis
+13073,"Vitamin D-dependent rickets, type 1"
+13074,Erythropoietic porphyria
+13075,Spina bifida
+13076,"Niemann-Pick disease, type C"
+13077,Sinusitis
+13078,Bronchopulmonary dysplasia of newborn
+13079,Placenta previa
+13080,Diffuse endocapillary proliferative glomerulonephritis
+13081,Glycogen storage disease type III
+13082,Hypermagnesemia
+13083,Subacute osteomyelitis
+13084,Instability of joint
+13085,Schizoaffective disorder
+13086,Centriacinar emphysema
+13087,Hyperphenylalaninemia
+13088,Osteonecrosis
+13089,Alpha thalassemia
+13090,Rett syndrome
+13091,Inguinal hernia
+13092,Heavy chain disease
+13093,Placenta accreta
+13094,Atrial septal defect
+13095,Propionic acidemia
+13096,Nonulcer dyspepsia
+13097,Adenoiditis
+13098,SCID (severe combined immunodeficiency) due to absent adenosine deaminase
+13099,Dilated pupil
+13100,Actinomycetoma caused by Nocardia
+13101,Acute effect of ultraviolet radiation on normal skin
+13102,Streak ovary
+13103,Viral hepatitis
+13104,Disorder of tyrosine metabolism
+13105,Arthritis
+13106,Toxic deafness
+13107,Morquio syndrome
+13108,Lipomatosis
+13109,Cyst of iris
+13110,Abdominal migraine
+13111,Hypercoagulability state
+13112,Gastrointestinal fistula
+13113,Disorder of skin caused by radiation
+13114,Hemoglobin C trait
+13115,Duchenne muscular dystrophy
+13116,Angelman syndrome
+13117,Polyneuritis
+13118,Mild neurocognitive disorder
+13119,Pregnancy
+13120,Acanthosis nigricans
+13121,Ephelis
+13122,Velamentous insertion of umbilical cord
+13123,Fracture of pelvis
+13124,Solar erythema
+13125,Hemianopia
+13126,Persistent left superior vena cava
+13127,Pulmonary hemorrhage
+13128,Sucrase-isomaltase deficiency
+13129,Menorrhagia
+13130,Neurocutaneous syndrome
+13131,Benign neoplasm of oral cavity
+13132,Bacterial vaginosis
+13133,Blood eosinophil number below reference range
+13134,Niacin deficiency
+13135,Eosinophil count above reference range
+13136,Phobic disorder
+13137,Chronic myeloproliferative disorder (clinical)
+13138,Treacher Collins syndrome
+13139,Allergic reaction to food
+13140,Disorder of ejaculation
+13141,Abnormal breathing
+13142,Noncompliance with medication regimen
+13143,Congenital absence of auricle with atresia of auditory canal
+13144,Familial x-linked hypophosphatemic vitamin D refractory rickets
+13145,Vasomotor rhinitis
+13146,Periodic limb movement disorder
+13147,Disorder of glycine metabolism
+13148,Dislocation of hip joint
+13149,Coag./bleeding tests abnormal
+13150,Oliguria
+13151,Cor pulmonale
+13152,Sialidosis
+13153,Acute lower respiratory tract infection
+13154,Turner syndrome
+13155,Psoriasis vulgaris
+13156,Bipolar II disorder
+13157,Clostridium difficile colitis
+13158,Dupuytren's disease of palm
+13159,Macrocytic anemia
+13160,Cyst of anterior chamber of eye
+13161,Mixed gonadal dysgenesis
+13162,Impaired fasting glycemia
+13163,Idiopathic hypereosinophilic syndrome
+13164,Yersiniosis
+13165,Behavior finding
+13166,Aspiration pneumonia
+13167,Transplanted organ rejection
+13168,Cyst of nasal sinus
+13169,Cyst of ciliary body
+13170,Congenital hypoplasia of testis
+13171,Ischemic stroke
+13172,Intracranial mass
+13173,Achondroplasia
+13174,Sarcoma
+13175,Desquamative interstitial pneumonitis
+13176,Impaired glucose tolerance
+13177,Complete luxation of lens
+13178,Follicular conjunctivitis
+13179,Obstructive nephropathy
+13180,Chronic peripheral venous hypertension
+13181,Hypoplasia of eye
+13182,Congenital iodine deficiency syndrome
+13183,Campylobacteriosis
+13184,Congenital anomaly of choroid
+13185,HELLP syndrome
+13186,Disorder of skin
+13187,Respiratory tract hemorrhage
+13188,Stenosis of pulmonary artery
+13189,Neonatal coagulation disorder
+13190,Hypoplasminogenemia
+13191,Arteriovenous malformation of kidney
+13192,Hypertelorism
+13193,Inattention
+13194,Limitation of movement of temporomandibular joint
+13195,Dilatation of ureter
+13196,Hemorrhage of corpus luteum cyst
+13197,Subcapsular cataract
+13198,Inflammation of orbit
+13199,Macroencephaly
+13200,Rhinitis
+13201,Neonatal hyperthermia
+13202,Agoraphobia
+13203,Pulmonary hypertension
+13204,Abdominal colic
+13205,Spinal cord compression
+13206,Congenital kyphosis
+13207,Disorder related to bone marrow transplantation
+13208,"Mucopolysaccharidosis, MPS-II"
+13209,Cutaneous lupus erythematosus
+13210,Abnormal presence of albumin
+13211,Post-traumatic epilepsy
+13212,Nemaline myopathy
+13213,Anorectal abscess
+13214,Congenital anomaly of mitral valve
+13215,Nonspecific ST-T abnormality on electrocardiogram
+13216,Onycholysis
+13217,Septo-optic dysplasia sequence
+13218,Cryopyrin associated periodic syndrome
+13219,Pain
+13220,Neonatal hemorrhage of skin
+13221,Early radiation dermatitis
+13222,Strabismus
+13223,Myocardial infarction
+13224,Pleuritic pain
+13225,Papulosquamous dermatosis
+13226,Cancer antigen 125 above reference range
+13227,Familial short stature
+13228,Platelet disorder
+13229,Aneurysm
+13230,Rejection of pancreas transplant
+13231,Mania
+13232,Behavioral and emotional disorder with onset in childhood
+13233,Disorder of inner ear
+13234,Dystrophia unguium
+13235,Isovaleryl-CoA dehydrogenase deficiency
+13236,Hepatic necrosis
+13237,Anxiolytic dependence
+13238,Gender identity disorder
+13239,Amaurosis fugax
+13240,Biotinidase deficiency
+13241,Male pattern alopecia
+13242,Oligozoospermia
+13243,Acquired abnormality of ear ossicles
+13244,Tinnitus of vascular origin
+13245,Alcoholic hepatitis
+13246,Cytomegaloviral colitis
+13247,Microscopic colitis
+13248,Liver transplant disorder
+13249,Metabolic and genetic disorder affecting the liver
+13250,Skeletal fluorosis
+13251,Impingement syndrome of shoulder region
+13252,Spondylolysis
+13253,Spinal instability
+13254,Cutaneous erysipeloid
+13255,Genital Molluscum contagiosum
+13256,Ischemic infarction of muscle
+13257,Rhabdomyolysis
+13258,Chondrolysis of articular cartilage
+13259,Synovial plica of knee
+13260,Infection of tendon sheath
+13261,Synovial hypertrophy
+13262,Haemorrhagic stroke
+13263,Malignant neoplasm of respiratory tract
+13264,Malignant neoplasm of bone and articular cartilage
+13265,Malignant neoplasm of bronchus or lung
+13266,Hypocitraturia
+13267,Congenital anomaly of cardiac chamber
+13268,Sickle cell hepatopathy
+13269,Hereditary ataxia
+13270,Autosomal dominant polycystic kidney disease
+13271,Factor XI deficiency
+13272,Sleep related movement disorder
+13273,Sarcopenia
+13274,Alport syndrome
+13275,CDKL5 developmental and epileptic encephalopathy
+13276,Chondritis of left external ear
+13277,Chondritis of right external ear
+13278,Bilateral congenital deformity of feet
+13279,Allergic reaction caused by vaccine product
+13280,Allergic reaction caused by egg protein
+13281,Allergic reaction caused by fish
+13282,Allergic reaction caused by peanut
+13283,Allergic reaction caused by seafood
+13284,Allergic reaction caused by tree nut
+13285,Suspected fetal abnormality affecting management of mother
+13286,Preterm labor with preterm delivery
+13287,Abnormal blood test
+13288,Atypical atrial flutter
+13289,Imaging of central nervous system abnormal
+13290,Bleeding from female genital tract during pregnancy
+13291,Abnormal finding on auditory function study
+13292,Fear of complications of pregnancy
+13293,Congenital absence of urinary bladder and urethra
+13294,Injury of rotator cuff
+13295,Cryptogenic organizing pneumonia
+13296,Difficulty walking
+13297,Human immunodeficiency virus 1 antibody indeterminate
+13298,Human immunodeficiency virus 2 antibody indeterminate
+13299,Acrocraniofacial dysostosis
+13300,Typical atrial flutter
+13301,Adrenocortical hypofunction following procedure
+13302,Disorder of patella
+13303,Non-infective neonatal diarrhea
+13304,Infection caused by Francisella
+13305,Infection caused by Burkholderia
+13306,Infection caused by Spirillum
+13307,Sinusitis caused by Streptococcus pneumoniae
+13308,Meningitis caused by Enterococcus
+13309,Infection caused by Klebsiella
+13310,Infection caused by Coxiella
+13311,Infection caused by Tropheryma
+13312,Cyst of kidney
+13313,Complement component 3 glomerulonephritis
+13314,Recurrent aphthous stomatitis
+13315,PTEN hamartoma tumor syndrome
+13316,Lipoma of skin and subcutaneous tissue
+13317,Neonatal failure to thrive
+13318,Infection caused by Helicobacter pylori
+13319,Infection caused by Streptobacillus
+13320,Infection caused by Norovirus
+13321,Dense deposit disease
+13322,Baby premature 28 weeks
+13323,Baby premature 29 weeks
+13324,Baby premature 30 weeks
+13325,Baby premature 24 weeks
+13326,Baby premature 25 weeks
+13327,Baby premature 26 weeks
+13328,Verification of presence of corrective device
+13329,Congenital penile torsion
+13330,Prediabetes
+13331,Inflammatory disorder of jaw region
+13332,Baby premature 32 weeks
+13333,Baby premature 27 weeks
+13334,High risk pregnancy due to recurrent pregnancy loss
+13335,Delayed separation of umbilical cord
+13336,C-reactive protein above reference range
+13337,Neonatal gastrointestinal hemorrhage
+13338,White matter disease
+13339,Anxiety disorder caused by drug
+13340,Dissection of carotid artery
+13341,Bodily distress disorder
+13342,Growth delay due to insulin-like growth factor type 1 deficiency
+13343,Venous complication of pregnancy
+13344,Sudden idiopathic hearing loss
+13345,Hypnotic dependence
+13346,Neutrophilic dermatosis
+13347,Genetic disorder of skin pigmentation
+13348,Major histocompatibility complex class I deficiency
+13349,Strain of muscle of hip
+13350,Stenosis of artery
+13351,Dissection of coronary artery
+13352,Neonatal obstruction of intestine
+13353,Degeneration of iris
+13354,Postpartum acute renal failure
+13355,Genetic susceptibility to cancer
+13356,Foreign body granuloma of soft tissue
+13357,SCARF syndrome
+13358,Myotonia congenita
+13359,Iron deficiency anemia due to blood loss
+13360,Term infant 37 weeks
+13361,Neonatal toxic erythema
+13362,Lysosomal storage disease
+13363,Dengue virus encephalitis
+13364,Escherichia coli colitis
+13365,Infection of colon caused by Haemophilus ducreyi
+13366,Transient alteration of awareness
+13367,Intestinal infection caused by Clostridioides difficile
+13368,Myotonic dystrophy
+13369,Varus deformity of hip
+13370,Congenital lordosis deformity of spine
+13371,Non-tuberculous mycobacterial enteritis of small intestine
+13372,Functional disorder of polymorphonuclear neutrophil
+13373,Inflammation of eyelid
+13374,Alcoholic cardiomyopathy
+13375,Acantholytic dermatosis
+13376,Polymorphic eruption of pregnancy
+13377,Lipoprotein (a) hyperlipoproteinemia
+13378,Detachment of retina with break of retina
+13379,Horner syndrome
+13380,Malignant colorectal neoplasm
+13381,Neonatal infection of skin caused by Candida
+13382,Keratinocytic epidermal carcinoma of skin
+13383,Allergic reaction caused by antiinfective agent
+13384,Allergic reaction caused by analgesic
+13385,Allergic reaction caused by fruit
+13386,Allergic reaction caused by food additive
+13387,Disorder due to and following transplantation of stem cell
+13388,Dermatitis caused by substance taken via oral route
+13389,Autoinflammatory disease
+13390,Short chain acyl-coenzyme A dehydrogenase deficiency
+13391,Progressive avascular necrosis of lunate
+13392,Genetic disease
+13393,Fibromuscular dysplasia of wall of artery
+13394,Overactive urinary bladder
+13395,Recurrent seizure
+13396,Abnormal hair finding
+13397,Abnormal fetal heart rhythm
+13398,Mast cell activation syndrome
+13399,COVID-19
+13400,Erythematous rash
+13401,Disorder due to vaping
+13402,Hypovolemia
+13403,Extracellular fluid volume depletion
+13404,Hyperostosis of skull
+13405,Oral cyst
+13406,Ehlers-Danlos syndrome classic type
+13407,Multiple endocrine neoplasia type 4
+13408,Congenital bowing of long bone
+13409,Cognitive communication disorder
+13410,PFAPA syndrome
+13411,Congenital dilatation of ureter
+13412,Cyst of brain
+13413,Introduction procedure site rash
+13414,Intellectual disability
+13415,Nocturia
+13416,Psoriatic arthritis
+13417,Secondary thrombocytopenia
+13418,Dislocation of knee joint
+13419,Dislocation of ankle joint
+13420,Dysphonia
+13421,Pelvic swelling
+13422,Schwannoma
+13423,Cicatricial lagophthalmos
+13424,Hyperimmunoglobulin E syndrome
+13425,Common variable immunodeficiency
+13426,Reactive arthritis
+13427,Arthrogryposis multiplex congenita
+13428,Klinefelter syndrome
+13429,Stress fracture
+13430,Polycystic ovary syndrome
+13431,Xanthelasma
+13432,Infection by Bacteroides fragilis
+13433,Carrier of cystic fibrosis gene mutation
+13434,Harmful pattern of use of stimulant
+13435,Iatrogenic pneumothorax
+13436,Takotsubo cardiomyopathy
+13437,Septic pulmonary embolism
+13438,Abnormal structure of alpha-fetoprotein
+13439,Hyperplasia of mandibular bone
+13440,Paroxysmal hemicrania
+13441,Extra unidentified structurally abnormal chromosome
+13442,Abnormal presence of alpha-fetoprotein
+13443,High antibody titer
+13444,Abnormal red blood cell volume
+13445,Orbital edema
+13446,Confusional arousal disorder
+13447,Nonspecific tuberculin test reaction
+13448,Hypoplasia of mandibular bone
+13449,Idiopathic sleep related non-obstructive alveolar hypoventilation
+13450,Injury of superior glenoid labrum of shoulder joint
+13451,Aphonia
+13452,Imaging of musculoskeletal system abnormal
+13453,Red blood cell morphology abnormal
+13454,Allergic rhinitis due to food
+13455,Infection by human herpesvirus 7
+13456,Unsettled infant
+13457,Hypoplasia of maxillary bone
+13458,Ganglion cyst
+13459,Early satiety
+13460,Abnormal structure of globulin
+13461,Septic embolus of artery
+13462,Band neutrophil count above reference range
+13463,Neoplasm of lymphoid system structure
+13464,Coronary atherosclerosis
+13465,Dysfunction of vestibular system
+13466,Dysplasia of prostate
+13467,Recurrent isolated sleep paralysis
+13468,Infection by human herpesvirus 6
+13469,Low-lying placenta
+13470,High carcinoembryonic antigen level
+13471,Glucose transporter protein type 1 deficiency syndrome
+13472,Split cord malformation
+13473,Stimulant dependence
+13474,Critical illness myopathy
+13475,Influenza caused by Influenza A virus
+13476,Combined immunodeficiency disease
+13477,Autoimmune inflammation of skeletal muscle
+13478,Hyperplasia of maxillary bone
+13479,High altitude periodic breathing
+13480,Congenital tracheoesophageal fistula with esophageal stenosis
+13481,Malignant neoplasm of urinary organ
+13482,Malignant neoplasm of connective tissue
+13483,Deformity of chest wall
+13484,Shuddering attacks
+13485,Malignant neoplasm of digestive system
+13486,Contracture scar
+13487,Seborrheic keratosis
+13488,Hypereosinophilic syndrome
+13489,Supernumerary teeth
+13490,Maternal gonorrhea during pregnancy
+13491,Cognitive deficit in communication skills
+13492,Cognitive deficit in visuospatial function
+13493,Antineutrophil cytoplasmic antibody positive vasculitis
+13494,Diverticulosis of colon
+13495,Ischemia of kidney
+13496,Acquired foot drop
+13497,Non suicidal self inflicted injury
+13498,Pancytopenia caused by medication
+13499,Impaired executive functioning
+13500,Neonatal disorder of endocrine system
+13501,Disorder of arteriole
+13502,Diabetes mellitus caused by chemical
+13503,Spontaneous intracranial hemorrhage
+13504,Transplanted heart valve present
+13505,Umbilical cord complication during labor and delivery
+13506,Cleft palate with left cleft lip
+13507,Disruption of iris
+13508,Disruption of ciliary body
+13509,Chronic primary headache
+13510,Classical Hodgkin lymphoma
+13511,Hypertension complicating pregnancy
+13512,Pain of intercostal space
+13513,Adhesion of ciliary body
+13514,Transplanted kidney present
+13515,Functional neurological disorder
+13516,Non-traumatic rupture of synovium
+13517,Bone density below reference range
+13518,Aggressive periodontitis
+13519,Posterior reversible encephalopathy syndrome
+13520,Sprain of shoulder rotator cuff
+13521,Strain of knee
+13522,Point mutation
+13523,Chromosome microdeletion
+13524,Air leaking from lung
+13525,Arterial tortuosity syndrome
+13526,Allergic condition
+13527,Allergic conjunctivitis
+13528,Congenital hypoplasia of brain
+13529,Hypnic headache
+13530,Temporal lobe sclerosis
+13531,Sensory disorder of smell and/or taste
+13532,Spontaneous cerebral hemorrhage
+13533,Allergic reaction to radiocontrast media
+13534,Essential tremor
+13535,Pre-existing diabetes mellitus in pregnancy
+13536,Resistiveness to physical care
+13537,Mononeuropathy of upper limb
+13538,Mononeuropathy of lower limb
+13539,Lesion of nerve root and/or plexus
+13540,Disorder of nerve root and/or plexus
+13541,Hypothermia not associated with low environmental temperature
+13542,Multisystem degeneration of autonomic nervous system
+13543,Narcolepsy type 2
+13544,Disorder of vertebral column
+13545,Acute combined systolic and diastolic heart failure
+13546,Chronic combined systolic and diastolic heart failure
+13547,Chronic occlusion of artery of extremity
+13548,Atresia of aqueduct of Sylvius
+13549,Recurrent pneumonia
+13550,Monoarthritis
+13551,Zonular nonsenile cataract
+13552,Cortical nonsenile cataract
+13553,Cardiac arrhythmia
+13554,Human immunodeficiency virus contact
+13555,Symptoms due to cancer
+13556,Under 9 weeks gestational age
+13557,Infection resistant to multiple antibiotics
+13558,Necrotising enterocolitis
+13559,Acute renal failure induced by heavy metal
+13560,Speech and language developmental delay
+13561,Neuromuscular disorder
+13562,Viral hepatitis in mother complicating pregnancy
+13563,Congenital facial asymmetry
+13564,Rupture of uterus during labor
+13565,Osteophyte of bone
+13566,Mammographic microcalcification of breast
+13567,Acquired unequal limb length
+13568,Anomaly of jaw size
+13569,Impairment of visual contrast sensitivity
+13570,Congenital malformation of urinary bladder and urethra
+13571,Hereditary nephropathy
+13572,Hyperoxaluria
+13573,Urethral hypermobility
+13574,Abnormal urination
+13575,Abnormal uterine bleeding
+13576,Idiopathic interstitial pneumonitis
+13577,Idiopathic pulmonary fibrosis
+13578,Autoimmune lymphoproliferative syndrome
+13579,Large cell anaplastic lymphoma T cell and null cell type
+13580,Talipes equinocavovarus
+13581,Cerebral vasoconstriction syndrome
+13582,Hypoxic ischemic encephalopathy
+13583,Inflammatory dermatosis
+13584,Hypertensive crisis
+13585,Asplenia
+13586,Keratoderma
+13587,Exercise induced bronchospasm
+13588,Bartter syndrome
+13589,Viral hepatitis E
+13590,Congenital anomaly of ureter and renal pelvis
+13591,Disorder of muscle tone of newborn
+13592,Endocrine function test abnormal
+13593,Disorder of plasma protein metabolism
+13594,Retinopathy of prematurity stage 0
+13595,Human metapneumovirus infection
+13596,Congenital osteodystrophy
+13597,Allergic rhinitis caused by animal hair and dander
+13598,Headache caused by drug
+13599,Indeterminate sex
+13600,Parosmia
+13601,Chronic kidney disease
+13602,Neurocognitive disorder
+13603,Supraglottitis
+13604,Cytokine release syndrome
+13605,Dissection of artery
+13606,Apparent life-threatening event in infant
+13607,Activated PI3K-delta syndrome
+13608,Acute adenoiditis
+13609,Stevens Johnson syndrome AND toxic epidermal necrolysis overlap
+13610,Problem related to lifestyle

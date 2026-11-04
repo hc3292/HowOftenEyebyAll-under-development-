@@ -1,0 +1,709 @@
+ingredient_concept_id,ingredient_name,drug_concept_id,CONCEPT_CLASS_ID,CONCEPT_CODE,CONCEPT_ID,CONCEPT_NAME,DOMAIN_ID,INVALID_REASON,INVALID_REASON_CAPTION,STANDARD_CONCEPT,STANDARD_CONCEPT_CAPTION,VOCABULARY_ID,dose_form_concept_id,dose_form_name
+903963,triamcinolone,40234034,Clinical Drug,1085985,40234034,triamcinolone acetonide 3 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,41239683,Clinical Drug,OMOP2437645,41239683,Triamcinolone 8 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,42941639,Clinical Drug,OMOP4668284,42941639,Triamcinolone 40 MG Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+997881,clindamycin,35604109,Clinical Drug Form,1737230,35604109,clindamycin Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+997881,clindamycin,35872992,Clinical Drug,OMOP5030386,35872992,clindamycin 750 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,2055864,Clinical Drug,OMOP4956697,2055864,dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 6000 IU/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082167,Ophthalmic Suspension
+1518254,dexamethasone,36269952,Clinical Drug,OMOP3120827,36269952,Dexamethasone 1 MG/ML / Gentamicin 5 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,36888797,Clinical Drug,OMOP1007263,36888797,Dexamethasone 1.32 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,40836911,Clinical Drug,OMOP2034873,40836911,Dexamethasone 3.3 MG / Dipyrone 500 MG / Lidocaine 30 MG / mofebutazone 657 MG / Vitamin B 12 2.5 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40899017,Clinical Drug,OMOP2096979,40899017,Dexamethasone 1.2 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40924182,Clinical Drug Form,OMOP2122144,40924182,Chlorhexidine / Dexamethasone / Lidocaine Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40986509,Clinical Drug Form,OMOP2184471,40986509,Dexamethasone / Dipyrone / Lidocaine / Orphenadrine / Thiamine / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41080264,Clinical Drug Form,OMOP2278226,41080264,Dexamethasone / Lidocaine / prednisolone / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41111897,Clinical Drug Form,OMOP2309859,41111897,Aminopyrine / Dexamethasone / Lidocaine / mofebutazone / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41149185,Clinical Drug,OMOP2347147,41149185,Dexamethasone 1 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,44058838,Clinical Drug,OMOP1053469,44058838,Dexamethasone 0.001 MG/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082167,Ophthalmic Suspension
+1707687,vancomycin,1235581,Clinical Drug,OMOP5216288,1235581,vancomycin 12.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,40221355,Clinical Drug,1807513,40221355,vancomycin 1000 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1707687,vancomycin,40221358,Clinical Drug,1807516,40221358,vancomycin 500 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1707687,vancomycin,43218286,Clinical Drug,OMOP440702,43218286,Vancomycin 1000 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1707687,vancomycin,43603027,Clinical Drug,OMOP945774,43603027,Vancomycin 1.03 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,43711008,Clinical Drug,OMOP945748,43711008,Vancomycin 500 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1707687,vancomycin,43837183,Clinical Drug,OMOP945822,43837183,Vancomycin 0.000952 MG/UNT Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1714277,voriconazole,44096726,Clinical Drug,OMOP1091357,44096726,voriconazole 200 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1717240,amphotericin B,21096144,Clinical Drug,OMOP278115,21096144,Amphotericin B 100 MG Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1776684,ceftazidime,40868546,Clinical Drug,OMOP2066508,40868546,Ceftazidime 50 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,44123677,Clinical Drug,OMOP1118308,44123677,Ceftazidime 500 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1776684,ceftazidime,46275510,Clinical Drug Form,1659277,46275510,ceftazidime Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1790868,amikacin,19104622,Clinical Drug,415816,19104622,amikacin 4.8 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,43036828,Clinical Drug,OMOP4851868,43036828,Amikacin 1000 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+19063605,pegaptanib,43031314,Clinical Drug,OMOP4846378,43031314,pegaptanib 1.65 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+37497314,brolucizumab,36074079,Clinical Drug Form,OMOP4983437,36074079,brolucizumab Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+40244266,aflibercept,44043426,Clinical Drug Form,OMOP1038057,44043426,aflibercept Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,792427,Clinical Drug,1947131,792427,triamcinolone acetonide 32 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+903963,triamcinolone,40234030,Clinical Drug,1085750,40234030,triamcinolone acetonide 10 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,40861848,Clinical Drug Form,OMOP2059810,40861848,Triamcinolone / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,41051895,Clinical Drug,OMOP2249857,41051895,Triamcinolone 20 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,19075534,Clinical Drug,309340,19075534,clindamycin 9 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+997881,clindamycin,35151314,Clinical Drug,OMOP4808362,35151314,Clindamycin 600 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,35604115,Clinical Drug,1737242,35604115,clindamycin 6 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1305058,methotrexate,587747,Clinical Drug,OMOP3137620,587747,Methotrexate 10 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1305058,methotrexate,41210076,Clinical Drug,OMOP2408038,41210076,Methotrexate 27.4 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,42715134,Clinical Drug,OMOP2729743,42715134,Methotrexate 22 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1397141,bevacizumab,40720400,Clinical Drug,OMOP4736534,40720400,bevacizumab 10 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1397141,bevacizumab,46275982,Clinical Drug Form,1657065,46275982,bevacizumab Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1518254,dexamethasone,1234666,Clinical Drug Form,OMOP5215368,1234666,chloramphenicol / dexamethasone / polymyxin B Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,1234669,Clinical Drug,OMOP5215371,1234669,chloramphenicol 2.5 MG/ML / dexamethasone 0.66 MG/ML / polymyxin B 1 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,1234989,Clinical Drug,OMOP5215694,1234989,dexamethasone 0.08 MG/ML / morphine 20 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,2055860,Clinical Drug,OMOP4956693,2055860,dexamethasone 1 MG/ML / neomycin 3500 IU/ML / polymyxin B 6000 IU/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082167,Ophthalmic Suspension
+1518254,dexamethasone,2074036,Clinical Drug,OMOP4975734,2074036,chloramphenicol 5 MG/ML / dexamethasone 1 MG/ML / tetrahydrozoline 0.25 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,19065036,Clinical Drug,252361,19065036,dexamethasone 3 MG/ML / sodium phosphate 3 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+1518254,dexamethasone,19076141,Clinical Drug,309692,19076141,dexamethasone 1 MG/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm,19082167,Ophthalmic Suspension
+1518254,dexamethasone,40241504,Clinical Drug,1116927,40241504,dexamethasone phosphate 4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,40830638,Clinical Drug Form,OMOP2028600,40830638,Dexamethasone / Niacin Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41017529,Clinical Drug Form,OMOP2215491,41017529,Dexamethasone / prednisolone Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41023670,Clinical Drug,OMOP2221632,41023670,Dexamethasone 4 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41080249,Clinical Drug Form,OMOP2278211,41080249,Dexamethasone / Dyphylline Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41174102,Clinical Drug Form,OMOP2372064,41174102,Dexamethasone / Esculin / Hesperidin / Lidocaine / mofebutazone / salicylamide / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,42708927,Clinical Drug,1249712,42708927,dexamethasone sodium phosphate 0.4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,43727791,Clinical Drug,OMOP923585,43727791,Dexamethasone 0.00029 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1707687,vancomycin,21111051,Clinical Drug,OMOP356988,21111051,Vancomycin 14 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1707687,vancomycin,35144660,Clinical Drug Form,OMOP4801754,35144660,Vancomycin Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1707687,vancomycin,36404382,Clinical Drug,OMOP3096424,36404382,Vancomycin 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,40087247,Clinical Drug Form,375983,40087247,vancomycin Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1714277,voriconazole,43624072,Clinical Drug,OMOP694796,43624072,voriconazole 0.05 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1724700,foscarnet,1235608,Clinical Drug Form,OMOP5216314,1235608,foscarnet Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1724700,foscarnet,35606303,Clinical Drug,1734380,35606303,foscarnet sodium 24 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1724700,foscarnet,36880839,Clinical Drug Form,OMOP1000804,36880839,Foscarnet Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,35859660,Clinical Drug,OMOP5016260,35859660,ganciclovir 150 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,35860139,Clinical Drug,OMOP5016296,35860139,ganciclovir 12.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,35860145,Clinical Drug,OMOP5016302,35860145,ganciclovir 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,43623471,Clinical Drug,OMOP683343,43623471,Ganciclovir 1 MG/MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1757803,ganciclovir,44110175,Clinical Drug,OMOP1104806,44110175,Ganciclovir 500 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1776684,ceftazidime,19104358,Clinical Drug,413807,19104358,ceftazidime 30 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1776684,ceftazidime,42728696,Clinical Drug,OMOP2734033,42728696,Ceftazidime 0.91 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,46275511,Clinical Drug,1659278,46275511,ceftazidime 500 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1790868,amikacin,35858624,Clinical Drug,OMOP5014958,35858624,amikacin 2.4 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+903963,triamcinolone,1234224,Clinical Drug,OMOP5214929,1234224,triamcinolone 40 MG/ML Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+903963,triamcinolone,40085179,Clinical Drug Form,96818,40085179,triamcinolone Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,40833866,Clinical Drug,OMOP2031828,40833866,Triamcinolone 8 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+903963,triamcinolone,42629017,Clinical Drug Form,1792143,42629017,triamcinolone Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+903963,triamcinolone,42629020,Clinical Drug,1792147,42629020,triamcinolone acetonide 40 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+997881,clindamycin,35604111,Clinical Drug,1737234,35604111,clindamycin 12 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1305058,methotrexate,19104452,Clinical Drug,415063,19104452,methotrexate 7.46 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1305058,methotrexate,46275602,Clinical Drug,1655957,46275602,methotrexate 25 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1397141,bevacizumab,1510544,Clinical Drug,2046146,1510544,bevacizumab-awwb 25 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1518254,dexamethasone,1234705,Clinical Drug Form,OMOP5215410,1234705,dexamethasone / framycetin / gramicidin Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,40027161,Clinical Drug Form,377469,40027161,dexamethasone / neomycin / polymyxin B Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,40027460,Clinical Drug Form,377456,40027460,dexamethasone / hypromellose Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,40027461,Clinical Drug Form,371720,40027461,dexamethasone / sodium phosphate Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+1518254,dexamethasone,40028260,Clinical Drug Form,371725,40028260,dexamethasone Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,40823867,Clinical Drug Form,OMOP2021829,40823867,Dexamethasone / Lidocaine / Phenylbutazone / prednisolone / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40899021,Clinical Drug,OMOP2096983,40899021,Dexamethasone 0.0002 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,41017530,Clinical Drug Form,OMOP2215492,41017530,Dexamethasone / Lidocaine / Phenylbutazone Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41054895,Clinical Drug,OMOP2252857,41054895,Dexamethasone 0.5 MG/ML / Niacin 25 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41244156,Clinical Drug,OMOP2442118,41244156,Aminopyrine 200 MG/ML / Dexamethasone 2 MG/ML / Dipyrone 400 MG/ML / Esculin 10 MG/ML / Guaifenesin 200 MG/ML / Lidocaine 50 MG/ML / Niacinamide 10 MG/ML / Procaine 30 MG/ML / Thiamine 100 MG/ML / Vitamin B 12 2 MG/ML / ... Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,43199938,Clinical Drug Form,OMOP517890,43199938,Dexamethasone / Oxytetracycline Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,44042957,Clinical Drug Form,OMOP1037588,44042957,Dexamethasone / Sodium / sodium phosphate Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1537122,pegcetacoplan,1537140,Clinical Drug,2557392,1537140,pegcetacoplan 54 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1707687,vancomycin,43603032,Clinical Drug,OMOP945794,43603032,Vancomycin 1000 UNT/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1714277,voriconazole,19098164,Clinical Drug,351209,19098164,voriconazole 200 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1714277,voriconazole,43642343,Clinical Drug,OMOP694802,43642343,voriconazole 0.0588 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1724700,foscarnet,1235609,Clinical Drug,OMOP5216315,1235609,foscarnet 12 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1757803,ganciclovir,35859626,Clinical Drug,OMOP5016225,35859626,ganciclovir 250 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,35860117,Clinical Drug,OMOP5016274,35860117,ganciclovir 62.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,43034485,Clinical Drug,OMOP4849531,43034485,Ganciclovir 50 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,43785488,Clinical Drug Form,OMOP683336,43785488,Ganciclovir Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1759013,faricimab,36969306,Clinical Drug Form,OMOP5201094,36969306,faricimab Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,1776721,Clinical Drug,249926,1776721,ceftazidime 210 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1776684,ceftazidime,40745136,Clinical Drug,OMOP4712037,40745136,avibactam 500 MG / Ceftazidime 2000 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,40745139,Clinical Drug Form,OMOP4712034,40745139,avibactam / Ceftazidime Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,44110482,Clinical Drug,OMOP1105113,44110482,Ceftazidime 2000 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1790868,amikacin,19104450,Clinical Drug,415060,19104450,amikacin 175 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,19104633,Clinical Drug,415860,19104633,amikacin 3.6 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,45892658,Clinical Drug,1598047,45892658,amikacin 250 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+19080982,ranibizumab,41205359,Clinical Drug Form,OMOP2403321,41205359,ranibizumab Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+19080982,ranibizumab,44120321,Clinical Drug Form,OMOP1114952,44120321,ranibizumab Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+40244266,aflibercept,746454,Clinical Drug,2645306,746454,aflibercept 114 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+903963,triamcinolone,948638,Clinical Drug,246731,948638,polymyxin B 16.2 UNT/MG / triamcinolone 0.001 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+903963,triamcinolone,35604771,Clinical Drug,1739202,35604771,triamcinolone acetonide 2 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+997881,clindamycin,997974,Clinical Drug,562268,997974,clindamycin 6 MG/ML / glucose 50 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+997881,clindamycin,19075532,Clinical Drug,309338,19075532,clindamycin 2 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+997881,clindamycin,35873990,Clinical Drug,OMOP5030428,35873990,clindamycin 225 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,43801234,Clinical Drug,OMOP951796,43801234,Clindamycin 0.713 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,35604175,Clinical Drug,1747188,35604175,methotrexate 43.8 MG/ML Auto-Injector,Drug,V,Valid,S,Standard,RxNorm,46234466,Auto-Injector
+1305058,methotrexate,35604181,Clinical Drug,1747195,35604181,methotrexate 56.3 MG/ML Auto-Injector,Drug,V,Valid,S,Standard,RxNorm,46234466,Auto-Injector
+1305058,methotrexate,40065325,Clinical Drug Form,372835,40065325,methotrexate Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1305058,methotrexate,40959867,Clinical Drug,OMOP2157829,40959867,Methotrexate 1000 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,1234988,Clinical Drug,OMOP5215693,1234988,dexamethasone 0.05 MG/ML / morphine 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,1235399,Clinical Drug,OMOP5216105,1235399,dexamethasone 1 MG/ML / gentamicin 3 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,2074040,Clinical Drug Form,OMOP4975743,2074040,chloramphenicol / dexamethasone / tetrahydrozoline Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,19076144,Clinical Drug,309695,19076144,dexamethasone 1 MG/ML / neomycin 3.5 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,36275090,Clinical Drug,OMOP3125965,36275090,Chloramphenicol 4 MG/ML / Dexamethasone 1 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,40027151,Clinical Drug Form,371724,40027151,dexamethasone / lidocaine Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,40028587,Clinical Drug Form,103217,40028587,dexamethasone Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,41111561,Clinical Drug Form,OMOP2309523,41111561,Dexamethasone / Lidocaine / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41149164,Clinical Drug,OMOP2347126,41149164,Dexamethasone 3 MG/ML / Lidocaine 4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41305102,Clinical Drug,OMOP2503064,41305102,Chlorhexidine 0.5 MG/ML / Dexamethasone 0.4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,42948530,Clinical Drug,OMOP4675119,42948530,Dexamethasone 4.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,44071660,Clinical Drug,OMOP1066291,44071660,Dexamethasone 0.001 MG/ML / Neomycin 3.5 MG/ML / Polymyxin B 6000 UNT/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082167,Ophthalmic Suspension
+1707687,vancomycin,40752938,Clinical Drug,OMOP4704686,40752938,Vancomycin 4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,41270411,Clinical Drug,OMOP2468373,41270411,Vancomycin 500 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1714277,voriconazole,588662,Clinical Drug,OMOP3135038,588662,voriconazole 10 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1714277,voriconazole,21091798,Clinical Drug,OMOP365407,21091798,voriconazole 1 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1714277,voriconazole,41083273,Clinical Drug,OMOP2281235,41083273,voriconazole 200 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1717240,amphotericin B,21027478,Clinical Drug,OMOP278105,21027478,Amphotericin B 3 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1717240,amphotericin B,21056882,Clinical Drug,OMOP278123,21056882,Amphotericin B 5 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1757803,ganciclovir,19101620,Clinical Drug,388052,19101620,ganciclovir 0.0015 MG/MG Ophthalmic Gel,Drug,V,Valid,S,Standard,RxNorm,19082166,Ophthalmic Gel
+1757803,ganciclovir,35859664,Clinical Drug,OMOP5016264,35859664,ganciclovir 125 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,19101718,Clinical Drug,389026,19101718,ceftazidime 60 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1776684,ceftazidime,21142258,Clinical Drug,OMOP388778,21142258,Ceftazidime 3000 MG Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1776684,ceftazidime,21142261,Clinical Drug,OMOP388828,21142261,Ceftazidime 40 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1776684,ceftazidime,21142262,Clinical Drug,OMOP388854,21142262,Ceftazidime 20 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1790868,amikacin,36893647,Clinical Drug,OMOP992516,36893647,Amikacin 13.4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+19080982,ranibizumab,779810,Clinical Drug,2602354,779810,ranibizumab-nuna 10 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+19080982,ranibizumab,35603585,Clinical Drug,1724233,35603585,ranibizumab 10 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+40244266,aflibercept,1465648,Clinical Drug,2706534,1465648,aflibercept-mrbb 40 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+903963,triamcinolone,35604855,Clinical Drug,1739209,35604855,triamcinolone acetonide 6 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,40234823,Clinical Drug,1085992,40234823,triamcinolone hexacetonide 5 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,41211777,Clinical Drug,OMOP2409739,41211777,Diclofenac 75 MG / Triamcinolone 40 MG / Vitamin B 12 0.001 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,41241804,Clinical Drug,OMOP2439766,41241804,Gramicidin 0.00025 MG/MG / Neomycin 0.00385 MG/MG / Triamcinolone 0.001 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+903963,triamcinolone,42731459,Clinical Drug,OMOP2742870,42731459,Triamcinolone 54.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,43214695,Clinical Drug Form,OMOP473779,43214695,Neomycin / Triamcinolone Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+903963,triamcinolone,44032109,Clinical Drug,OMOP1026740,44032109,Triamcinolone 25 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,41180609,Clinical Drug,OMOP2378571,41180609,Clindamycin 135 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,1305122,Clinical Drug,311625,1305122,methotrexate 1000 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1305058,methotrexate,1305123,Clinical Drug,311626,1305123,methotrexate 12.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1305058,methotrexate,36944238,Clinical Drug,OMOP5189240,36944238,methotrexate 4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,40928535,Clinical Drug,OMOP2126497,40928535,Methotrexate 100 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,44084210,Clinical Drug,OMOP1078841,44084210,Methotrexate 20 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,44506732,Clinical Drug,1441414,44506732,methotrexate 37.5 MG/ML Auto-Injector,Drug,V,Valid,S,Standard,RxNorm,46234466,Auto-Injector
+1305058,methotrexate,46276447,Clinical Drug Form,1655203,46276447,methotrexate Auto-Injector,Drug,V,Valid,S,Standard,RxNorm,46234466,Auto-Injector
+1518254,dexamethasone,916179,Clinical Drug,244268,916179,dexamethasone 0.0005 MG/MG / neomycin 0.005 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,1518526,Clinical Drug,247484,1518526,dexamethasone 0.001 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,1719010,Clinical Drug Form,1812073,1719010,dexamethasone Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1518254,dexamethasone,1719013,Clinical Drug,1812080,1719013,dexamethasone phosphate 10 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1518254,dexamethasone,19076131,Clinical Drug,309680,19076131,dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm,19082167,Ophthalmic Suspension
+1518254,dexamethasone,19101595,Clinical Drug,387080,19101595,dexamethasone 8 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,19104491,Clinical Drug,415363,19104491,dexamethasone 25 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,36269951,Clinical Drug,OMOP3120826,36269951,Dexamethasone 1 MG/ML / Neomycin 3500 UNT/ML / Polymyxin B 6000 UNT/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082167,Ophthalmic Suspension
+1518254,dexamethasone,36956342,Clinical Drug Form,OMOP5195332,36956342,dexamethasone / netilmicin Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,36958160,Clinical Drug Form,OMOP5195326,36958160,dexamethasone / levofloxacin Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,40022927,Clinical Drug Form,376196,40022927,chloramphenicol / dexamethasone Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,40027451,Clinical Drug Form,373387,40027451,dexamethasone / phenylephrine Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,40861858,Clinical Drug Form,OMOP2059820,40861858,Dexamethasone / Dipyrone / Lidocaine / mofebutazone / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40899024,Clinical Drug,OMOP2096986,40899024,Dexamethasone 1.3 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,40986491,Clinical Drug Form,OMOP2184453,40986491,Dexamethasone / Gentamicin Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,40992708,Clinical Drug,OMOP2190670,40992708,Dexamethasone 8 MG Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,41080265,Clinical Drug Form,OMOP2278227,41080265,Dexamethasone / Dipyrone / Esculin / Guaifenesin / Lidocaine / Niacinamide / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41236783,Clinical Drug Form,OMOP2434745,41236783,Atropine / Dexamethasone / Khellincarboxylic Acid / Methocarbamol / Papaverine / Pentylenetetrazole / proxyphylline Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41242587,Clinical Drug,OMOP2440549,41242587,Dexamethasone 1 MG/ML / Neomycin 5 MG/ML / Polymyxin B 6000 UNT/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,41242698,Clinical Drug,OMOP2440660,41242698,Dexamethasone 4 MG / Lidocaine 6 MG / Phenylbutazone 400 MG / salicylamide 150 MG / Vitamin B 12 2.5 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41274712,Clinical Drug,OMOP2472674,41274712,Atropine 0.02 MG/ML / Dexamethasone 1 MG/ML / Khellincarboxylic Acid 5.6 MG/ML / Methocarbamol 4 MG/ML / Papaverine 1 MG/ML / Pentylenetetrazole 2 MG/ML / proxyphylline 24 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41304556,Clinical Drug,OMOP2502518,41304556,Dexamethasone 6 MG / Gentamicin 40 MG Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,43202488,Clinical Drug,OMOP461506,43202488,Dexamethasone 1 MG/ML / Framycetin 6300 UNT/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,43526415,Clinical Drug,1374389,43526415,dexamethasone acetate 16 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+1518254,dexamethasone,44045825,Clinical Drug,OMOP1040456,44045825,Dexamethasone 0.0005 MG/MG / Framycetin 0.005 MG/MG / Gramicidin 0.00005 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+903963,triamcinolone,789930,Clinical Drug,2168081,789930,triamcinolone acetonide 80 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,41017247,Clinical Drug Form,OMOP2215209,41017247,Salicylic Acid / Triamcinolone Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+996541,fluocinolone,41017628,Clinical Drug Form,OMOP2215590,41017628,Chlormidazole / fluocinolone / Salicylic Acid Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+996541,fluocinolone,41023049,Clinical Drug,OMOP2221011,41023049,fluocinolone 0.005 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,35874046,Clinical Drug,OMOP5030484,35874046,clindamycin 489 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,41053312,Clinical Drug,OMOP2251274,41053312,Methotrexate 5 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,41303008,Clinical Drug,OMOP2500970,41303008,Methotrexate 18.8 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,44071323,Clinical Drug,OMOP1065954,44071323,Methotrexate 20 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1518254,dexamethasone,19006963,Clinical Drug,105394,19006963,dexamethasone 5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,19076134,Clinical Drug,309683,19076134,dexamethasone 1 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm,19082167,Ophthalmic Suspension
+1518254,dexamethasone,19123249,Clinical Drug,608583,19123249,dexamethasone 0.5 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,40028592,Clinical Drug Form,377418,40028592,dexamethasone Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,40167745,Clinical Drug,880649,40167745,dexamethasone 3 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,40836801,Clinical Drug,OMOP2034763,40836801,Dexamethasone 0.001 MG/MG / Neomycin 0.0035 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,40899110,Clinical Drug,OMOP2097072,40899110,Dexamethasone 2 MG/ML / Lidocaine 30 MG/ML / Thiamine 25 MG/ML / Vitamin B 12 0.12 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40930145,Clinical Drug,OMOP2128107,40930145,Dexamethasone 2.5 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,40992804,Clinical Drug,OMOP2190766,40992804,Dexamethasone 5 MG/ML / Lidocaine 30 MG/ML / Thiamine 25 MG/ML / Vitamin B 12 0.12 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41267497,Clinical Drug Form,OMOP2465459,41267497,Dexamethasone / Dipyrone / Esculin / Guaifenesin / Lidocaine / salicylamide Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41304551,Clinical Drug,OMOP2502513,41304551,Dexamethasone 4 MG/ML / Lidocaine 10 MG/ML / prednisolone 8 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41304673,Clinical Drug,OMOP2502635,41304673,Dexamethasone 1 MG/ML / Dipyrone 250 MG/ML / Esculin 5 MG/ML / Guaifenesin 100 MG/ML / Lidocaine 30 MG/ML / Niacinamide 10 MG/ML / Vitamin B 12 1 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,42711389,Clinical Drug,OMOP2728613,42711389,Dexamethasone 0.001 MG/MG / Gentamicin 0.00836 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,42972324,Clinical Drug,OMOP4698734,42972324,Dexamethasone 0.001 MG/MG / Neomycin 0.0035 MG/MG / Polymyxin B 6 UNT/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,44032849,Clinical Drug,OMOP1027480,44032849,Dexamethasone 0.001 MG/ML Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1707687,vancomycin,36062238,Clinical Drug,OMOP4988241,36062238,vancomycin 3.7 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,43855105,Clinical Drug,OMOP945741,43855105,Vancomycin 1 MG/MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1717240,amphotericin B,40821137,Clinical Drug,OMOP2019099,40821137,Amphotericin B 0.0377 MG/MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1717240,amphotericin B,41025187,Clinical Drug,OMOP2223149,41025187,Amphotericin B 5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1717240,amphotericin B,42479718,Clinical Drug Form,OMOP419977,42479718,Amphotericin B Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1757803,ganciclovir,963984,Clinical Drug,1999532,963984,ganciclovir 50 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1776684,ceftazidime,36886877,Clinical Drug,OMOP1005142,36886877,Ceftazidime 0.907 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,40837405,Clinical Drug,OMOP2035367,40837405,Ceftazidime 2000 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,44123679,Clinical Drug,OMOP1118310,44123679,Ceftazidime 500 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,46221511,Clinical Drug,1603840,46221511,avibactam 500 MG / ceftazidime 2000 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1790868,amikacin,36887691,Clinical Drug,OMOP1003903,36887691,Amikacin 334 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1790868,amikacin,40994237,Clinical Drug,OMOP2192199,40994237,Amikacin 668 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+19080982,ranibizumab,41021221,Clinical Drug,OMOP2219183,41021221,ranibizumab 13 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+19080982,ranibizumab,44071137,Clinical Drug,OMOP1065768,44071137,ranibizumab 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+40244266,aflibercept,35606176,Clinical Drug Form,1723180,35606176,aflibercept Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+746414,avacincaptad pegol,746418,Clinical Drug,2645113,746418,avacincaptad pegol 20 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+903963,triamcinolone,789935,Clinical Drug,2168098,789935,triamcinolone acetonide 80 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+903963,triamcinolone,36026949,Clinical Drug,2539182,36026949,triamcinolone hexacetonide 20 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+997881,clindamycin,997976,Clinical Drug,562516,997976,clindamycin 12 MG/ML / glucose 50 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+997881,clindamycin,35873149,Clinical Drug,OMOP5030408,35873149,clindamycin 400 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,35873640,Clinical Drug,OMOP5030554,35873640,clindamycin 90 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,35873994,Clinical Drug,OMOP5030432,35873994,clindamycin 1200 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,1305083,Clinical Drug,245256,1305083,methotrexate 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1305058,methotrexate,19007336,Clinical Drug,105589,19007336,methotrexate 100 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1305058,methotrexate,35832148,Clinical Drug,OMOP5036966,35832148,methotrexate 50 MG Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1305058,methotrexate,36067616,Clinical Drug,OMOP4994114,36067616,methotrexate 8.33 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1397141,bevacizumab,36119982,Clinical Drug,OMOP5048893,36119982,bevacizumab 25 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,1234671,Clinical Drug,OMOP5215373,1234671,chloramphenicol 2.5 MG/ML / dexamethasone 0.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,1234987,Clinical Drug,OMOP5215692,1234987,dexamethasone 0.04 MG/ML / morphine 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40231785,Clinical Drug,1049400,40231785,dexamethasone sodium phosphate 4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,40830659,Clinical Drug Form,OMOP2028621,40830659,Dexamethasone / Lidocaine / Phenylbutazone / salicylamide / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41023771,Clinical Drug,OMOP2221733,41023771,Dexamethasone 1.32 MG/ML / Diphenhydramine 10 MG/ML / Lidocaine 20 MG/ML / pyridoxine 100 MG/ML / Thiamine 33.3 MG/ML / Vitamin B 12 1 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41049172,Clinical Drug Form,OMOP2247134,41049172,Aminopyrine / Dexamethasone / Dipyrone / Esculin / Guaifenesin / Lidocaine / Niacinamide / Procaine / Thiamine / Vitamin B 12 / Vitamin B6 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41180289,Clinical Drug,OMOP2378251,41180289,Dexamethasone 0.002 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41180777,Clinical Drug,OMOP2378739,41180777,Chlorhexidine 0.5 MG/ML / Dexamethasone 0.4 MG/ML / Lidocaine 20 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41236579,Clinical Drug Form,OMOP2434541,41236579,Dexamethasone / Lidocaine / Thiamine / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41242610,Clinical Drug,OMOP2440572,41242610,Dexamethasone 1.8 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,43158579,Clinical Drug,OMOP461512,43158579,Dexamethasone 0.001 MG/MG / Framycetin 3.15 UNT/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,43285918,Clinical Drug,OMOP572543,43285918,Dexamethasone 24 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1518254,dexamethasone,43672756,Clinical Drug,OMOP879426,43672756,Dexamethasone 1 MG/ML / Neomycin 3500 UNT/ML / Polymyxin B 6000 UNT/ML Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1707687,vancomycin,35144845,Clinical Drug,OMOP4801936,35144845,Vancomycin 10 MG/ML Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1707687,vancomycin,36405158,Clinical Drug,OMOP3097200,36405158,Vancomycin 2 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,36892896,Clinical Drug,OMOP991339,36892896,Vancomycin 50 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1714277,voriconazole,35604631,Clinical Drug Form,1727280,35604631,voriconazole Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1717240,amphotericin B,36886711,Clinical Drug,OMOP989225,36886711,Amphotericin B 5 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1776684,ceftazidime,19101717,Clinical Drug,389025,19101717,ceftazidime 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1776684,ceftazidime,44097640,Clinical Drug,OMOP1092271,44097640,Ceftazidime 10000 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1790868,amikacin,1790906,Clinical Drug,252662,1790906,amikacin 100 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,36259790,Clinical Drug,OMOP3110665,36259790,Amikacin 5 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1790868,amikacin,40721705,Clinical Drug,OMOP4735437,40721705,Amikacin 25 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+19063605,pegaptanib,44029715,Clinical Drug Form,OMOP1024346,44029715,pegaptanib Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,904262,Clinical Drug,252266,904262,triamcinolone 0.01 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+903963,triamcinolone,36892902,Clinical Drug,OMOP996626,36892902,Triamcinolone 54.4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,41239692,Clinical Drug,OMOP2437654,41239692,Triamcinolone 80 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,19104645,Clinical Drug,415873,19104645,clindamycin 3 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+997881,clindamycin,35872998,Clinical Drug,OMOP5030392,35872998,clindamycin 450 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,40030604,Clinical Drug Form,371557,40030604,clindamycin Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1305058,methotrexate,792631,Clinical Drug,1946772,792631,methotrexate 25 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1305058,methotrexate,35604169,Clinical Drug,1747182,35604169,methotrexate 31.3 MG/ML Auto-Injector,Drug,V,Valid,S,Standard,RxNorm,46234466,Auto-Injector
+1305058,methotrexate,44084208,Clinical Drug,OMOP1078839,44084208,Methotrexate 50 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,44506740,Clinical Drug,1441425,44506740,methotrexate 62.5 MG/ML Auto-Injector,Drug,V,Valid,S,Standard,RxNorm,46234466,Auto-Injector
+1397141,bevacizumab,1465056,Clinical Drug,2700736,1465056,bevacizumab-tnjn 25 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1518254,dexamethasone,590184,Clinical Drug,OMOP3136755,590184,Dexamethasone 1 MG/ML / Neomycin 3510 UNT/ML / Polymyxin B 6000 UNT/ML Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,19076145,Clinical Drug,309696,19076145,dexamethasone phosphate 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,35161171,Clinical Drug,OMOP4818145,35161171,Dexamethasone 3.8 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40027168,Clinical Drug Form,373028,40027168,dexamethasone / neomycin Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,40930254,Clinical Drug,OMOP2128216,40930254,Dexamethasone 4 MG/ML / Lidocaine 10 MG/ML / prednisolone 8 MG/ML / Vitamin B 12 2.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40930257,Clinical Drug,OMOP2128219,40930257,Dexamethasone 4 MG / Hydroxocobalamin 1.5 MG / Lidocaine 60 MG / Phenylbutazone 450 MG / Vitamin B 12 1.5 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40955309,Clinical Drug Form,OMOP2153271,40955309,Dexamethasone / Papaverine / Phenobarbital / proxyphylline Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40961445,Clinical Drug,OMOP2159407,40961445,Dexamethasone 1.32 MG/ML / Lidocaine 20 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40992699,Clinical Drug,OMOP2190661,40992699,Dexamethasone 0.25 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40992705,Clinical Drug,OMOP2190667,40992705,Dexamethasone 13 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41086426,Clinical Drug,OMOP2284388,41086426,Dexamethasone 1 MG/ML / Papaverine 1 MG/ML / proxyphylline 24 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41143105,Clinical Drug Form,OMOP2341067,41143105,Dexamethasone / Diphenhydramine / Lidocaine / pyridoxine / Thiamine / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41180269,Clinical Drug,OMOP2378231,41180269,Dexamethasone 5 MG/ML / Lidocaine 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41236559,Clinical Drug Form,OMOP2434521,41236559,Dexamethasone / Dipyrone / Lidocaine / Phenylbutazone Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41273502,Clinical Drug,OMOP2471464,41273502,Dexamethasone 2.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41273508,Clinical Drug,OMOP2471470,41273508,Dexamethasone 0.00333 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,42480134,Clinical Drug,OMOP418633,42480134,Dexamethasone 1 MG/ML / Tobramycin 3 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,42708926,Clinical Drug,1249710,42708926,dexamethasone sodium phosphate 0.2 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,42716623,Clinical Drug,OMOP2733218,42716623,Dexamethasone 0.001 MG/MG / Framycetin 3.16 UNT/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,42972331,Clinical Drug,OMOP4698741,42972331,Dexamethasone 1 MG/ML / Neomycin 3.5 MG/ML / Polymyxin B 6000 UNT/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,43526136,Clinical Drug,1376068,43526136,dexamethasone sodium phosphate 24 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,43654778,Clinical Drug,OMOP902736,43654778,Dexamethasone 1.32 MG/ML / Neomycin 5 MG/ML / Polymyxin B 1 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1707687,vancomycin,1235584,Clinical Drug,OMOP5216290,1235584,vancomycin 8 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,36894800,Clinical Drug,OMOP995715,36894800,Vancomycin 1.02 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,40221349,Clinical Drug Form,1807507,40221349,vancomycin Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1707687,vancomycin,44058056,Clinical Drug,OMOP1052687,44058056,Vancomycin 5000 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1714277,voriconazole,35861572,Clinical Drug,OMOP5018511,35861572,voriconazole 100 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1714277,voriconazole,35861575,Clinical Drug,OMOP5018514,35861575,voriconazole 50 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1714277,voriconazole,43804109,Clinical Drug,OMOP694789,43804109,voriconazole 0.984 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1717240,amphotericin B,36787697,Clinical Drug,OMOP4775960,36787697,amphotericin B lipid complex 5 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1717240,amphotericin B,40175779,Clinical Drug,967385,40175779,amphotericin B liposomal 50 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+903963,triamcinolone,904171,Clinical Drug,251931,904171,triamcinolone 6 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,1972353,Clinical Drug,OMOP5164919,1972353,triamcinolone 40 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,40234819,Clinical Drug,1085996,40234819,triamcinolone hexacetonide 20 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,43181850,Clinical Drug,OMOP473782,43181850,Neomycin 3.5 UNT/MG / Triamcinolone 0.001 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+997881,clindamycin,19030822,Clinical Drug,205964,19030822,clindamycin 150 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+997881,clindamycin,19059531,Clinical Drug,244963,19059531,clindamycin 120 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1305058,methotrexate,44506728,Clinical Drug,1441408,44506728,methotrexate 25 MG/ML Auto-Injector,Drug,V,Valid,S,Standard,RxNorm,46234466,Auto-Injector
+1397141,bevacizumab,1301568,Clinical Drug,2627651,1301568,bevacizumab-adcd 25 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1518254,dexamethasone,1518490,Clinical Drug,226343,1518490,dexamethasone phosphate 1 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,2055870,Clinical Drug,OMOP4956703,2055870,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 6 IU/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,19054651,Clinical Drug,227142,19054651,dexamethasone 1 MG/ML / hypromellose 5 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,19060560,Clinical Drug,246730,19060560,dexamethasone 1 MG/ML / phenylephrine 1.5 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,19064244,Clinical Drug,251058,19064244,dexamethasone 0.05 MG/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm,19082167,Ophthalmic Suspension
+1518254,dexamethasone,19076110,Clinical Drug,309679,19076110,dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,35140022,Clinical Drug,OMOP4797172,35140022,Dexamethasone 2 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,35142792,Clinical Drug,OMOP4799900,35142792,Dexamethasone 4.5 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,36257212,Clinical Drug,OMOP3108087,36257212,Dexamethasone 0.001 MG/MG / Tobramycin 0.003 MG/MG Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082167,Ophthalmic Suspension
+1518254,dexamethasone,36893741,Clinical Drug,OMOP1001834,36893741,Dexamethasone 0.25 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1518254,dexamethasone,40028569,Clinical Drug Form,371721,40028569,dexamethasone Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+1518254,dexamethasone,40028596,Clinical Drug Form,371723,40028596,dexamethasone Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm,19082167,Ophthalmic Suspension
+1518254,dexamethasone,40167744,Clinical Drug,881355,40167744,dexamethasone 0.02 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,40861836,Clinical Drug Form,OMOP2059798,40861836,Dexamethasone / Papaverine / proxyphylline Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40898999,Clinical Drug,OMOP2096961,40898999,Dexamethasone 0.002 MG/MG / Neomycin 0.005 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,41023654,Clinical Drug,OMOP2221616,41023654,Dexamethasone 0.00029 MG/MG / Gentamicin 0.003 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,42481931,Clinical Drug Form,OMOP418631,42481931,Dexamethasone / Tobramycin Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,43191427,Clinical Drug Form,OMOP461501,43191427,Dexamethasone / Framycetin Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,43526126,Clinical Drug,1374378,43526126,dexamethasone sodium phosphate 1 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,44084539,Clinical Drug,OMOP1079170,44084539,Dexamethasone 0.001 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1707687,vancomycin,40221360,Clinical Drug,1807518,40221360,vancomycin 750 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1707687,vancomycin,44083823,Clinical Drug,OMOP1078454,44083823,Vancomycin 1000 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,44122767,Clinical Drug,OMOP1117398,44122767,Vancomycin 10000 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1717240,amphotericin B,36406620,Clinical Drug,OMOP3098662,36406620,Amphotericin B 100 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1717240,amphotericin B,36929330,Clinical Drug,OMOP5199558,36929330,amphotericin B 0.05 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,35605861,Clinical Drug Form,1732140,35605861,ganciclovir Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1757803,ganciclovir,35860153,Clinical Drug,OMOP5016311,35860153,ganciclovir 1 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1759013,faricimab,36955955,Clinical Drug,OMOP5201096,36955955,faricimab 120 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,36886879,Clinical Drug,OMOP1006612,36886879,Ceftazidime 0.906 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,42712666,Clinical Drug,OMOP2725647,42712666,Ceftazidime 907 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1790868,amikacin,1790905,Clinical Drug,252661,1790905,amikacin 20 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,40008548,Clinical Drug Form,370563,40008548,amikacin Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+19063605,pegaptanib,44123051,Clinical Drug,OMOP1117682,44123051,pegaptanib 3.33 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+746414,avacincaptad pegol,746417,Clinical Drug Form,2645111,746417,avacincaptad pegol Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+903963,triamcinolone,35135630,Clinical Drug,OMOP4792819,35135630,Triamcinolone 40 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,40865007,Clinical Drug,OMOP2062969,40865007,Triamcinolone 2 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,40958450,Clinical Drug,OMOP2156412,40958450,Triamcinolone 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,41080123,Clinical Drug Form,OMOP2278085,41080123,Gramicidin / Neomycin / Triamcinolone Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+903963,triamcinolone,41178487,Clinical Drug,OMOP2376449,41178487,Neomycin 0.005 MG/MG / Triamcinolone 0.001 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+903963,triamcinolone,43258668,Clinical Drug,OMOP572569,43258668,Triamcinolone 10 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+903963,triamcinolone,44122789,Clinical Drug,OMOP1117420,44122789,Triamcinolone 40 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+996541,fluocinolone,43619658,Clinical Drug,OMOP921041,43619658,fluocinolone 0.19 MG Intravitreal Applicator,Drug,V,Valid,S,Standard,RxNorm Extension,43563502,Intravitreal Applicator
+997881,clindamycin,40108794,Clinical Drug Form,562267,40108794,clindamycin / glucose Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1305058,methotrexate,19104448,Clinical Drug,415046,19104448,methotrexate 7.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1305058,methotrexate,35831764,Clinical Drug,OMOP5036965,35831764,methotrexate 5 MG Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1305058,methotrexate,36883842,Clinical Drug,OMOP992821,36883842,Methotrexate 21.9 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1397141,bevacizumab,41174289,Clinical Drug Form,OMOP2372251,41174289,bevacizumab Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,19019278,Clinical Drug,198021,19019278,dexamethasone 0.0005 MG/MG / neomycin 0.0035 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,19061691,Clinical Drug,249225,19061691,dexamethasone 8 MG/ML / sodium phosphate 2 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+1518254,dexamethasone,19135508,Clinical Drug,849115,19135508,dexamethasone 0.5 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm,19082167,Ophthalmic Suspension
+1518254,dexamethasone,35149915,Clinical Drug,OMOP4806969,35149915,Dexamethasone 6.6 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,35159918,Clinical Drug,OMOP4816899,35159918,Dexamethasone 1.65 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40868053,Clinical Drug,OMOP2066015,40868053,Dexamethasone 4 MG / Dipyrone 450 MG / Hydroxocobalamin 1.5 MG / Lidocaine 60 MG / Phenylbutazone 508 MG / Vitamin B 12 1.5 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41023647,Clinical Drug,OMOP2221609,41023647,Dexamethasone 4.5 MG/ML / Lidocaine 10 MG/ML / prednisolone 8 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41086449,Clinical Drug,OMOP2284411,41086449,Dexamethasone 3 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,41111559,Clinical Drug Form,OMOP2309521,41111559,Dexamethasone / Procaine / pyridoxine / Thiamine / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41236558,Clinical Drug Form,OMOP2434520,41236558,Dexamethasone / Salicylic Acid Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41242585,Clinical Drug,OMOP2440547,41242585,Dexamethasone 0.00029 MG/MG / Oxytetracycline 0.00576 MG/MG / Polymyxin B 6 UNT/MG / tramazoline 0.00068 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,41242592,Clinical Drug,OMOP2440554,41242592,Dexamethasone 5 MG/ML / Lidocaine 30 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41304546,Clinical Drug,OMOP2502508,41304546,Dexamethasone 1 MG/ML / Neomycin 5 MG/ML / Polymyxin B 6 UNT/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,42726065,Clinical Drug,OMOP2721711,42726065,Dexamethasone 0.001 MG/MG / Gentamicin 0.00837 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,43637839,Clinical Drug,OMOP922837,43637839,Dexamethasone 0.00029 MG/MG / Oxytetracycline 0.00576 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1707687,vancomycin,1734852,Clinical Drug,2688634,1734852,vancomycin 2000 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1707687,vancomycin,35862249,Clinical Drug,OMOP5018830,35862249,vancomycin 800 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,36036119,Clinical Drug,OMOP5046125,36036119,vancomycin 500 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1707687,vancomycin,36965877,Clinical Drug,OMOP5199045,36965877,vancomycin 20 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,40221351,Clinical Drug,1807509,40221351,vancomycin 5 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1707687,vancomycin,43657228,Clinical Drug,OMOP945819,43657228,Vancomycin 0.986 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1717240,amphotericin B,21086376,Clinical Drug Form,OMOP278097,21086376,Amphotericin B Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1717240,amphotericin B,36884758,Clinical Drug,OMOP988385,36884758,Amphotericin B 100 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1717240,amphotericin B,43779878,Clinical Drug,OMOP775680,43779878,Amphotericin B 0.45 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1724700,foscarnet,588182,Clinical Drug,OMOP3138832,588182,Foscarnet 0.096 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1757803,ganciclovir,35860113,Clinical Drug,OMOP5016270,35860113,ganciclovir 100 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,35860171,Clinical Drug,OMOP5016329,35860171,ganciclovir 0.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,36888512,Clinical Drug Form,OMOP991491,36888512,Ganciclovir Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+903963,triamcinolone,19065985,Clinical Drug,259054,19065985,triamcinolone 4 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,36894466,Clinical Drug Form,OMOP998556,36894466,Triamcinolone Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,40234795,Clinical Drug,1086336,40234795,triamcinolone diacetate 10 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,40234801,Clinical Drug,1085680,40234801,triamcinolone diacetate 40 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,41273588,Clinical Drug,OMOP2471550,41273588,Diclofenac 75 MG / Triamcinolone 40 MG / Vitamin B 12 1 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,42715454,Clinical Drug,OMOP2732220,42715454,Neomycin 3.51 UNT/MG / Triamcinolone 0.001 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+996541,fluocinolone,40924018,Clinical Drug Form,OMOP2121980,40924018,fluocinolone Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,997975,Clinical Drug,562269,997975,clindamycin 18 MG/ML / glucose 50 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+997881,clindamycin,35604119,Clinical Drug,1737246,35604119,clindamycin 150 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+997881,clindamycin,35874091,Clinical Drug,OMOP5030527,35874091,clindamycin 150 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,36069846,Clinical Drug,OMOP4996584,36069846,clindamycin 6 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,41273827,Clinical Drug,OMOP2471789,41273827,Clindamycin 75 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,41273833,Clinical Drug,OMOP2471795,41273833,Clindamycin 12 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,36067612,Clinical Drug,OMOP4994110,36067612,methotrexate 20 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,36894578,Clinical Drug,OMOP1001851,36894578,Methotrexate 50 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1305058,methotrexate,44084209,Clinical Drug,OMOP1078840,44084209,Methotrexate 50 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,44094489,Clinical Drug Form,OMOP1089120,44094489,Methotrexate Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1305058,methotrexate,45776218,Clinical Drug,1594760,45776218,methotrexate 18.8 MG/ML Auto-Injector,Drug,V,Valid,S,Standard,RxNorm,46234466,Auto-Injector
+1397141,bevacizumab,37498213,Clinical Drug,2268045,37498213,bevacizumab-bvzr 25 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1397141,bevacizumab,46275986,Clinical Drug,1657069,46275986,bevacizumab 25 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1518254,dexamethasone,948693,Clinical Drug,313943,948693,dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,1234707,Clinical Drug,OMOP5215412,1234707,dexamethasone 0.5 MG/ML / framycetin 5 MG/ML / gramicidin 0.05 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,19127837,Clinical Drug,748085,19127837,dexamethasone 0.0001 MG/MG / tobramycin 0.0003 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,21032191,Clinical Drug Form,OMOP352557,21032191,Dexamethasone / hypromellose / Neomycin / Polymyxin B Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,40028865,Clinical Drug Form,371735,40028865,cyproheptadine / dexamethasone Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,40224101,Clinical Drug,1006791,40224101,dexamethasone 4 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+1518254,dexamethasone,40867940,Clinical Drug,OMOP2065902,40867940,Dexamethasone 4 MG / Dipyrone 900 MG / Esculin 3.6 MG / Guaifenesin 600 MG / Lidocaine 15 MG / salicylamide 600 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40930258,Clinical Drug,OMOP2128220,40930258,Dexamethasone 3 MG / Esculin 5 MG / Hesperidin 10 MG / Lidocaine 20 MG / mofebutazone 547 MG / salicylamide 300 MG / Vitamin B 12 1 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40961441,Clinical Drug,OMOP2159403,40961441,Dexamethasone 8 MG / Neomycin 42.5 MG / Polymyxin B 51000 UNT Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,41023659,Clinical Drug,OMOP2221621,41023659,Dexamethasone 0.9 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41055022,Clinical Drug,OMOP2252984,41055022,Dexamethasone 0.77 MG/ML / Esculin 1.25 MG/ML / Hesperidin 2.5 MG/ML / Lidocaine 5 MG/ML / mofebutazone 137 MG/ML / salicylamide 75 MG/ML / Vitamin B 12 0.25 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41080245,Clinical Drug Form,OMOP2278207,41080245,Dexamethasone / Lidocaine / prednisolone Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41149677,Clinical Drug,OMOP2347639,41149677,Chlorhexidine 0.0005 MG/MG / Dexamethasone 0.0004 MG/MG / Lidocaine 0.02 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41298499,Clinical Drug Form,OMOP2496461,41298499,Dexamethasone Ophthalmic Gel,Drug,V,Valid,S,Standard,RxNorm Extension,19082166,Ophthalmic Gel
+1518254,dexamethasone,41304538,Clinical Drug,OMOP2502500,41304538,Dexamethasone 4.5 MG/ML / prednisolone 8 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,42731233,Clinical Drug,OMOP2728934,42731233,Dexamethasone 0.001 MG/MG / Neomycin 3.51 UNT/MG / Polymyxin B 6 UNT/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,43853864,Clinical Drug Form,OMOP923594,43853864,Dexamethasone / tramazoline Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1537122,pegcetacoplan,1537135,Clinical Drug Form,2557385,1537135,pegcetacoplan Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1707687,vancomycin,1707772,Clinical Drug,313572,1707772,vancomycin 50 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1707687,vancomycin,21111050,Clinical Drug,OMOP356982,21111050,Vancomycin 50 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1707687,vancomycin,42719509,Clinical Drug,OMOP2742895,42719509,Vancomycin 0.987 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,40234038,Clinical Drug,1085754,40234038,triamcinolone acetonide 40 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,41083492,Clinical Drug,OMOP2281454,41083492,Triamcinolone 0.066 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,35604113,Clinical Drug,1737238,35604113,clindamycin 18 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1305058,methotrexate,41210078,Clinical Drug,OMOP2408040,41210078,Methotrexate 500 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1397141,bevacizumab,40720402,Clinical Drug Form,OMOP4736532,40720402,bevacizumab Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,1235064,Clinical Drug Form,OMOP5215768,1235064,dexamethasone / hydromorphone Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,19101991,Clinical Drug,393267,19101991,dexamethasone 16 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,19115248,Clinical Drug,562770,19115248,dexamethasone 0.2 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm,19082167,Ophthalmic Suspension
+1518254,dexamethasone,35141154,Clinical Drug,OMOP4798284,35141154,Dexamethasone 3.2 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,35865008,Clinical Drug,OMOP5021467,35865008,dexamethasone 3 MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,40027162,Clinical Drug Form,374698,40027162,dexamethasone / neomycin / polymyxin B Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm,19082167,Ophthalmic Suspension
+1518254,dexamethasone,40027458,Clinical Drug Form,378984,40027458,dexamethasone / tobramycin Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm,19082167,Ophthalmic Suspension
+1518254,dexamethasone,40225770,Clinical Drug,1012133,40225770,dexamethasone 4 MG/ML / lidocaine hydrochloride 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,40861837,Clinical Drug Form,OMOP2059799,40861837,Dexamethasone / Oxytetracycline / Polymyxin B / tramazoline Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,40924102,Clinical Drug Form,OMOP2122064,40924102,Dexamethasone / Dipyrone / Hydroxocobalamin / Lidocaine / Phenylbutazone / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40992692,Clinical Drug,OMOP2190654,40992692,Dexamethasone 2 MG/ML / Lidocaine 20 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41242615,Clinical Drug,OMOP2440577,41242615,Dexamethasone 0.00128 MG/MG Ophthalmic Gel,Drug,V,Valid,S,Standard,RxNorm Extension,19082166,Ophthalmic Gel
+1518254,dexamethasone,41273489,Clinical Drug,OMOP2471451,41273489,Dexamethasone 1.38 MG/ML / Lidocaine 5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41298595,Clinical Drug Form,OMOP2496557,41298595,Chlorhexidine / Dexamethasone Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,42716694,Clinical Drug,OMOP2742576,42716694,Dexamethasone 0.00029 MG/MG / Gentamicin 0.005 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,43177991,Clinical Drug,OMOP518119,43177991,Dexamethasone 1 MG/ML / Neomycin 3500 UNT/ML / Polymyxin B 6000 UNT/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,43526123,Clinical Drug,1376055,43526123,dexamethasone sodium phosphate 0.0005 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,44158898,Clinical Drug Form,OMOP3035621,44158898,Dexamethasone / Estradiol Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,19057568,Clinical Drug,239209,19057568,vancomycin 100 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1707687,vancomycin,21140439,Clinical Drug Form,OMOP356867,21140439,Vancomycin Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1707687,vancomycin,35830195,Clinical Drug,OMOP5037925,35830195,vancomycin 0.01 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1707687,vancomycin,36882153,Clinical Drug,OMOP1005243,36882153,Vancomycin 5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,40754281,Clinical Drug,OMOP4702742,40754281,Gentamicin 0.02 MG/ML / heparin 3500 UNT/ML / Vancomycin 0.1 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1714277,voriconazole,41208541,Clinical Drug,OMOP2406503,41208541,voriconazole 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,21022862,Clinical Drug,OMOP360216,21022862,Ganciclovir 0.0015 MG/MG Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1776684,ceftazidime,37592599,Clinical Drug Form,OMOP4782045,37592599,avibactam / Ceftazidime Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1790868,amikacin,19104621,Clinical Drug,415815,19104621,amikacin 1 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,35606018,Clinical Drug Form,1723155,35606018,amikacin Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1790868,amikacin,40173566,Clinical Drug,905154,40173566,amikacin sulfate 62.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+903963,triamcinolone,40085512,Clinical Drug Form,376587,40085512,triamcinolone Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+903963,triamcinolone,40234797,Clinical Drug,1085666,40234797,triamcinolone diacetate 25 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+903963,triamcinolone,41085685,Clinical Drug,OMOP2283647,41085685,Gramicidin 0.00025 MG/MG / Neomycin 0.00385 MG/MG / Triamcinolone 0.0005 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+903963,triamcinolone,41114698,Clinical Drug,OMOP2312660,41114698,Triamcinolone 0.02 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,41273574,Clinical Drug,OMOP2471536,41273574,Triamcinolone 20 MG/ML / Vitamin B 12 0.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,42727355,Clinical Drug,OMOP2723176,42727355,Clindamycin 0.712 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,43715292,Clinical Drug,OMOP900993,43715292,Clindamycin 180 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1305058,methotrexate,1305091,Clinical Drug,311624,1305091,methotrexate 15 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1397141,bevacizumab,1466047,Clinical Drug,2712049,1466047,bevacizumab-nwgd 25 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1397141,bevacizumab,41212636,Clinical Drug,OMOP2410598,41212636,bevacizumab 25 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,1518745,Clinical Drug,435681,1518745,dexamethasone 2 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,1719045,Clinical Drug,1812192,1719045,dexamethasone phosphate 4 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1518254,dexamethasone,21061677,Clinical Drug,OMOP352498,21061677,Dexamethasone 10 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,35146310,Clinical Drug,OMOP4803391,35146310,Dexamethasone 3 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40027153,Clinical Drug Form,374699,40027153,dexamethasone / neomycin / polymyxin B Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,40830660,Clinical Drug Form,OMOP2028622,40830660,Dexamethasone / Hydroxocobalamin / Lidocaine / Phenylbutazone / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40836804,Clinical Drug,OMOP2034766,40836804,Dexamethasone 10 MG/ML / Lidocaine 61.6 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40899112,Clinical Drug,OMOP2097074,40899112,Dexamethasone 4 MG / Dipyrone 2000 MG / Lidocaine 30 MG / Orphenadrine 60 MG / Thiamine 50 MG / Vitamin B 12 1 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41086437,Clinical Drug,OMOP2284399,41086437,Dexamethasone 0.00029 MG/MG / Gentamicin 0.00835 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,41211783,Clinical Drug,OMOP2409745,41211783,Dexamethasone 3 MG/ML / Lidocaine 4 MG/ML / Vitamin B 12 1 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,43180512,Clinical Drug Form,OMOP461503,43180512,Dexamethasone / Framycetin Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1707687,vancomycin,2052991,Clinical Drug,OMOP4953521,2052991,vancomycin 125 MG Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1707687,vancomycin,42723510,Clinical Drug,OMOP2731479,42723510,Vancomycin 0.99 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1714277,voriconazole,21032913,Clinical Drug Form,OMOP365380,21032913,voriconazole Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1714277,voriconazole,43696300,Clinical Drug,OMOP694785,43696300,voriconazole 40 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1717240,amphotericin B,35861931,Clinical Drug,OMOP5018485,35861931,amphotericin B 10 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1717240,amphotericin B,35861934,Clinical Drug,OMOP5018488,35861934,amphotericin B 25 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1724700,foscarnet,40867260,Clinical Drug,OMOP2065222,40867260,Foscarnet 0.096 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,35860149,Clinical Drug,OMOP5016306,35860149,ganciclovir 1.25 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,40962011,Clinical Drug,OMOP2159973,40962011,Ceftazidime 25 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,43712860,Clinical Drug,OMOP672091,43712860,Ceftazidime 0.909 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1790868,amikacin,35135161,Clinical Drug,OMOP4792359,35135161,Amikacin 100 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1790868,amikacin,35606164,Clinical Drug,1723157,35606164,amikacin 250 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+19048999,fomivirsen,19077517,Clinical Drug,310415,19077517,fomivirsen 6.6 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+40244266,aflibercept,35606183,Clinical Drug,1723190,35606183,ziv-aflibercept 25 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+996541,fluocinolone,43835771,Clinical Drug Form,OMOP921039,43835771,fluocinolone Intravitreal Applicator,Drug,V,Valid,S,Standard,RxNorm Extension,43563502,Intravitreal Applicator
+997881,clindamycin,35873153,Clinical Drug,OMOP5030412,35873153,clindamycin 250 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,43275134,Clinical Drug,OMOP572590,43275134,Methotrexate 2.5 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1305058,methotrexate,44506736,Clinical Drug,1441419,44506736,methotrexate 50 MG/ML Auto-Injector,Drug,V,Valid,S,Standard,RxNorm,46234466,Auto-Injector
+1305058,methotrexate,46275600,Clinical Drug Form,1655955,46275600,methotrexate Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1397141,bevacizumab,1235339,Clinical Drug,OMOP5216043,1235339,bevacizumab 25 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,990094,Clinical Drug,246726,990094,chloramphenicol 5 MG/ML / dexamethasone 1 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,1234986,Clinical Drug Form,OMOP5215691,1234986,dexamethasone / morphine Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,1510437,Clinical Drug,2045410,1510437,dexamethasone 103.4 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1518254,dexamethasone,19063762,Clinical Drug,250818,19063762,cyproheptadine 0.5 MG/ML / dexamethasone 4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,36264866,Clinical Drug,OMOP3115741,36264866,Dexamethasone 0.001 MG/MG Ophthalmic Gel,Drug,V,Valid,S,Standard,RxNorm Extension,19082166,Ophthalmic Gel
+1518254,dexamethasone,41080248,Clinical Drug Form,OMOP2278210,41080248,Dexamethasone / Gentamicin Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,41086433,Clinical Drug,OMOP2284395,41086433,Dexamethasone 1.32 MG/ML / Dipyrone 150 MG/ML / Lidocaine 20 MG/ML / Phenylbutazone 150 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41086459,Clinical Drug,OMOP2284421,41086459,Dexamethasone 0.01 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,41180291,Clinical Drug,OMOP2378253,41180291,Dexamethasone 1.3 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41242612,Clinical Drug,OMOP2440574,41242612,Dexamethasone 8 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,42722104,Clinical Drug,OMOP2731590,42722104,Dexamethasone 0.00029 MG/MG / Gentamicin 0.00836 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,43144819,Clinical Drug,OMOP517923,43144819,Dexamethasone 0.25 MG / Oxytetracycline 1.34 MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,44084540,Clinical Drug,OMOP1079171,44084540,Dexamethasone 0.001 MG/ML / Tobramycin 0.003 MG/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082167,Ophthalmic Suspension
+1707687,vancomycin,1560138,Clinical Drug,2049890,1560138,vancomycin 1500 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1707687,vancomycin,1734850,Clinical Drug,2688632,1734850,vancomycin 1750 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1707687,vancomycin,36036114,Clinical Drug Form,OMOP5046120,36036114,vancomycin Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1707687,vancomycin,36074492,Clinical Drug,OMOP4988244,36074492,vancomycin 2.83 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,36886959,Clinical Drug,OMOP1006544,36886959,Vancomycin 1 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,43023809,Clinical Drug,OMOP4838926,43023809,Vancomycin 37 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,43023812,Clinical Drug,OMOP4838929,43023812,Vancomycin 125 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1714277,voriconazole,36885634,Clinical Drug Form,OMOP988476,36885634,voriconazole Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1717240,amphotericin B,2051237,Clinical Drug,OMOP4951715,2051237,amphotericin B 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1717240,amphotericin B,35604134,Clinical Drug Form,1737431,35604134,amphotericin B Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1717240,amphotericin B,35861552,Clinical Drug,OMOP5018491,35861552,amphotericin B 5 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,19058684,Clinical Drug,242800,19058684,ceftazidime 200 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1776684,ceftazidime,21044130,Clinical Drug,OMOP388831,21044130,Ceftazidime 50 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1776684,ceftazidime,40899617,Clinical Drug,OMOP2097579,40899617,Ceftazidime 100 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,44084682,Clinical Drug,OMOP1079313,44084682,Ceftazidime 6000 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1776684,ceftazidime,46275520,Clinical Drug,1659287,46275520,ceftazidime 2000 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1790868,amikacin,19104632,Clinical Drug,415859,19104632,amikacin 2.8 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,19104635,Clinical Drug,415862,19104635,amikacin 5.2 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,19104638,Clinical Drug,415865,19104638,amikacin 2.4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,35161142,Clinical Drug,OMOP4818116,35161142,Amikacin 100 MG Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1790868,amikacin,41181814,Clinical Drug,OMOP2379776,41181814,Amikacin 134 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+40244266,aflibercept,41017956,Clinical Drug Form,OMOP2215918,41017956,aflibercept Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+903963,triamcinolone,40833868,Clinical Drug,OMOP2031830,40833868,Triamcinolone 5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+903963,triamcinolone,40861854,Clinical Drug Form,OMOP2059816,40861854,Diclofenac / Triamcinolone / Vitamin B 12 Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,19059624,Clinical Drug,245164,19059624,clindamycin 180 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1305058,methotrexate,1734901,Clinical Drug,2689142,1734901,methotrexate 100 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1397141,bevacizumab,779417,Clinical Drug,2599044,779417,bevacizumab-maly 25 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1518254,dexamethasone,916178,Clinical Drug,244267,916178,dexamethasone 1 MG/ML / neomycin 5 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,948694,Clinical Drug,313947,948694,dexamethasone 0.001 MG/MG / neomycin 0.005 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,1235065,Clinical Drug,OMOP5215769,1235065,dexamethasone 0.025 MG/ML / hydromorphone 5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,1518525,Clinical Drug,247293,1518525,dexamethasone 3.2 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+1518254,dexamethasone,19076132,Clinical Drug,309681,19076132,dexamethasone 1 MG/ML / neomycin 5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension,Drug,V,Valid,S,Standard,RxNorm,19082167,Ophthalmic Suspension
+1518254,dexamethasone,19076133,Clinical Drug,309682,19076133,dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,19076139,Clinical Drug,309690,19076139,dexamethasone phosphate 0.0005 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,19080702,Clinical Drug,315061,19080702,dexamethasone 20 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,19108508,Clinical Drug,436510,19108508,dexamethasone 0.133 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,35865035,Clinical Drug,OMOP5021494,35865035,dexamethasone 0.06 MG Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,40027456,Clinical Drug Form,374438,40027456,dexamethasone / tobramycin Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+1518254,dexamethasone,40836803,Clinical Drug,OMOP2034765,40836803,Dexamethasone 1.32 MG/ML / Lidocaine 20 MG/ML / Phenylbutazone 150 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40992706,Clinical Drug,OMOP2190668,40992706,Dexamethasone 2 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,41054902,Clinical Drug,OMOP2252864,41054902,Dexamethasone 1.6 MG/ML / Lidocaine 20 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41086429,Clinical Drug,OMOP2284391,41086429,Dexamethasone 16 MG / Neomycin 42.5 MG Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,41086438,Clinical Drug,OMOP2284400,41086438,Dexamethasone 0.001 MG/MG / Gentamicin 0.00835 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,41304540,Clinical Drug,OMOP2502502,41304540,Dexamethasone 2 MG/ML / Papaverine 1.5 MG/ML / proxyphylline 30 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41304543,Clinical Drug,OMOP2502505,41304543,Dexamethasone 2 MG/ML / Papaverine 1.5 MG/ML / Phenobarbital 2 MG/ML / proxyphylline 30 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41304557,Clinical Drug,OMOP2502519,41304557,Dexamethasone 6 MG / Gentamicin 37.5 MG Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,43159939,Clinical Drug,OMOP473789,43159939,Dexamethasone 1 MG/ML / Neomycin 3500 UNT/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,43526419,Clinical Drug,1374372,43526419,dexamethasone acetate 8 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm,19082104,Injectable Suspension
+1518254,dexamethasone,43799626,Clinical Drug,OMOP923598,43799626,Dexamethasone 0.25 MG/ML / tramazoline 0.632 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1714277,voriconazole,44081343,Clinical Drug Form,OMOP1075974,44081343,voriconazole Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1717240,amphotericin B,21174730,Clinical Drug,OMOP278133,21174730,Amphotericin B 1.5 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1717240,amphotericin B,43581894,Clinical Drug,OMOP775712,43581894,Amphotericin B 0.0377 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1724700,foscarnet,35606300,Clinical Drug Form,1734376,35606300,foscarnet Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1757803,ganciclovir,1592413,Clinical Drug,1872066,1592413,ganciclovir 2 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1757803,ganciclovir,35860127,Clinical Drug,OMOP5016284,35860127,ganciclovir 25 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,35860185,Clinical Drug,OMOP5016343,35860185,ganciclovir 125 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,21122494,Clinical Drug,OMOP388857,21122494,Ceftazidime 20 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1776684,ceftazidime,35859353,Clinical Drug,OMOP5015635,35859353,ceftazidime 5000 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,36408169,Clinical Drug,OMOP3100211,36408169,Ceftazidime 250 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,44056030,Clinical Drug Form,OMOP1050661,44056030,Ceftazidime Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1776684,ceftazidime,44123678,Clinical Drug,OMOP1118309,44123678,Ceftazidime 1000 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1790868,amikacin,784023,Clinical Drug,OMOP4831850,784023,Amikacin 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1790868,amikacin,35830607,Clinical Drug,OMOP5038069,35830607,amikacin 200 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1790868,amikacin,40173562,Clinical Drug,905148,40173562,amikacin sulfate 50 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,40721707,Clinical Drug Form,OMOP4735435,40721707,Amikacin Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+903963,triamcinolone,40073113,Clinical Drug Form,384633,40073113,polymyxin B / triamcinolone Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm,19135925,Ophthalmic Ointment
+903963,triamcinolone,41270536,Clinical Drug,OMOP2468498,41270536,Triamcinolone 0.0333 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,35142000,Clinical Drug,OMOP4799120,35142000,Clindamycin 300 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,35873165,Clinical Drug,OMOP5030424,35873165,clindamycin 300 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,41086774,Clinical Drug,OMOP2284736,41086774,Clindamycin 900 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+997881,clindamycin,43517205,Clinical Drug,OMOP2804320,43517205,Clindamycin 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1305058,methotrexate,1305125,Clinical Drug,315148,1305125,methotrexate 2.5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1305058,methotrexate,19104447,Clinical Drug,415045,19104447,methotrexate 5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1518254,dexamethasone,21120479,Clinical Drug Form,OMOP352568,21120479,Dexamethasone / Framycetin / Gramicidin Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,35143888,Clinical Drug,OMOP4800985,35143888,Dexamethasone 0.2 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,35144017,Clinical Drug,OMOP4801112,35144017,Dexamethasone 3.3 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,36932653,Clinical Drug,OMOP5195336,36932653,dexamethasone 1 MG/ML / netilmicin 3 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,36951903,Clinical Drug,OMOP5195330,36951903,dexamethasone 1 MG/ML / levofloxacin 5 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,40027170,Clinical Drug Form,376267,40027170,dexamethasone / neomycin Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm,19129634,Ophthalmic Solution
+1518254,dexamethasone,40752231,Clinical Drug,OMOP4704258,40752231,Dexamethasone 1 MG/ML / hypromellose 5 MG/ML / Neomycin 3500 UNT/ML / Polymyxin B 6000 UNT/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,40898998,Clinical Drug,OMOP2096960,40898998,Dexamethasone 0.001 MG/MG / Neomycin 0.005 MG/MG / Polymyxin B 6 UNT/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,40930250,Clinical Drug,OMOP2128212,40930250,Dexamethasone 4 MG / Procaine 50 MG / pyridoxine 100 MG / Thiamine 100 MG / Vitamin B 12 1 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,40992806,Clinical Drug,OMOP2190768,40992806,Dexamethasone 4 MG / Lidocaine 40 MG / Phenylbutazone 600 MG / prednisolone 8 MG / Vitamin B 12 2.5 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41143086,Clinical Drug Form,OMOP2341048,41143086,Dexamethasone / dexpanthenol / Salicylic Acid Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41180276,Clinical Drug,OMOP2378238,41180276,Dexamethasone 0.3 MG/ML / dexpanthenol 3 MG/ML / Salicylic Acid 2 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,41211682,Clinical Drug,OMOP2409644,41211682,Dexamethasone 3 MG/ML / Lidocaine 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1518254,dexamethasone,42726064,Clinical Drug,OMOP2724173,42726064,Dexamethasone 0.00029 MG/MG / Gentamicin 0.00837 MG/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,43166939,Clinical Drug,OMOP518069,43166939,Dexamethasone 0.001 MG/MG / Neomycin 3.5 UNT/MG / Polymyxin B 6 UNT/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1537122,pegcetacoplan,36921703,Clinical Drug Form,OMOP5195886,36921703,pegcetacoplan Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,35862251,Clinical Drug,OMOP5018832,35862251,vancomycin 400 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,43023803,Clinical Drug,OMOP4838921,43023803,Vancomycin 250 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1714277,voriconazole,21170488,Clinical Drug,OMOP365404,21170488,voriconazole 10 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1717240,amphotericin B,19057592,Clinical Drug,239240,19057592,amphotericin B 50 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1717240,amphotericin B,19133991,Clinical Drug,834789,19133991,amphotericin B liposomal 5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1717240,amphotericin B,35604140,Clinical Drug,1737442,35604140,amphotericin B lipid complex 5 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1717240,amphotericin B,40962883,Clinical Drug,OMOP2160845,40962883,Amphotericin B 50 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1717240,amphotericin B,43166284,Clinical Drug,OMOP460683,43166284,Amphotericin B 3.33 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1717240,amphotericin B,44110898,Clinical Drug,OMOP1105529,44110898,Amphotericin B 50 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1759013,faricimab,1759021,Clinical Drug,2591589,1759021,faricimab-svoa 120 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1776684,ceftazidime,19057790,Clinical Drug,240447,19057790,ceftazidime 250 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1776684,ceftazidime,36407470,Clinical Drug,OMOP3099512,36407470,Ceftazidime 3000 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,41055507,Clinical Drug,OMOP2253469,41055507,Ceftazidime 40 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,43820951,Clinical Drug,OMOP672094,43820951,Ceftazidime 0.893 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1790868,amikacin,43036832,Clinical Drug,OMOP4851872,43036832,Amikacin 250 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+37497314,brolucizumab,36057870,Clinical Drug,OMOP4983435,36057870,brolucizumab 120 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+40244266,aflibercept,35606178,Clinical Drug,1723184,35606178,aflibercept 40 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+40244266,aflibercept,44110966,Clinical Drug,OMOP1105597,44110966,aflibercept 40 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1790868,amikacin,36881950,Clinical Drug,OMOP996302,36881950,Amikacin 6.67 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1790868,amikacin,36888698,Clinical Drug,OMOP999985,36888698,Amikacin 6.68 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+19080982,ranibizumab,35603581,Clinical Drug Form,1724210,35603581,ranibizumab Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+19080982,ranibizumab,44164817,Clinical Drug,OMOP3041540,44164817,ranibizumab 13 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+40244266,aflibercept,41056660,Clinical Drug,OMOP2254622,41056660,aflibercept 25 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+40244266,aflibercept,41213366,Clinical Drug,OMOP2411328,41213366,aflibercept 40 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1518254,dexamethasone,44071661,Clinical Drug,OMOP1066292,44071661,Dexamethasone 0.0001 MG/MG / Neomycin 0.0035 MG/MG / Polymyxin B 6000 UNT/MG Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,44084541,Clinical Drug,OMOP1079172,44084541,Dexamethasone 0.001 MG/ML / Tobramycin 0.003 MG/ML Ophthalmic Ointment,Drug,V,Valid,S,Standard,RxNorm Extension,19135925,Ophthalmic Ointment
+1518254,dexamethasone,44165059,Clinical Drug,OMOP3041782,44165059,Dexamethasone 0.1 MG/ML / Estradiol 0.15 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1537122,pegcetacoplan,1301823,Clinical Drug,2630848,1301823,pegcetacoplan 150 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1537122,pegcetacoplan,36958053,Clinical Drug,OMOP5195892,36958053,pegcetacoplan 54 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,1560136,Clinical Drug,2049888,1560136,vancomycin 1250 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1707687,vancomycin,1560139,Clinical Drug,2049891,1560139,vancomycin 250 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1707687,vancomycin,2052957,Clinical Drug,OMOP4953479,2052957,sodium chloride 9 MG/ML / vancomycin 10 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,2052960,Clinical Drug Form,OMOP4953482,2052960,sodium chloride / vancomycin Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,40752949,Clinical Drug,OMOP4704675,40752949,Vancomycin 3 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1707687,vancomycin,40754282,Clinical Drug Form,OMOP4702741,40754282,Gentamicin / heparin / Vancomycin Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1717240,amphotericin B,37499295,Clinical Drug Form,2285811,37499295,amphotericin B Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1717240,amphotericin B,40747397,Clinical Drug,OMOP4709842,40747397,amphotericin B liposomal 100 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,21022861,Clinical Drug Form,OMOP360206,21022861,Ganciclovir Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1757803,ganciclovir,35860123,Clinical Drug,OMOP5016280,35860123,ganciclovir 30 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,36891506,Clinical Drug Form,OMOP996798,36891506,Ganciclovir Ophthalmic Cream,Drug,V,Valid,S,Standard,RxNorm Extension,19082576,Ophthalmic Cream
+1757803,ganciclovir,41303904,Clinical Drug,OMOP2501866,41303904,Ganciclovir 500 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,40025074,Clinical Drug Form,371337,40025074,ceftazidime Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1776684,ceftazidime,43677207,Clinical Drug,OMOP672057,43677207,Ceftazidime 908 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,44176402,Clinical Drug,OMOP3053125,44176402,Ceftazidime 50 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1790868,amikacin,19104636,Clinical Drug,415863,19104636,amikacin 2 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,19104639,Clinical Drug,415866,19104639,amikacin 3.2 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,35604628,Clinical Drug,1727175,35604628,amikacin 50 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+19048999,fomivirsen,40058455,Clinical Drug Form,372265,40058455,fomivirsen Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+19080982,ranibizumab,702211,Clinical Drug,2584858,702211,ranibizumab 100 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+19080982,ranibizumab,41146807,Clinical Drug,OMOP2344769,41146807,ranibizumab 43.5 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1717240,amphotericin B,40747350,Clinical Drug,OMOP4709849,40747350,amphotericin B liposomal 50 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,19077574,Clinical Drug,310442,19077574,ganciclovir 500 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1757803,ganciclovir,35859646,Clinical Drug,OMOP5016246,35859646,ganciclovir 150 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,35860137,Clinical Drug,OMOP5016294,35860137,ganciclovir 20 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,35860152,Clinical Drug,OMOP5016310,35860152,ganciclovir 1 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1757803,ganciclovir,36892706,Clinical Drug,OMOP991966,36892706,Ganciclovir 0.0015 MG/MG Ophthalmic Cream,Drug,V,Valid,S,Standard,RxNorm Extension,19082576,Ophthalmic Cream
+1757803,ganciclovir,40047166,Clinical Drug Form,393324,40047166,ganciclovir Ophthalmic Gel,Drug,V,Valid,S,Standard,RxNorm,19082166,Ophthalmic Gel
+1776684,ceftazidime,35859359,Clinical Drug,OMOP5015641,35859359,ceftazidime 750 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,36893785,Clinical Drug,OMOP996716,36893785,Ceftazidime 1160 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,46275516,Clinical Drug,1659283,46275516,ceftazidime 1000 MG Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1790868,amikacin,19104631,Clinical Drug,415858,19104631,amikacin 4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,19104634,Clinical Drug,415861,19104634,amikacin 4.4 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,19104637,Clinical Drug,415864,19104637,amikacin 3 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,36267531,Clinical Drug,OMOP3118406,36267531,Amikacin 10 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+19080982,ranibizumab,741652,Clinical Drug,2612685,741652,ranibizumab-eqrn 10 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1757803,ganciclovir,43713487,Clinical Drug,OMOP683341,43713487,Ganciclovir 1 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1759013,faricimab,1759020,Clinical Drug Form,2591587,1759020,faricimab Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1776684,ceftazidime,35603136,Clinical Drug Form,1718938,35603136,avibactam / ceftazidime Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+1776684,ceftazidime,40962012,Clinical Drug,OMOP2159974,40962012,Ceftazidime 25 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1790868,amikacin,43036837,Clinical Drug,OMOP4851877,43036837,Amikacin 500 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+19080982,ranibizumab,590494,Clinical Drug,OMOP3137910,590494,ranibizumab 13 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+19080982,ranibizumab,40927722,Clinical Drug,OMOP2125684,40927722,ranibizumab 10 MG/ML Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1707687,vancomycin,43185377,Clinical Drug Form,OMOP440487,43185377,Vancomycin Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1714277,voriconazole,42714114,Clinical Drug,OMOP2725831,42714114,voriconazole 0.985 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1717240,amphotericin B,36787699,Clinical Drug Form,OMOP4775962,36787699,amphotericin B lipid complex Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1717240,amphotericin B,44098081,Clinical Drug,OMOP1092712,44098081,Amphotericin B 100 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1724700,foscarnet,36880112,Clinical Drug,OMOP1005224,36880112,Foscarnet 24 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,35859650,Clinical Drug,OMOP5016250,35859650,ganciclovir 50 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1757803,ganciclovir,43194140,Clinical Drug,OMOP485469,43194140,Ganciclovir 50 MG/ML Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1776684,ceftazidime,21063747,Clinical Drug,OMOP388787,21063747,Ceftazidime 250 MG Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+1776684,ceftazidime,21132307,Clinical Drug Form,OMOP388743,21132307,Ceftazidime Ophthalmic Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19129634,Ophthalmic Solution
+1776684,ceftazidime,35859355,Clinical Drug,OMOP5015637,35859355,ceftazidime 1500 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,36881126,Clinical Drug,OMOP996510,36881126,Ceftazidime 2330 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,36884924,Clinical Drug,OMOP1002100,36884924,Ceftazidime 0.908 MG/MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1776684,ceftazidime,44058994,Clinical Drug,OMOP1053625,44058994,Ceftazidime 3000 MG Injectable Suspension,Drug,V,Valid,S,Standard,RxNorm Extension,19082104,Injectable Suspension
+1776684,ceftazidime,44084681,Clinical Drug,OMOP1079312,44084681,Ceftazidime 1000 MG Injectable Solution,Drug,V,Valid,S,Standard,RxNorm Extension,19082103,Injectable Solution
+1790868,amikacin,40173554,Clinical Drug,905152,40173554,amikacin sulfate 125 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,40173560,Clinical Drug,905156,40173560,amikacin sulfate 5 MG/ML Injectable Solution,Drug,V,Valid,S,Standard,RxNorm,19082103,Injectable Solution
+1790868,amikacin,42928413,Clinical Drug,OMOP4655208,42928413,Amikacin 200 MG Injection,Drug,V,Valid,S,Standard,RxNorm Extension,46234469,Injection
+19080982,ranibizumab,35603583,Clinical Drug,1724215,35603583,ranibizumab 6 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+37497314,brolucizumab,37497318,Clinical Drug Form,2204919,37497318,brolucizumab Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+19080982,ranibizumab,741645,Clinical Drug,2612676,741645,ranibizumab-eqrn 6 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+37497314,brolucizumab,37497323,Clinical Drug,2204926,37497323,brolucizumab-dbll 120 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
+40244266,aflibercept,1735574,Clinical Drug,2696271,1735574,aflibercept-ayyh 40 MG/ML Injection,Drug,V,Valid,S,Standard,RxNorm,46234469,Injection
